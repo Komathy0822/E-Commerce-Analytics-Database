@@ -60,7 +60,7 @@ The dataset contains **realistic synthetic data** for an online retail store.
 - Customers → Orders (1-to-many)  
 - Products → Orders (1-to-many)  
 
-![ER Diagram](link-to-your-er-diagram.png)  
+![ER Diagram](https://github.com/Komathy0822/E-Commerce-Analytics-Database/blob/main/E-commerce%20analytics%20SQL/image/ER_Diagram.png?raw=true)  
 
 
 ---
