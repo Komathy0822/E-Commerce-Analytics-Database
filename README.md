@@ -67,16 +67,16 @@ The dataset contains **realistic synthetic data** for an online retail store.
 
 
 ## 5. Tools Used
-PostgreSQL 18
-PgAdmin 4
-CSV files for dataset
-SQL for queries and analytics
+- PostgreSQL 18
+- PgAdmin 4
+- CSV files for dataset
+- SQL for queries and analytics
 
 ---
 
 ## 6. Key Learnings / Skills Demonstrated
-Designing relational databases for e-commerce
-Creating tables with primary and foreign keys
-Importing CSV data into PostgreSQL
-Performing SQL analytics: joins, aggregates, group by, order by
-Generating insights for customer behavior, product performance, and sales trends
+- Designing relational databases for e-commerce
+- Creating tables with primary and foreign keys
+- Importing CSV data into PostgreSQL
+- Performing SQL analytics: joins, aggregates, group by, order by
+- Generating insights for customer behavior, product performance, and sales trends
