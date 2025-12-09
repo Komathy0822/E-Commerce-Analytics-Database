@@ -1,0 +1,3901 @@
+Customer ID,Age,Gender,Subscription Status,Location,Previous Purchases,Frequency of Purchases,Payment Method
+1,55,Male,Yes,Kentucky,14,Fortnightly,Credit Card
+2,19,Male,Yes,Maine,2,Fortnightly,Bank Transfer
+3,50,Male,Yes,Massachusetts,23,Weekly,Cash
+4,21,Male,Yes,Rhode Island,49,Weekly,PayPal
+5,45,Male,Yes,Oregon,31,Annually,Cash
+6,46,Male,Yes,Wyoming,14,Weekly,Venmo
+7,63,Male,Yes,Montana,49,Quarterly,Debit Card
+8,27,Male,Yes,Louisiana,19,Weekly,Debit Card
+9,26,Male,Yes,West Virginia,8,Annually,Venmo
+10,57,Male,Yes,Missouri,4,Quarterly,PayPal
+11,53,Male,Yes,Arkansas,26,Bi-Weekly,Credit Card
+12,30,Male,Yes,Hawaii,10,Fortnightly,PayPal
+13,61,Male,Yes,Delaware,37,Fortnightly,PayPal
+14,65,Male,Yes,New Hampshire,31,Weekly,Debit Card
+15,64,Male,Yes,New York,34,Weekly,PayPal
+16,64,Male,Yes,Rhode Island,8,Monthly,Credit Card
+17,25,Male,Yes,Alabama,44,Bi-Weekly,Venmo
+18,53,Male,Yes,Mississippi,36,Quarterly,Debit Card
+19,52,Male,Yes,Montana,17,Weekly,Bank Transfer
+20,66,Male,Yes,Rhode Island,46,Bi-Weekly,Venmo
+21,21,Male,Yes,Louisiana,50,Every 3 Months,Credit Card
+22,31,Male,Yes,North Carolina,22,Quarterly,Credit Card
+23,56,Male,Yes,California,32,Annually,Cash
+24,31,Male,Yes,Oklahoma,40,Weekly,Credit Card
+25,18,Male,Yes,Florida,16,Weekly,Cash
+26,18,Male,Yes,Texas,14,Annually,Bank Transfer
+27,38,Male,Yes,Nevada,13,Annually,Cash
+28,56,Male,Yes,Kentucky,7,Every 3 Months,Debit Card
+29,54,Male,Yes,North Carolina,41,Every 3 Months,Debit Card
+30,31,Male,Yes,Wyoming,14,Weekly,Venmo
+31,57,Male,Yes,North Carolina,16,Monthly,Bank Transfer
+32,33,Male,Yes,West Virginia,45,Monthly,Venmo
+33,36,Male,Yes,Kansas,37,Annually,Bank Transfer
+34,54,Male,Yes,Colorado,45,Quarterly,Venmo
+35,36,Male,Yes,North Dakota,38,Quarterly,Debit Card
+36,54,Male,Yes,Massachusetts,48,Bi-Weekly,Bank Transfer
+37,35,Male,Yes,Illinois,44,Fortnightly,Cash
+38,35,Male,Yes,Indiana,10,Weekly,Debit Card
+39,29,Male,Yes,Florida,44,Every 3 Months,Debit Card
+40,70,Male,Yes,Arizona,18,Monthly,Bank Transfer
+41,69,Male,Yes,Louisiana,31,Quarterly,PayPal
+42,67,Male,Yes,Alaska,40,Annually,Cash
+43,20,Male,Yes,Tennessee,15,Annually,Bank Transfer
+44,25,Male,Yes,Ohio,19,Fortnightly,PayPal
+45,39,Male,Yes,Kentucky,45,Weekly,Bank Transfer
+46,50,Male,Yes,Tennessee,25,Annually,Venmo
+47,57,Male,Yes,California,45,Quarterly,Venmo
+48,55,Male,Yes,Montana,36,Weekly,Debit Card
+49,42,Male,Yes,Nevada,38,Monthly,Debit Card
+50,68,Male,Yes,New Jersey,34,Bi-Weekly,Bank Transfer
+51,49,Male,Yes,Maryland,39,Bi-Weekly,Cash
+52,59,Male,Yes,Vermont,7,Quarterly,PayPal
+53,42,Male,Yes,Alaska,26,Weekly,Credit Card
+54,29,Male,Yes,Mississippi,35,Weekly,Debit Card
+55,47,Male,Yes,New Mexico,35,Bi-Weekly,Bank Transfer
+56,40,Male,Yes,South Carolina,49,Annually,Venmo
+57,41,Male,Yes,Mississippi,46,Weekly,PayPal
+58,21,Male,Yes,West Virginia,17,Fortnightly,PayPal
+59,69,Male,Yes,Missouri,29,Monthly,Credit Card
+60,63,Male,Yes,Louisiana,4,Weekly,Debit Card
+61,50,Male,Yes,Idaho,17,Weekly,Credit Card
+62,55,Male,Yes,Texas,21,Every 3 Months,Bank Transfer
+63,30,Male,Yes,Mississippi,31,Fortnightly,Credit Card
+64,33,Male,Yes,Arizona,43,Weekly,Credit Card
+65,65,Male,Yes,Alabama,18,Fortnightly,PayPal
+66,65,Male,Yes,New Jersey,44,Every 3 Months,Credit Card
+67,31,Male,Yes,Pennsylvania,3,Every 3 Months,Bank Transfer
+68,45,Male,Yes,Connecticut,49,Monthly,PayPal
+69,57,Male,Yes,Utah,21,Every 3 Months,Credit Card
+70,48,Male,Yes,Tennessee,5,Weekly,Credit Card
+71,22,Male,Yes,Alabama,32,Every 3 Months,Credit Card
+72,36,Male,Yes,Virginia,34,Annually,Debit Card
+73,18,Male,Yes,Georgia,21,Every 3 Months,Debit Card
+74,48,Male,Yes,Hawaii,43,Bi-Weekly,Debit Card
+75,49,Male,Yes,Indiana,3,Monthly,PayPal
+76,64,Male,Yes,Utah,21,Annually,Debit Card
+77,50,Male,Yes,Delaware,32,Monthly,Bank Transfer
+78,22,Male,Yes,Delaware,36,Fortnightly,Debit Card
+79,50,Male,Yes,Nebraska,50,Fortnightly,Venmo
+80,38,Male,Yes,Iowa,43,Every 3 Months,Bank Transfer
+81,19,Male,Yes,New York,24,Every 3 Months,Credit Card
+82,67,Male,Yes,Virginia,36,Every 3 Months,PayPal
+83,19,Male,Yes,Georgia,21,Every 3 Months,Bank Transfer
+84,36,Male,Yes,Texas,34,Weekly,Debit Card
+85,52,Male,Yes,Arizona,42,Every 3 Months,Cash
+86,53,Male,Yes,New Mexico,2,Bi-Weekly,Credit Card
+87,24,Male,Yes,Nevada,47,Bi-Weekly,Venmo
+88,52,Male,Yes,Ohio,44,Fortnightly,Debit Card
+89,33,Male,Yes,Wyoming,35,Monthly,Credit Card
+90,47,Male,Yes,California,15,Quarterly,Bank Transfer
+91,25,Male,Yes,South Carolina,29,Monthly,Venmo
+92,44,Male,Yes,South Carolina,18,Every 3 Months,PayPal
+93,61,Male,Yes,Texas,13,Every 3 Months,Cash
+94,37,Male,Yes,Florida,46,Weekly,PayPal
+95,58,Male,Yes,Nevada,28,Weekly,Bank Transfer
+96,37,Male,Yes,Missouri,48,Monthly,PayPal
+97,32,Male,Yes,Delaware,43,Every 3 Months,Venmo
+98,21,Male,Yes,Virginia,37,Annually,PayPal
+99,20,Male,Yes,New York,20,Annually,Cash
+100,26,Male,Yes,Missouri,33,Quarterly,Cash
+101,62,Male,Yes,South Dakota,31,Fortnightly,PayPal
+102,27,Male,Yes,North Dakota,50,Bi-Weekly,Venmo
+103,51,Male,Yes,Oklahoma,35,Quarterly,Credit Card
+104,54,Male,Yes,West Virginia,22,Bi-Weekly,Debit Card
+105,55,Male,Yes,New Hampshire,1,Monthly,Bank Transfer
+106,69,Male,Yes,New York,4,Annually,Bank Transfer
+107,64,Male,Yes,Minnesota,31,Monthly,Cash
+108,28,Male,Yes,Maryland,46,Fortnightly,Cash
+109,70,Male,Yes,Montana,32,Bi-Weekly,Bank Transfer
+110,58,Male,Yes,Alabama,43,Fortnightly,Cash
+111,56,Male,Yes,New York,26,Fortnightly,Bank Transfer
+112,26,Male,Yes,Massachusetts,9,Annually,PayPal
+113,37,Male,Yes,Florida,28,Bi-Weekly,Credit Card
+114,44,Male,Yes,New Jersey,20,Quarterly,Debit Card
+115,70,Male,Yes,Massachusetts,9,Weekly,Venmo
+116,53,Male,Yes,Wyoming,48,Every 3 Months,Cash
+117,55,Male,Yes,Virginia,12,Annually,PayPal
+118,50,Male,Yes,South Dakota,29,Fortnightly,Bank Transfer
+119,50,Male,Yes,Kentucky,27,Bi-Weekly,Bank Transfer
+120,38,Male,Yes,Wyoming,44,Annually,Debit Card
+121,64,Male,Yes,West Virginia,32,Annually,PayPal
+122,19,Male,Yes,Virginia,11,Fortnightly,Cash
+123,40,Male,Yes,Washington,44,Fortnightly,Credit Card
+124,57,Male,Yes,Louisiana,46,Weekly,Debit Card
+125,44,Male,Yes,Nevada,50,Annually,PayPal
+126,49,Male,Yes,California,45,Every 3 Months,Cash
+127,43,Male,Yes,Mississippi,48,Every 3 Months,Bank Transfer
+128,24,Male,Yes,Mississippi,26,Weekly,Venmo
+129,20,Male,Yes,California,21,Fortnightly,Venmo
+130,24,Male,Yes,Pennsylvania,49,Bi-Weekly,Cash
+131,44,Male,Yes,Kentucky,13,Fortnightly,Credit Card
+132,28,Male,Yes,Maine,46,Weekly,PayPal
+133,30,Male,Yes,New Mexico,42,Weekly,Bank Transfer
+134,52,Male,Yes,Montana,25,Annually,Bank Transfer
+135,43,Male,Yes,Texas,25,Monthly,Credit Card
+136,43,Male,Yes,Kansas,12,Quarterly,PayPal
+137,39,Male,Yes,South Carolina,4,Quarterly,Credit Card
+138,68,Male,Yes,Colorado,38,Weekly,Cash
+139,68,Male,Yes,Georgia,42,Weekly,Cash
+140,49,Male,Yes,Florida,30,Annually,Debit Card
+141,63,Male,Yes,North Carolina,50,Weekly,Bank Transfer
+142,56,Male,Yes,Virginia,45,Weekly,PayPal
+143,37,Male,Yes,Nebraska,33,Fortnightly,PayPal
+144,30,Male,Yes,Missouri,25,Quarterly,Bank Transfer
+145,19,Male,Yes,New Jersey,25,Monthly,Credit Card
+146,24,Male,Yes,Missouri,44,Quarterly,Venmo
+147,52,Male,Yes,Colorado,21,Fortnightly,Debit Card
+148,63,Male,Yes,Idaho,31,Fortnightly,Bank Transfer
+149,37,Male,Yes,Wyoming,47,Annually,PayPal
+150,38,Male,Yes,Delaware,14,Monthly,Venmo
+151,35,Male,Yes,California,17,Every 3 Months,Bank Transfer
+152,28,Male,Yes,North Dakota,3,Annually,Debit Card
+153,30,Male,Yes,South Carolina,42,Annually,PayPal
+154,69,Male,Yes,North Carolina,22,Annually,Debit Card
+155,41,Male,Yes,Oklahoma,21,Quarterly,Debit Card
+156,63,Male,Yes,Maine,21,Quarterly,Cash
+157,35,Male,Yes,Missouri,40,Annually,Venmo
+158,36,Male,Yes,Vermont,1,Fortnightly,Debit Card
+159,25,Male,Yes,Connecticut,50,Monthly,Bank Transfer
+160,58,Male,Yes,New Hampshire,39,Every 3 Months,Debit Card
+161,27,Male,Yes,Texas,34,Monthly,Bank Transfer
+162,65,Male,Yes,North Dakota,29,Fortnightly,Venmo
+163,54,Male,Yes,California,31,Bi-Weekly,Credit Card
+164,54,Male,Yes,Virginia,8,Weekly,PayPal
+165,59,Male,Yes,Delaware,5,Fortnightly,Debit Card
+166,42,Male,Yes,Kentucky,7,Monthly,Credit Card
+167,46,Male,Yes,Delaware,30,Monthly,Cash
+168,33,Male,Yes,Arkansas,14,Every 3 Months,Venmo
+169,34,Male,Yes,Louisiana,5,Fortnightly,Bank Transfer
+170,27,Male,Yes,Nevada,3,Every 3 Months,Credit Card
+171,52,Male,Yes,Wyoming,46,Bi-Weekly,Venmo
+172,29,Male,Yes,Virginia,4,Weekly,Debit Card
+173,54,Male,Yes,Nebraska,42,Bi-Weekly,Bank Transfer
+174,25,Male,Yes,Hawaii,30,Annually,PayPal
+175,41,Male,Yes,Vermont,37,Annually,Venmo
+176,53,Male,Yes,Oklahoma,2,Annually,Debit Card
+177,53,Male,Yes,New Hampshire,30,Quarterly,Bank Transfer
+178,21,Male,Yes,Kansas,47,Monthly,Debit Card
+179,61,Male,Yes,Idaho,21,Quarterly,Debit Card
+180,64,Male,Yes,Illinois,9,Fortnightly,Debit Card
+181,51,Male,Yes,South Dakota,12,Fortnightly,Cash
+182,32,Male,Yes,Massachusetts,4,Weekly,Venmo
+183,38,Male,Yes,Alabama,10,Annually,Venmo
+184,58,Male,Yes,Ohio,26,Weekly,Bank Transfer
+185,32,Male,Yes,Hawaii,40,Fortnightly,Cash
+186,46,Male,Yes,Wisconsin,34,Fortnightly,Bank Transfer
+187,39,Male,Yes,Minnesota,31,Annually,Debit Card
+188,19,Male,Yes,Georgia,1,Bi-Weekly,Credit Card
+189,50,Male,Yes,Arkansas,5,Bi-Weekly,Credit Card
+190,36,Male,Yes,West Virginia,4,Weekly,Venmo
+191,65,Male,Yes,Indiana,48,Quarterly,Venmo
+192,64,Male,Yes,Utah,29,Every 3 Months,Credit Card
+193,46,Male,Yes,Nebraska,12,Bi-Weekly,Venmo
+194,36,Male,Yes,North Dakota,29,Annually,PayPal
+195,51,Male,Yes,Missouri,15,Quarterly,Venmo
+196,51,Male,Yes,New York,34,Monthly,Credit Card
+197,38,Male,Yes,Washington,41,Fortnightly,Cash
+198,59,Male,Yes,South Carolina,41,Monthly,Debit Card
+199,57,Male,Yes,Utah,39,Fortnightly,Cash
+200,54,Male,Yes,Idaho,32,Weekly,Debit Card
+201,25,Male,Yes,Pennsylvania,29,Monthly,PayPal
+202,69,Male,Yes,Missouri,15,Annually,Bank Transfer
+203,57,Male,Yes,Nebraska,33,Annually,Bank Transfer
+204,70,Male,Yes,Indiana,18,Weekly,PayPal
+205,24,Male,Yes,Arizona,35,Bi-Weekly,PayPal
+206,67,Male,Yes,Hawaii,25,Weekly,Bank Transfer
+207,24,Male,Yes,Wisconsin,6,Fortnightly,Venmo
+208,62,Male,Yes,Rhode Island,17,Bi-Weekly,Venmo
+209,57,Male,Yes,Wisconsin,17,Monthly,Cash
+210,55,Male,Yes,Minnesota,44,Every 3 Months,Bank Transfer
+211,45,Male,Yes,Vermont,6,Fortnightly,Venmo
+212,69,Male,Yes,South Dakota,45,Fortnightly,Venmo
+213,67,Male,Yes,Virginia,7,Annually,Venmo
+214,30,Male,Yes,Nevada,11,Every 3 Months,Cash
+215,24,Male,Yes,Hawaii,41,Every 3 Months,Cash
+216,62,Male,Yes,New Jersey,24,Bi-Weekly,Bank Transfer
+217,43,Male,Yes,Massachusetts,21,Weekly,Cash
+218,35,Male,Yes,Oklahoma,24,Annually,Venmo
+219,28,Male,Yes,California,8,Quarterly,Credit Card
+220,32,Male,Yes,Nevada,12,Fortnightly,Venmo
+221,39,Male,Yes,Arizona,48,Fortnightly,Debit Card
+222,28,Male,Yes,North Carolina,6,Quarterly,Debit Card
+223,47,Male,Yes,New York,14,Fortnightly,Venmo
+224,20,Male,Yes,Wyoming,34,Annually,Venmo
+225,63,Male,Yes,South Dakota,12,Every 3 Months,PayPal
+226,25,Male,Yes,Arkansas,11,Annually,Debit Card
+227,29,Male,Yes,Texas,5,Monthly,Cash
+228,50,Male,Yes,Rhode Island,25,Fortnightly,Venmo
+229,18,Male,Yes,New Hampshire,11,Annually,Credit Card
+230,70,Male,Yes,Ohio,27,Every 3 Months,Cash
+231,66,Male,Yes,Utah,43,Annually,Venmo
+232,28,Male,Yes,Tennessee,18,Every 3 Months,Bank Transfer
+233,54,Male,Yes,Hawaii,32,Bi-Weekly,Bank Transfer
+234,19,Male,Yes,Arizona,27,Every 3 Months,PayPal
+235,20,Male,Yes,South Dakota,24,Weekly,PayPal
+236,43,Male,Yes,New Jersey,31,Quarterly,Cash
+237,38,Male,Yes,North Dakota,39,Fortnightly,Debit Card
+238,50,Male,Yes,Iowa,36,Fortnightly,Venmo
+239,64,Male,Yes,Ohio,5,Annually,Debit Card
+240,49,Male,Yes,Vermont,47,Bi-Weekly,PayPal
+241,47,Male,Yes,Montana,29,Fortnightly,Credit Card
+242,36,Male,Yes,Delaware,43,Bi-Weekly,PayPal
+243,55,Male,Yes,New York,40,Every 3 Months,Credit Card
+244,25,Male,Yes,Kentucky,4,Monthly,Credit Card
+245,53,Male,Yes,Oregon,39,Weekly,Debit Card
+246,49,Male,Yes,Rhode Island,45,Fortnightly,Cash
+247,35,Male,Yes,Nevada,20,Bi-Weekly,Credit Card
+248,29,Male,Yes,Montana,14,Weekly,Credit Card
+249,47,Male,Yes,Pennsylvania,33,Weekly,Venmo
+250,53,Male,Yes,Alaska,18,Annually,Cash
+251,33,Male,Yes,Mississippi,9,Weekly,Debit Card
+252,21,Male,Yes,Wyoming,34,Annually,PayPal
+253,32,Male,Yes,Delaware,33,Fortnightly,Cash
+254,52,Male,Yes,Oklahoma,15,Bi-Weekly,PayPal
+255,67,Male,Yes,Indiana,4,Bi-Weekly,Credit Card
+256,43,Male,Yes,Maryland,25,Annually,Debit Card
+257,58,Male,Yes,South Dakota,20,Every 3 Months,Venmo
+258,20,Male,Yes,West Virginia,5,Quarterly,PayPal
+259,61,Male,Yes,Alabama,16,Quarterly,Venmo
+260,32,Male,Yes,Louisiana,13,Annually,Credit Card
+261,38,Male,Yes,Montana,11,Every 3 Months,Bank Transfer
+262,21,Male,Yes,California,21,Annually,Cash
+263,37,Male,Yes,Hawaii,6,Annually,Cash
+264,27,Male,Yes,Iowa,29,Monthly,Credit Card
+265,36,Male,Yes,Colorado,15,Annually,Venmo
+266,32,Male,Yes,Michigan,17,Bi-Weekly,Venmo
+267,51,Male,Yes,Louisiana,32,Weekly,Cash
+268,64,Male,Yes,Maryland,42,Annually,Venmo
+269,68,Male,Yes,Georgia,21,Monthly,Venmo
+270,68,Male,Yes,Georgia,9,Bi-Weekly,PayPal
+271,33,Male,Yes,North Dakota,16,Annually,Debit Card
+272,65,Male,Yes,Maryland,42,Fortnightly,Credit Card
+273,48,Male,Yes,Oregon,37,Bi-Weekly,PayPal
+274,69,Male,Yes,North Dakota,32,Quarterly,Cash
+275,59,Male,Yes,Maryland,28,Bi-Weekly,Credit Card
+276,48,Male,Yes,Virginia,13,Weekly,Debit Card
+277,25,Male,Yes,South Dakota,11,Fortnightly,Debit Card
+278,29,Male,Yes,Georgia,36,Bi-Weekly,Credit Card
+279,57,Male,Yes,Hawaii,23,Annually,Bank Transfer
+280,23,Male,Yes,Arkansas,37,Monthly,Credit Card
+281,45,Male,Yes,Montana,21,Bi-Weekly,Debit Card
+282,38,Male,Yes,Oklahoma,22,Bi-Weekly,Bank Transfer
+283,21,Male,Yes,Minnesota,9,Monthly,Debit Card
+284,32,Male,Yes,Montana,16,Annually,Debit Card
+285,63,Male,Yes,Ohio,4,Quarterly,PayPal
+286,29,Male,Yes,Kentucky,3,Bi-Weekly,Credit Card
+287,27,Male,Yes,Nebraska,6,Annually,Cash
+288,56,Male,Yes,Delaware,18,Fortnightly,Cash
+289,30,Male,Yes,North Carolina,34,Bi-Weekly,Credit Card
+290,49,Male,Yes,New York,26,Monthly,Debit Card
+291,58,Male,Yes,Colorado,50,Weekly,Bank Transfer
+292,57,Male,Yes,Delaware,40,Monthly,Credit Card
+293,60,Male,Yes,Utah,24,Quarterly,Credit Card
+294,69,Male,Yes,Connecticut,33,Annually,PayPal
+295,70,Male,Yes,New Jersey,19,Every 3 Months,Cash
+296,53,Male,Yes,West Virginia,24,Quarterly,Venmo
+297,25,Male,Yes,Indiana,19,Weekly,PayPal
+298,48,Male,Yes,Delaware,4,Bi-Weekly,Bank Transfer
+299,69,Male,Yes,Maryland,11,Every 3 Months,Cash
+300,25,Male,Yes,Pennsylvania,28,Fortnightly,Credit Card
+301,29,Male,Yes,Iowa,24,Weekly,Cash
+302,46,Male,Yes,Pennsylvania,25,Every 3 Months,Debit Card
+303,37,Male,Yes,Delaware,27,Every 3 Months,Venmo
+304,20,Male,Yes,Oregon,49,Weekly,Cash
+305,40,Male,Yes,Oregon,45,Bi-Weekly,Venmo
+306,60,Male,Yes,Utah,26,Annually,Debit Card
+307,26,Male,Yes,North Dakota,4,Annually,Debit Card
+308,29,Male,Yes,Florida,3,Every 3 Months,Cash
+309,66,Male,Yes,Maryland,45,Bi-Weekly,Bank Transfer
+310,66,Male,Yes,Minnesota,21,Fortnightly,Bank Transfer
+311,56,Male,Yes,Montana,50,Fortnightly,Debit Card
+312,69,Male,Yes,Rhode Island,19,Monthly,Debit Card
+313,38,Male,Yes,Massachusetts,6,Annually,Bank Transfer
+314,42,Male,Yes,Vermont,50,Every 3 Months,PayPal
+315,30,Male,Yes,New Jersey,17,Every 3 Months,PayPal
+316,66,Male,Yes,Wisconsin,24,Annually,Venmo
+317,36,Male,Yes,California,46,Monthly,Bank Transfer
+318,58,Male,Yes,West Virginia,42,Every 3 Months,Bank Transfer
+319,45,Male,Yes,South Dakota,10,Annually,PayPal
+320,47,Male,Yes,Maine,1,Every 3 Months,Venmo
+321,66,Male,Yes,Kansas,28,Quarterly,PayPal
+322,41,Male,Yes,Vermont,48,Quarterly,Credit Card
+323,41,Male,Yes,Tennessee,47,Monthly,Credit Card
+324,66,Male,Yes,Tennessee,29,Bi-Weekly,Venmo
+325,37,Male,Yes,Wyoming,37,Quarterly,Credit Card
+326,70,Male,Yes,Vermont,38,Annually,Debit Card
+327,62,Male,Yes,New Jersey,48,Weekly,Cash
+328,61,Male,Yes,Iowa,36,Weekly,PayPal
+329,48,Male,Yes,Florida,9,Weekly,Debit Card
+330,70,Male,Yes,Nevada,34,Monthly,Debit Card
+331,46,Male,Yes,North Dakota,43,Bi-Weekly,Bank Transfer
+332,31,Male,Yes,Florida,46,Quarterly,Credit Card
+333,19,Male,Yes,New York,5,Monthly,Cash
+334,39,Male,Yes,Alaska,15,Bi-Weekly,Cash
+335,41,Male,Yes,Kansas,30,Annually,PayPal
+336,20,Male,Yes,Oregon,44,Every 3 Months,Cash
+337,36,Male,Yes,Rhode Island,16,Annually,Debit Card
+338,32,Male,Yes,New Mexico,16,Annually,Cash
+339,69,Male,Yes,Massachusetts,16,Weekly,Venmo
+340,40,Male,Yes,Pennsylvania,21,Every 3 Months,Credit Card
+341,40,Male,Yes,New Jersey,39,Every 3 Months,Cash
+342,20,Male,Yes,Utah,40,Bi-Weekly,Credit Card
+343,64,Male,Yes,Kentucky,48,Every 3 Months,Bank Transfer
+344,27,Male,Yes,Nebraska,26,Monthly,Cash
+345,24,Male,Yes,Virginia,46,Monthly,PayPal
+346,48,Male,Yes,Wyoming,27,Annually,Cash
+347,49,Male,Yes,New Mexico,5,Weekly,Credit Card
+348,36,Male,Yes,Oregon,43,Fortnightly,Credit Card
+349,56,Male,Yes,South Carolina,17,Fortnightly,Bank Transfer
+350,37,Male,Yes,Arizona,3,Bi-Weekly,Cash
+351,42,Male,Yes,Kentucky,47,Fortnightly,Venmo
+352,28,Male,Yes,New York,24,Bi-Weekly,Cash
+353,27,Male,Yes,Texas,12,Every 3 Months,Venmo
+354,63,Male,Yes,Missouri,35,Monthly,Credit Card
+355,58,Male,Yes,Pennsylvania,42,Weekly,PayPal
+356,37,Male,Yes,Oregon,1,Every 3 Months,Credit Card
+357,56,Male,Yes,Nevada,27,Weekly,Debit Card
+358,18,Male,Yes,Arkansas,16,Bi-Weekly,Bank Transfer
+359,48,Male,Yes,Minnesota,36,Every 3 Months,Debit Card
+360,31,Male,Yes,Georgia,30,Every 3 Months,Debit Card
+361,51,Male,Yes,Rhode Island,18,Fortnightly,Bank Transfer
+362,65,Male,Yes,Nevada,45,Annually,Bank Transfer
+363,53,Male,Yes,Texas,1,Fortnightly,Cash
+364,55,Male,Yes,Florida,42,Fortnightly,Cash
+365,62,Male,Yes,North Dakota,7,Every 3 Months,Debit Card
+366,55,Male,Yes,West Virginia,50,Quarterly,PayPal
+367,64,Male,Yes,Nebraska,37,Fortnightly,Bank Transfer
+368,52,Male,Yes,Tennessee,18,Monthly,Credit Card
+369,24,Male,Yes,Oklahoma,29,Monthly,Venmo
+370,38,Male,Yes,Wisconsin,45,Quarterly,Cash
+371,59,Male,Yes,Oregon,13,Weekly,Credit Card
+372,27,Male,Yes,North Carolina,47,Monthly,Bank Transfer
+373,24,Male,Yes,Pennsylvania,7,Weekly,Credit Card
+374,23,Male,Yes,North Dakota,11,Bi-Weekly,Bank Transfer
+375,69,Male,Yes,Ohio,39,Monthly,Bank Transfer
+376,59,Male,Yes,Oklahoma,6,Quarterly,Debit Card
+377,51,Male,Yes,South Carolina,2,Bi-Weekly,PayPal
+378,63,Male,Yes,Maine,39,Every 3 Months,Debit Card
+379,54,Male,Yes,Nevada,23,Monthly,Cash
+380,32,Male,Yes,Montana,46,Bi-Weekly,Debit Card
+381,39,Male,Yes,New Hampshire,19,Weekly,PayPal
+382,66,Male,Yes,Maine,3,Every 3 Months,Debit Card
+383,28,Male,Yes,California,47,Quarterly,PayPal
+384,50,Male,Yes,West Virginia,6,Quarterly,Credit Card
+385,70,Male,Yes,California,6,Annually,Credit Card
+386,67,Male,Yes,West Virginia,12,Bi-Weekly,Credit Card
+387,64,Male,Yes,Louisiana,40,Quarterly,Cash
+388,45,Male,Yes,Georgia,38,Fortnightly,Cash
+389,22,Male,Yes,Washington,10,Quarterly,Credit Card
+390,27,Male,Yes,Virginia,28,Monthly,Venmo
+391,25,Male,Yes,Indiana,19,Annually,Debit Card
+392,37,Male,Yes,Minnesota,25,Fortnightly,Cash
+393,26,Male,Yes,Idaho,38,Annually,PayPal
+394,33,Male,Yes,Vermont,6,Fortnightly,Credit Card
+395,43,Male,Yes,North Dakota,7,Bi-Weekly,PayPal
+396,37,Male,Yes,Rhode Island,2,Annually,Cash
+397,46,Male,Yes,South Carolina,24,Annually,Bank Transfer
+398,22,Male,Yes,Mississippi,26,Annually,Venmo
+399,20,Male,Yes,Montana,25,Every 3 Months,PayPal
+400,60,Male,Yes,Idaho,10,Monthly,Credit Card
+401,39,Male,Yes,Utah,14,Fortnightly,Venmo
+402,43,Male,Yes,Oklahoma,21,Quarterly,Bank Transfer
+403,31,Male,Yes,California,26,Monthly,PayPal
+404,19,Male,Yes,Nevada,12,Annually,Credit Card
+405,35,Male,Yes,Delaware,11,Monthly,Credit Card
+406,41,Male,Yes,South Carolina,15,Annually,Debit Card
+407,52,Male,Yes,Maryland,13,Monthly,Debit Card
+408,45,Male,Yes,North Carolina,5,Bi-Weekly,Debit Card
+409,34,Male,Yes,Alabama,36,Fortnightly,Credit Card
+410,35,Male,Yes,Minnesota,32,Monthly,Debit Card
+411,29,Male,Yes,Virginia,1,Quarterly,Debit Card
+412,59,Male,Yes,Michigan,15,Annually,Cash
+413,24,Male,Yes,Maine,3,Weekly,Venmo
+414,70,Male,Yes,Nevada,48,Monthly,Debit Card
+415,29,Male,Yes,Wyoming,30,Weekly,Bank Transfer
+416,67,Male,Yes,Connecticut,40,Monthly,Venmo
+417,36,Male,Yes,Oregon,24,Fortnightly,Bank Transfer
+418,23,Male,Yes,Mississippi,48,Quarterly,PayPal
+419,18,Male,Yes,Illinois,27,Bi-Weekly,Cash
+420,53,Male,Yes,Utah,14,Every 3 Months,Credit Card
+421,32,Male,Yes,North Carolina,18,Bi-Weekly,Credit Card
+422,38,Male,Yes,Kentucky,48,Bi-Weekly,Cash
+423,47,Male,Yes,Minnesota,32,Annually,Bank Transfer
+424,46,Male,Yes,New York,21,Bi-Weekly,Bank Transfer
+425,66,Male,Yes,Illinois,42,Fortnightly,Credit Card
+426,40,Male,Yes,North Dakota,4,Quarterly,Debit Card
+427,43,Male,Yes,Louisiana,19,Quarterly,Cash
+428,58,Male,Yes,Illinois,6,Quarterly,Cash
+429,21,Male,Yes,Wyoming,2,Fortnightly,Venmo
+430,42,Male,Yes,Washington,21,Fortnightly,Venmo
+431,24,Male,Yes,Texas,40,Annually,Debit Card
+432,43,Male,Yes,New Hampshire,33,Fortnightly,Credit Card
+433,47,Male,Yes,Indiana,26,Weekly,Debit Card
+434,49,Male,Yes,Alabama,23,Fortnightly,Bank Transfer
+435,50,Male,Yes,Oklahoma,39,Every 3 Months,Bank Transfer
+436,51,Male,Yes,Montana,42,Monthly,PayPal
+437,40,Male,Yes,Tennessee,41,Weekly,Cash
+438,45,Male,Yes,New Mexico,41,Annually,Credit Card
+439,52,Male,Yes,Iowa,12,Fortnightly,Cash
+440,62,Male,Yes,Idaho,31,Monthly,PayPal
+441,20,Male,Yes,Oklahoma,34,Fortnightly,Debit Card
+442,43,Male,Yes,Florida,32,Annually,Bank Transfer
+443,29,Male,Yes,Michigan,31,Quarterly,Bank Transfer
+444,22,Male,Yes,Hawaii,24,Annually,PayPal
+445,48,Male,Yes,California,31,Annually,Debit Card
+446,42,Male,Yes,Iowa,18,Annually,Bank Transfer
+447,19,Male,Yes,West Virginia,15,Monthly,Bank Transfer
+448,60,Male,Yes,Washington,7,Every 3 Months,Venmo
+449,32,Male,Yes,Missouri,35,Fortnightly,Credit Card
+450,26,Male,Yes,New York,35,Monthly,PayPal
+451,25,Male,Yes,Connecticut,19,Monthly,Venmo
+452,66,Male,Yes,Virginia,26,Fortnightly,Cash
+453,45,Male,Yes,Missouri,39,Fortnightly,Debit Card
+454,54,Male,Yes,Nebraska,22,Weekly,Cash
+455,37,Male,Yes,New Jersey,14,Bi-Weekly,Debit Card
+456,54,Male,Yes,Utah,50,Fortnightly,Credit Card
+457,50,Male,Yes,North Carolina,33,Quarterly,Bank Transfer
+458,25,Male,Yes,Rhode Island,48,Every 3 Months,Credit Card
+459,47,Male,Yes,Arkansas,48,Monthly,Debit Card
+460,63,Male,Yes,Maryland,27,Fortnightly,Debit Card
+461,64,Male,Yes,South Carolina,27,Weekly,Venmo
+462,18,Male,Yes,Ohio,20,Weekly,Cash
+463,59,Male,Yes,Illinois,48,Every 3 Months,Debit Card
+464,37,Male,Yes,Georgia,29,Weekly,Venmo
+465,23,Male,Yes,Alabama,45,Monthly,PayPal
+466,54,Male,Yes,Oklahoma,25,Quarterly,Cash
+467,38,Male,Yes,Vermont,25,Weekly,Credit Card
+468,19,Male,Yes,Nebraska,37,Every 3 Months,Credit Card
+469,34,Male,Yes,Georgia,16,Quarterly,Bank Transfer
+470,21,Male,Yes,Alabama,30,Bi-Weekly,Debit Card
+471,50,Male,Yes,Minnesota,6,Every 3 Months,Cash
+472,55,Male,Yes,Missouri,36,Quarterly,Credit Card
+473,20,Male,Yes,Georgia,3,Quarterly,Cash
+474,34,Male,Yes,West Virginia,29,Every 3 Months,Venmo
+475,62,Male,Yes,Arkansas,15,Quarterly,Debit Card
+476,21,Male,Yes,Ohio,18,Annually,Cash
+477,21,Male,Yes,Connecticut,2,Fortnightly,Venmo
+478,42,Male,Yes,North Dakota,49,Weekly,Credit Card
+479,35,Male,Yes,Kansas,48,Annually,Debit Card
+480,39,Male,Yes,Iowa,43,Monthly,Bank Transfer
+481,68,Male,Yes,Vermont,30,Bi-Weekly,Credit Card
+482,46,Male,Yes,Wisconsin,10,Fortnightly,PayPal
+483,41,Male,Yes,Connecticut,11,Annually,PayPal
+484,23,Male,Yes,Oklahoma,12,Weekly,Venmo
+485,68,Male,Yes,Missouri,28,Quarterly,Credit Card
+486,48,Male,Yes,Tennessee,36,Fortnightly,Debit Card
+487,38,Male,Yes,New Mexico,37,Every 3 Months,Debit Card
+488,41,Male,Yes,Iowa,22,Quarterly,Credit Card
+489,58,Male,Yes,Maine,32,Weekly,Venmo
+490,49,Male,Yes,South Dakota,40,Annually,Venmo
+491,57,Male,Yes,Colorado,47,Monthly,PayPal
+492,49,Male,Yes,Vermont,24,Bi-Weekly,Bank Transfer
+493,50,Male,Yes,Michigan,11,Weekly,PayPal
+494,28,Male,Yes,Nevada,19,Bi-Weekly,Debit Card
+495,38,Male,Yes,Indiana,42,Weekly,PayPal
+496,33,Male,Yes,Michigan,6,Fortnightly,Credit Card
+497,30,Male,Yes,California,31,Fortnightly,Venmo
+498,43,Male,Yes,Oklahoma,31,Weekly,Bank Transfer
+499,43,Male,Yes,Iowa,27,Monthly,PayPal
+500,36,Male,Yes,Rhode Island,24,Monthly,Credit Card
+501,36,Male,Yes,Washington,35,Every 3 Months,Bank Transfer
+502,64,Male,Yes,Florida,21,Annually,Debit Card
+503,59,Male,Yes,South Carolina,8,Fortnightly,Cash
+504,55,Male,Yes,West Virginia,26,Quarterly,Credit Card
+505,42,Male,Yes,Missouri,26,Annually,Bank Transfer
+506,61,Male,Yes,Maine,9,Bi-Weekly,Credit Card
+507,28,Male,Yes,Georgia,48,Annually,Cash
+508,65,Male,Yes,Maine,33,Fortnightly,Bank Transfer
+509,27,Male,Yes,Illinois,31,Quarterly,Cash
+510,41,Male,Yes,Delaware,17,Weekly,Bank Transfer
+511,21,Male,Yes,West Virginia,22,Annually,Credit Card
+512,61,Male,Yes,Hawaii,8,Annually,Debit Card
+513,19,Male,Yes,New York,2,Monthly,Credit Card
+514,22,Male,Yes,New Mexico,45,Annually,PayPal
+515,64,Male,Yes,Indiana,47,Quarterly,Debit Card
+516,28,Male,Yes,Kentucky,7,Monthly,Credit Card
+517,34,Male,Yes,West Virginia,19,Bi-Weekly,Cash
+518,61,Male,Yes,North Dakota,44,Every 3 Months,Debit Card
+519,24,Male,Yes,Oregon,16,Every 3 Months,PayPal
+520,19,Male,Yes,Minnesota,17,Quarterly,Cash
+521,51,Male,Yes,South Carolina,20,Quarterly,Bank Transfer
+522,36,Male,Yes,Vermont,50,Annually,Credit Card
+523,65,Male,Yes,Minnesota,37,Quarterly,PayPal
+524,46,Male,Yes,Delaware,5,Quarterly,Cash
+525,59,Male,Yes,Pennsylvania,44,Annually,Venmo
+526,51,Male,Yes,Iowa,41,Monthly,Credit Card
+527,51,Male,Yes,New Jersey,19,Monthly,Cash
+528,21,Male,Yes,South Carolina,47,Every 3 Months,Bank Transfer
+529,34,Male,Yes,Maryland,40,Annually,Venmo
+530,32,Male,Yes,California,6,Monthly,Cash
+531,48,Male,Yes,Montana,25,Bi-Weekly,Venmo
+532,50,Male,Yes,Vermont,42,Weekly,Bank Transfer
+533,26,Male,Yes,Texas,35,Every 3 Months,Bank Transfer
+534,57,Male,Yes,North Carolina,17,Weekly,PayPal
+535,65,Male,Yes,Florida,4,Quarterly,Bank Transfer
+536,56,Male,Yes,West Virginia,24,Weekly,Credit Card
+537,44,Male,Yes,Illinois,16,Every 3 Months,Debit Card
+538,50,Male,Yes,Virginia,14,Annually,Credit Card
+539,27,Male,Yes,Virginia,43,Weekly,PayPal
+540,49,Male,Yes,Wyoming,49,Weekly,Cash
+541,49,Male,Yes,South Carolina,33,Every 3 Months,Venmo
+542,52,Male,Yes,Connecticut,45,Bi-Weekly,Bank Transfer
+543,27,Male,Yes,Illinois,35,Bi-Weekly,Venmo
+544,53,Male,Yes,Alabama,11,Monthly,Debit Card
+545,34,Male,Yes,Washington,30,Every 3 Months,Cash
+546,33,Male,Yes,Alabama,48,Annually,Bank Transfer
+547,62,Male,Yes,New Mexico,45,Bi-Weekly,Cash
+548,38,Male,Yes,Nevada,26,Weekly,Debit Card
+549,36,Male,Yes,Nebraska,41,Every 3 Months,PayPal
+550,31,Male,Yes,Arizona,37,Bi-Weekly,Cash
+551,62,Male,Yes,Georgia,12,Weekly,Cash
+552,29,Male,Yes,Idaho,27,Bi-Weekly,Venmo
+553,24,Male,Yes,Missouri,18,Weekly,Bank Transfer
+554,63,Male,Yes,Florida,15,Quarterly,Venmo
+555,56,Male,Yes,Minnesota,34,Weekly,PayPal
+556,63,Male,Yes,Maine,37,Annually,Bank Transfer
+557,40,Male,Yes,Montana,21,Fortnightly,Credit Card
+558,18,Male,Yes,Alaska,31,Weekly,PayPal
+559,50,Male,Yes,Iowa,43,Every 3 Months,Venmo
+560,66,Male,Yes,Arizona,22,Monthly,Bank Transfer
+561,25,Male,Yes,Louisiana,12,Annually,PayPal
+562,65,Male,Yes,Alabama,25,Fortnightly,Credit Card
+563,53,Male,Yes,Missouri,40,Annually,PayPal
+564,61,Male,Yes,Idaho,16,Quarterly,PayPal
+565,67,Male,Yes,Florida,30,Weekly,Cash
+566,59,Male,Yes,Idaho,10,Weekly,Bank Transfer
+567,55,Male,Yes,Alabama,1,Fortnightly,PayPal
+568,21,Male,Yes,New Hampshire,24,Fortnightly,Venmo
+569,44,Male,Yes,Utah,36,Monthly,Bank Transfer
+570,65,Male,Yes,Alabama,46,Every 3 Months,PayPal
+571,65,Male,Yes,Iowa,20,Annually,Credit Card
+572,54,Male,Yes,Kentucky,37,Weekly,Venmo
+573,56,Male,Yes,South Carolina,26,Annually,Credit Card
+574,58,Male,Yes,California,23,Bi-Weekly,Cash
+575,54,Male,Yes,Maine,20,Bi-Weekly,PayPal
+576,58,Male,Yes,Nebraska,38,Monthly,Venmo
+577,48,Male,Yes,Washington,5,Every 3 Months,Venmo
+578,19,Male,Yes,Alabama,41,Annually,PayPal
+579,69,Male,Yes,Maine,22,Fortnightly,Debit Card
+580,58,Male,Yes,California,48,Annually,Debit Card
+581,49,Male,Yes,Iowa,10,Weekly,PayPal
+582,32,Male,Yes,Iowa,12,Every 3 Months,Credit Card
+583,40,Male,Yes,Colorado,2,Quarterly,Debit Card
+584,25,Male,Yes,California,38,Monthly,PayPal
+585,70,Male,Yes,Indiana,20,Monthly,PayPal
+586,69,Male,Yes,South Carolina,5,Every 3 Months,Credit Card
+587,45,Male,Yes,Wisconsin,9,Annually,Venmo
+588,29,Male,Yes,Washington,48,Every 3 Months,PayPal
+589,47,Male,Yes,South Dakota,9,Quarterly,Debit Card
+590,28,Male,Yes,Minnesota,40,Annually,Debit Card
+591,64,Male,Yes,Alaska,30,Fortnightly,Credit Card
+592,47,Male,Yes,Kentucky,6,Bi-Weekly,Credit Card
+593,60,Male,Yes,North Dakota,42,Every 3 Months,Venmo
+594,67,Male,Yes,Alaska,9,Every 3 Months,Cash
+595,35,Male,Yes,Oklahoma,6,Monthly,Cash
+596,30,Male,Yes,Delaware,47,Quarterly,Credit Card
+597,23,Male,Yes,Montana,36,Annually,PayPal
+598,70,Male,Yes,Alaska,19,Fortnightly,Bank Transfer
+599,21,Male,Yes,California,30,Every 3 Months,Credit Card
+600,51,Male,Yes,Massachusetts,27,Every 3 Months,Cash
+601,22,Male,Yes,South Carolina,25,Monthly,Debit Card
+602,32,Male,Yes,West Virginia,5,Fortnightly,Cash
+603,37,Male,Yes,Oregon,10,Every 3 Months,Venmo
+604,31,Male,Yes,Massachusetts,26,Every 3 Months,Debit Card
+605,44,Male,Yes,West Virginia,11,Every 3 Months,Bank Transfer
+606,40,Male,Yes,California,17,Weekly,Debit Card
+607,27,Male,Yes,Colorado,44,Monthly,Credit Card
+608,47,Male,Yes,Indiana,44,Monthly,PayPal
+609,41,Male,Yes,Delaware,21,Every 3 Months,Debit Card
+610,51,Male,Yes,Ohio,49,Fortnightly,Cash
+611,53,Male,Yes,Oklahoma,27,Every 3 Months,Debit Card
+612,43,Male,Yes,California,19,Monthly,Credit Card
+613,67,Male,Yes,New Hampshire,33,Quarterly,PayPal
+614,61,Male,Yes,Pennsylvania,46,Bi-Weekly,Cash
+615,68,Male,Yes,Idaho,21,Bi-Weekly,Cash
+616,67,Male,Yes,Maryland,23,Annually,Debit Card
+617,29,Male,Yes,Pennsylvania,38,Every 3 Months,Cash
+618,50,Male,Yes,Colorado,2,Quarterly,Debit Card
+619,61,Male,Yes,Indiana,21,Bi-Weekly,Credit Card
+620,19,Male,Yes,Nebraska,1,Every 3 Months,Debit Card
+621,33,Male,Yes,Rhode Island,10,Every 3 Months,PayPal
+622,51,Male,Yes,Kansas,45,Weekly,Debit Card
+623,69,Male,Yes,Georgia,44,Fortnightly,Credit Card
+624,19,Male,Yes,Nevada,48,Bi-Weekly,Bank Transfer
+625,55,Male,Yes,South Carolina,21,Annually,Venmo
+626,49,Male,Yes,Delaware,1,Weekly,Venmo
+627,31,Male,Yes,New Hampshire,10,Annually,Credit Card
+628,42,Male,Yes,Oregon,24,Monthly,Venmo
+629,69,Male,Yes,Massachusetts,29,Monthly,Venmo
+630,26,Male,Yes,Vermont,11,Annually,Bank Transfer
+631,41,Male,Yes,Mississippi,33,Annually,Cash
+632,55,Male,Yes,Washington,27,Fortnightly,Venmo
+633,35,Male,Yes,Wyoming,19,Fortnightly,Venmo
+634,66,Male,Yes,Minnesota,50,Quarterly,Bank Transfer
+635,36,Male,Yes,Ohio,46,Weekly,Bank Transfer
+636,27,Male,Yes,South Carolina,28,Quarterly,PayPal
+637,41,Male,Yes,Wisconsin,14,Every 3 Months,Cash
+638,21,Male,Yes,Tennessee,46,Fortnightly,Cash
+639,53,Male,Yes,Maryland,41,Monthly,Venmo
+640,54,Male,Yes,Mississippi,50,Annually,Credit Card
+641,53,Male,Yes,Minnesota,28,Fortnightly,Debit Card
+642,47,Male,Yes,Alaska,23,Every 3 Months,Venmo
+643,64,Male,Yes,Arkansas,14,Bi-Weekly,Credit Card
+644,18,Male,Yes,Oregon,10,Every 3 Months,Venmo
+645,68,Male,Yes,Louisiana,37,Weekly,Venmo
+646,62,Male,Yes,Oklahoma,15,Bi-Weekly,Credit Card
+647,51,Male,Yes,Indiana,19,Bi-Weekly,Debit Card
+648,54,Male,Yes,Mississippi,23,Fortnightly,Bank Transfer
+649,22,Male,Yes,Michigan,35,Weekly,Bank Transfer
+650,53,Male,Yes,Delaware,33,Every 3 Months,Credit Card
+651,34,Male,Yes,Florida,12,Annually,Venmo
+652,32,Male,Yes,Arkansas,41,Fortnightly,PayPal
+653,64,Male,Yes,Minnesota,27,Weekly,PayPal
+654,20,Male,Yes,North Dakota,45,Fortnightly,Credit Card
+655,24,Male,Yes,California,23,Annually,Bank Transfer
+656,20,Male,Yes,Mississippi,19,Monthly,Debit Card
+657,42,Male,Yes,Pennsylvania,6,Quarterly,Debit Card
+658,48,Male,Yes,Arizona,6,Quarterly,PayPal
+659,62,Male,Yes,Louisiana,20,Weekly,Debit Card
+660,62,Male,Yes,Virginia,8,Weekly,Debit Card
+661,50,Male,Yes,Montana,39,Quarterly,Debit Card
+662,57,Male,Yes,Iowa,39,Quarterly,Cash
+663,24,Male,Yes,Illinois,39,Bi-Weekly,Debit Card
+664,59,Male,Yes,Alaska,23,Monthly,Cash
+665,63,Male,Yes,Colorado,41,Bi-Weekly,Cash
+666,41,Male,Yes,New Mexico,50,Annually,Cash
+667,35,Male,Yes,Colorado,30,Quarterly,Cash
+668,34,Male,Yes,Arizona,32,Quarterly,Debit Card
+669,49,Male,Yes,Hawaii,35,Monthly,Credit Card
+670,43,Male,Yes,Illinois,45,Bi-Weekly,PayPal
+671,63,Male,Yes,Louisiana,37,Bi-Weekly,Credit Card
+672,38,Male,Yes,Iowa,45,Weekly,PayPal
+673,59,Male,Yes,Washington,29,Quarterly,Cash
+674,35,Male,Yes,Oklahoma,27,Bi-Weekly,Cash
+675,48,Male,Yes,Washington,36,Annually,Venmo
+676,64,Male,Yes,Arkansas,9,Annually,Credit Card
+677,28,Male,Yes,Connecticut,38,Bi-Weekly,Debit Card
+678,60,Male,Yes,Washington,41,Annually,PayPal
+679,27,Male,Yes,Maine,25,Every 3 Months,Credit Card
+680,56,Male,Yes,Michigan,37,Fortnightly,PayPal
+681,58,Male,Yes,Tennessee,3,Annually,Venmo
+682,30,Male,Yes,Louisiana,24,Every 3 Months,PayPal
+683,23,Male,Yes,Missouri,49,Bi-Weekly,Debit Card
+684,33,Male,Yes,Michigan,3,Monthly,Venmo
+685,63,Male,Yes,Alabama,42,Monthly,Bank Transfer
+686,70,Male,Yes,Massachusetts,32,Fortnightly,Credit Card
+687,70,Male,Yes,Indiana,33,Fortnightly,PayPal
+688,19,Male,Yes,West Virginia,46,Quarterly,Cash
+689,25,Male,Yes,Michigan,44,Monthly,Cash
+690,19,Male,Yes,Pennsylvania,35,Every 3 Months,Cash
+691,25,Male,Yes,Alaska,45,Weekly,Bank Transfer
+692,60,Male,Yes,Massachusetts,37,Bi-Weekly,Credit Card
+693,35,Male,Yes,North Dakota,40,Every 3 Months,Venmo
+694,46,Male,Yes,Vermont,30,Every 3 Months,Credit Card
+695,41,Male,Yes,Kentucky,38,Every 3 Months,Venmo
+696,30,Male,Yes,Nevada,15,Every 3 Months,Bank Transfer
+697,44,Male,Yes,Utah,49,Monthly,Bank Transfer
+698,61,Male,Yes,North Dakota,40,Quarterly,Bank Transfer
+699,55,Male,Yes,Iowa,40,Weekly,PayPal
+700,50,Male,Yes,Connecticut,5,Weekly,Bank Transfer
+701,57,Male,Yes,Wisconsin,5,Monthly,Venmo
+702,51,Male,Yes,Idaho,5,Every 3 Months,Cash
+703,18,Male,Yes,Montana,1,Weekly,Bank Transfer
+704,63,Male,Yes,Connecticut,21,Weekly,Debit Card
+705,34,Male,Yes,Idaho,18,Annually,Venmo
+706,25,Male,Yes,Arkansas,49,Quarterly,PayPal
+707,46,Male,Yes,Iowa,27,Weekly,Venmo
+708,59,Male,Yes,Louisiana,21,Annually,Debit Card
+709,37,Male,Yes,Kentucky,19,Fortnightly,Cash
+710,49,Male,Yes,Massachusetts,23,Monthly,Debit Card
+711,22,Male,Yes,Virginia,26,Fortnightly,Bank Transfer
+712,64,Male,Yes,New Hampshire,13,Bi-Weekly,PayPal
+713,42,Male,Yes,New Hampshire,36,Quarterly,Credit Card
+714,37,Male,Yes,Oregon,39,Bi-Weekly,Bank Transfer
+715,26,Male,Yes,South Dakota,40,Fortnightly,Venmo
+716,33,Male,Yes,Delaware,37,Quarterly,Venmo
+717,30,Male,Yes,Missouri,9,Bi-Weekly,PayPal
+718,21,Male,Yes,Alaska,7,Every 3 Months,Debit Card
+719,22,Male,Yes,Florida,25,Annually,Bank Transfer
+720,63,Male,Yes,Mississippi,42,Bi-Weekly,Venmo
+721,33,Male,Yes,New Mexico,19,Weekly,Bank Transfer
+722,43,Male,Yes,California,41,Every 3 Months,Debit Card
+723,27,Male,Yes,Wyoming,50,Bi-Weekly,PayPal
+724,35,Male,Yes,Missouri,43,Monthly,Cash
+725,37,Male,Yes,New Hampshire,36,Every 3 Months,Cash
+726,61,Male,Yes,Texas,33,Fortnightly,Cash
+727,32,Male,Yes,North Dakota,20,Every 3 Months,PayPal
+728,62,Male,Yes,Arkansas,37,Every 3 Months,Credit Card
+729,29,Male,Yes,Nebraska,12,Every 3 Months,Debit Card
+730,41,Male,Yes,Minnesota,46,Every 3 Months,Venmo
+731,48,Male,Yes,Massachusetts,28,Fortnightly,Venmo
+732,43,Male,Yes,Arkansas,30,Fortnightly,Credit Card
+733,34,Male,Yes,New Hampshire,28,Bi-Weekly,Cash
+734,45,Male,Yes,Rhode Island,20,Bi-Weekly,Cash
+735,65,Male,Yes,New Jersey,39,Every 3 Months,Venmo
+736,61,Male,Yes,Montana,48,Bi-Weekly,Venmo
+737,18,Male,Yes,Colorado,32,Every 3 Months,Debit Card
+738,47,Male,Yes,Nebraska,28,Annually,PayPal
+739,56,Male,Yes,Minnesota,27,Quarterly,Credit Card
+740,64,Male,Yes,Minnesota,26,Bi-Weekly,Cash
+741,26,Male,Yes,South Dakota,22,Fortnightly,Bank Transfer
+742,22,Male,Yes,West Virginia,23,Every 3 Months,Debit Card
+743,64,Male,Yes,Nevada,21,Quarterly,Debit Card
+744,21,Male,Yes,North Carolina,36,Weekly,PayPal
+745,67,Male,Yes,Illinois,42,Bi-Weekly,Debit Card
+746,46,Male,Yes,Michigan,4,Monthly,Credit Card
+747,40,Male,Yes,Michigan,47,Annually,Debit Card
+748,51,Male,Yes,Oklahoma,13,Weekly,Venmo
+749,35,Male,Yes,South Dakota,8,Quarterly,Bank Transfer
+750,56,Male,Yes,Oklahoma,11,Quarterly,Bank Transfer
+751,25,Male,Yes,Maryland,5,Annually,Bank Transfer
+752,65,Male,Yes,Ohio,1,Monthly,Credit Card
+753,39,Male,Yes,Ohio,17,Every 3 Months,Cash
+754,47,Male,Yes,Massachusetts,27,Quarterly,Credit Card
+755,36,Male,Yes,North Carolina,3,Quarterly,Cash
+756,66,Male,Yes,Florida,22,Weekly,Venmo
+757,62,Male,Yes,Montana,24,Fortnightly,Cash
+758,41,Male,Yes,Minnesota,18,Quarterly,Debit Card
+759,66,Male,Yes,Massachusetts,39,Every 3 Months,Bank Transfer
+760,51,Male,Yes,Rhode Island,25,Fortnightly,Bank Transfer
+761,33,Male,Yes,Minnesota,6,Annually,Credit Card
+762,57,Male,Yes,Nevada,26,Weekly,Credit Card
+763,45,Male,Yes,New Mexico,43,Fortnightly,Credit Card
+764,61,Male,Yes,North Carolina,6,Monthly,Debit Card
+765,55,Male,Yes,Virginia,6,Quarterly,Bank Transfer
+766,54,Male,Yes,Alaska,13,Quarterly,Bank Transfer
+767,57,Male,Yes,Nevada,13,Monthly,PayPal
+768,27,Male,Yes,Pennsylvania,11,Annually,Cash
+769,64,Male,Yes,Illinois,45,Weekly,PayPal
+770,52,Male,Yes,Delaware,8,Monthly,Credit Card
+771,19,Male,Yes,Vermont,8,Annually,Venmo
+772,22,Male,Yes,Hawaii,34,Fortnightly,Credit Card
+773,18,Male,Yes,Illinois,40,Bi-Weekly,Cash
+774,29,Male,Yes,California,14,Bi-Weekly,Venmo
+775,42,Male,Yes,Nevada,11,Quarterly,Credit Card
+776,49,Male,Yes,Kentucky,8,Monthly,PayPal
+777,49,Male,Yes,Alabama,8,Every 3 Months,PayPal
+778,55,Male,Yes,Wyoming,37,Weekly,Credit Card
+779,29,Male,Yes,Massachusetts,23,Annually,Cash
+780,60,Male,Yes,Utah,38,Annually,Credit Card
+781,34,Male,Yes,New York,38,Quarterly,Venmo
+782,30,Male,Yes,Vermont,12,Fortnightly,PayPal
+783,28,Male,Yes,Hawaii,15,Weekly,PayPal
+784,63,Male,Yes,Louisiana,38,Fortnightly,Debit Card
+785,31,Male,Yes,Alabama,41,Every 3 Months,Debit Card
+786,46,Male,Yes,Louisiana,37,Fortnightly,Bank Transfer
+787,70,Male,Yes,Indiana,16,Every 3 Months,Credit Card
+788,53,Male,Yes,Michigan,25,Weekly,Bank Transfer
+789,50,Male,Yes,Rhode Island,18,Quarterly,Venmo
+790,33,Male,Yes,Idaho,4,Bi-Weekly,Venmo
+791,22,Male,Yes,Louisiana,12,Quarterly,Venmo
+792,50,Male,Yes,North Carolina,35,Fortnightly,Credit Card
+793,34,Male,Yes,New Jersey,45,Weekly,Venmo
+794,24,Male,Yes,Alabama,16,Monthly,Cash
+795,69,Male,Yes,Kentucky,10,Fortnightly,Bank Transfer
+796,39,Male,Yes,New York,34,Annually,Cash
+797,42,Male,Yes,Arizona,43,Annually,Debit Card
+798,42,Male,Yes,Maryland,38,Weekly,Cash
+799,29,Male,Yes,Alaska,48,Every 3 Months,Cash
+800,55,Male,Yes,Nevada,31,Annually,Venmo
+801,32,Male,Yes,Utah,20,Every 3 Months,Credit Card
+802,25,Male,Yes,New Mexico,12,Fortnightly,Credit Card
+803,38,Male,Yes,Delaware,2,Weekly,Venmo
+804,32,Male,Yes,Connecticut,30,Every 3 Months,Credit Card
+805,43,Male,Yes,Mississippi,28,Quarterly,Cash
+806,41,Male,Yes,Connecticut,40,Monthly,Venmo
+807,56,Male,Yes,Florida,46,Quarterly,Credit Card
+808,27,Male,Yes,New York,15,Weekly,Bank Transfer
+809,46,Male,Yes,Wisconsin,38,Every 3 Months,PayPal
+810,48,Male,Yes,South Carolina,30,Bi-Weekly,PayPal
+811,52,Male,Yes,South Dakota,32,Bi-Weekly,Debit Card
+812,18,Male,Yes,Illinois,36,Quarterly,Debit Card
+813,64,Male,Yes,Alaska,32,Weekly,PayPal
+814,54,Male,Yes,Montana,14,Annually,Credit Card
+815,31,Male,Yes,Minnesota,8,Monthly,Cash
+816,30,Male,Yes,West Virginia,27,Bi-Weekly,Cash
+817,26,Male,Yes,Illinois,24,Monthly,Credit Card
+818,25,Male,Yes,Nevada,30,Fortnightly,Credit Card
+819,59,Male,Yes,Idaho,34,Monthly,Cash
+820,55,Male,Yes,Colorado,28,Quarterly,Bank Transfer
+821,56,Male,Yes,Louisiana,27,Monthly,Cash
+822,62,Male,Yes,Vermont,31,Bi-Weekly,Cash
+823,35,Male,Yes,Mississippi,23,Annually,Cash
+824,51,Male,Yes,Georgia,11,Quarterly,PayPal
+825,61,Male,Yes,Georgia,48,Quarterly,Venmo
+826,27,Male,Yes,Nebraska,17,Monthly,Venmo
+827,54,Male,Yes,Massachusetts,36,Weekly,Credit Card
+828,31,Male,Yes,Colorado,33,Fortnightly,Credit Card
+829,24,Male,Yes,Nevada,27,Bi-Weekly,Bank Transfer
+830,42,Male,Yes,Idaho,14,Fortnightly,Debit Card
+831,41,Male,Yes,Wyoming,5,Annually,Cash
+832,66,Male,Yes,Washington,47,Every 3 Months,Debit Card
+833,58,Male,Yes,California,28,Bi-Weekly,Credit Card
+834,43,Male,Yes,Oklahoma,11,Annually,Debit Card
+835,52,Male,Yes,Nevada,18,Weekly,Debit Card
+836,35,Male,Yes,Maryland,21,Weekly,Debit Card
+837,23,Male,Yes,West Virginia,22,Bi-Weekly,PayPal
+838,25,Male,Yes,Illinois,33,Every 3 Months,Credit Card
+839,33,Male,Yes,Kentucky,49,Annually,Bank Transfer
+840,48,Male,Yes,Illinois,10,Every 3 Months,Cash
+841,42,Male,Yes,Alabama,18,Weekly,Bank Transfer
+842,55,Male,Yes,Texas,28,Fortnightly,Venmo
+843,59,Male,Yes,Missouri,25,Weekly,Venmo
+844,65,Male,Yes,Pennsylvania,6,Weekly,Cash
+845,59,Male,Yes,Missouri,44,Bi-Weekly,PayPal
+846,31,Male,Yes,Michigan,30,Monthly,PayPal
+847,49,Male,Yes,Kentucky,42,Quarterly,Bank Transfer
+848,53,Male,Yes,New Jersey,30,Monthly,Bank Transfer
+849,48,Male,Yes,Delaware,33,Bi-Weekly,PayPal
+850,23,Male,Yes,Missouri,24,Quarterly,Debit Card
+851,68,Male,Yes,Connecticut,13,Monthly,Bank Transfer
+852,35,Male,Yes,Massachusetts,19,Monthly,Credit Card
+853,34,Male,Yes,Florida,23,Every 3 Months,Venmo
+854,62,Male,Yes,Delaware,35,Monthly,PayPal
+855,21,Male,Yes,California,22,Monthly,Bank Transfer
+856,70,Male,Yes,Oregon,14,Quarterly,Cash
+857,55,Male,Yes,Alaska,47,Fortnightly,Debit Card
+858,43,Male,Yes,Missouri,50,Every 3 Months,Cash
+859,19,Male,Yes,Oklahoma,33,Weekly,PayPal
+860,47,Male,Yes,Wisconsin,7,Monthly,Credit Card
+861,26,Male,Yes,South Carolina,3,Monthly,Debit Card
+862,46,Male,Yes,Virginia,35,Every 3 Months,PayPal
+863,19,Male,Yes,Arkansas,13,Fortnightly,PayPal
+864,49,Male,Yes,Vermont,42,Fortnightly,PayPal
+865,51,Male,Yes,Kentucky,5,Annually,PayPal
+866,64,Male,Yes,Colorado,23,Annually,Bank Transfer
+867,67,Male,Yes,New Mexico,11,Bi-Weekly,Credit Card
+868,37,Male,Yes,Colorado,23,Fortnightly,Debit Card
+869,40,Male,Yes,North Carolina,2,Every 3 Months,Credit Card
+870,38,Male,Yes,New Hampshire,33,Weekly,PayPal
+871,66,Male,Yes,West Virginia,6,Bi-Weekly,Cash
+872,47,Male,Yes,Hawaii,45,Quarterly,Bank Transfer
+873,56,Male,Yes,North Dakota,25,Quarterly,Cash
+874,51,Male,Yes,Mississippi,24,Quarterly,PayPal
+875,25,Male,Yes,Maine,10,Every 3 Months,PayPal
+876,37,Male,Yes,North Dakota,7,Every 3 Months,Venmo
+877,41,Male,Yes,Nebraska,1,Weekly,Venmo
+878,64,Male,Yes,Nebraska,45,Every 3 Months,Venmo
+879,23,Male,Yes,Tennessee,37,Weekly,Cash
+880,62,Male,Yes,Wyoming,14,Quarterly,Credit Card
+881,39,Male,Yes,Nevada,25,Monthly,Venmo
+882,52,Male,Yes,South Carolina,18,Annually,Credit Card
+883,50,Male,Yes,Virginia,37,Every 3 Months,Cash
+884,28,Male,Yes,Pennsylvania,30,Monthly,Venmo
+885,67,Male,Yes,Hawaii,34,Weekly,Venmo
+886,41,Male,Yes,Ohio,49,Every 3 Months,Credit Card
+887,19,Male,Yes,Utah,48,Monthly,PayPal
+888,70,Male,Yes,Minnesota,33,Fortnightly,Credit Card
+889,49,Male,Yes,New Hampshire,44,Annually,Venmo
+890,59,Male,Yes,Arizona,50,Weekly,Venmo
+891,52,Male,Yes,New York,47,Monthly,Credit Card
+892,20,Male,Yes,Pennsylvania,24,Every 3 Months,Venmo
+893,31,Male,Yes,New Mexico,43,Monthly,Venmo
+894,33,Male,Yes,Nebraska,14,Monthly,Debit Card
+895,44,Male,Yes,Wyoming,3,Quarterly,Venmo
+896,40,Male,Yes,Mississippi,33,Quarterly,Debit Card
+897,69,Male,Yes,Arkansas,38,Fortnightly,Credit Card
+898,29,Male,Yes,Illinois,46,Weekly,PayPal
+899,54,Male,Yes,Nevada,19,Every 3 Months,Credit Card
+900,65,Male,Yes,Rhode Island,20,Annually,Debit Card
+901,54,Male,Yes,West Virginia,42,Quarterly,Cash
+902,60,Male,Yes,Missouri,34,Monthly,Debit Card
+903,43,Male,Yes,Kentucky,5,Monthly,Debit Card
+904,44,Male,Yes,Washington,3,Quarterly,Bank Transfer
+905,69,Male,Yes,Alaska,46,Every 3 Months,Credit Card
+906,46,Male,Yes,Mississippi,16,Annually,Credit Card
+907,41,Male,Yes,South Carolina,21,Bi-Weekly,Debit Card
+908,32,Male,Yes,Missouri,34,Bi-Weekly,PayPal
+909,26,Male,Yes,New Jersey,9,Every 3 Months,Cash
+910,61,Male,Yes,Louisiana,36,Weekly,Debit Card
+911,49,Male,Yes,South Carolina,22,Monthly,Bank Transfer
+912,53,Male,Yes,Vermont,2,Quarterly,Cash
+913,24,Male,Yes,Arkansas,32,Monthly,Bank Transfer
+914,37,Male,Yes,Utah,29,Every 3 Months,Bank Transfer
+915,43,Male,Yes,Washington,27,Every 3 Months,PayPal
+916,31,Male,Yes,Rhode Island,33,Fortnightly,Debit Card
+917,49,Male,Yes,Illinois,16,Monthly,Cash
+918,69,Male,Yes,Missouri,11,Quarterly,Debit Card
+919,65,Male,Yes,North Carolina,11,Fortnightly,Cash
+920,41,Male,Yes,Massachusetts,17,Bi-Weekly,PayPal
+921,37,Male,Yes,Arkansas,37,Weekly,Credit Card
+922,70,Male,Yes,South Dakota,18,Weekly,Venmo
+923,63,Male,Yes,Georgia,13,Monthly,Venmo
+924,55,Male,Yes,Arkansas,7,Weekly,PayPal
+925,52,Male,Yes,Kansas,37,Quarterly,Credit Card
+926,22,Male,Yes,Arizona,8,Monthly,Credit Card
+927,54,Male,Yes,Massachusetts,11,Bi-Weekly,PayPal
+928,28,Male,Yes,New Mexico,8,Bi-Weekly,Bank Transfer
+929,67,Male,Yes,Arkansas,31,Every 3 Months,Bank Transfer
+930,59,Male,Yes,Nebraska,26,Fortnightly,Venmo
+931,26,Male,Yes,Hawaii,20,Bi-Weekly,Credit Card
+932,24,Male,Yes,Nebraska,24,Fortnightly,Cash
+933,62,Male,Yes,Indiana,45,Bi-Weekly,Venmo
+934,70,Male,Yes,Colorado,33,Monthly,Debit Card
+935,45,Male,Yes,Oregon,21,Monthly,Bank Transfer
+936,58,Male,Yes,Ohio,2,Fortnightly,Credit Card
+937,31,Male,Yes,Maine,28,Weekly,Debit Card
+938,32,Male,Yes,Iowa,18,Quarterly,Debit Card
+939,36,Male,Yes,Wisconsin,21,Fortnightly,Bank Transfer
+940,25,Male,Yes,New York,24,Monthly,Venmo
+941,48,Male,Yes,Colorado,15,Every 3 Months,PayPal
+942,39,Male,Yes,Illinois,38,Every 3 Months,Bank Transfer
+943,26,Male,Yes,Arizona,38,Bi-Weekly,Cash
+944,32,Male,Yes,Oklahoma,13,Fortnightly,PayPal
+945,54,Male,Yes,Indiana,39,Bi-Weekly,Debit Card
+946,38,Male,Yes,Minnesota,8,Every 3 Months,Debit Card
+947,46,Male,Yes,Pennsylvania,4,Quarterly,PayPal
+948,57,Male,Yes,Indiana,6,Every 3 Months,Cash
+949,49,Male,Yes,Alabama,11,Every 3 Months,Venmo
+950,33,Male,Yes,Montana,49,Monthly,Cash
+951,54,Male,Yes,New Mexico,30,Quarterly,Cash
+952,47,Male,Yes,Alaska,34,Monthly,Venmo
+953,36,Male,Yes,Idaho,28,Monthly,Bank Transfer
+954,68,Male,Yes,Utah,36,Quarterly,Credit Card
+955,60,Male,Yes,Louisiana,18,Every 3 Months,Venmo
+956,55,Male,Yes,Mississippi,4,Monthly,Venmo
+957,29,Male,Yes,Mississippi,42,Quarterly,Venmo
+958,38,Male,Yes,Indiana,11,Quarterly,Bank Transfer
+959,70,Male,Yes,Washington,31,Bi-Weekly,Cash
+960,36,Male,Yes,Nevada,12,Fortnightly,Cash
+961,18,Male,Yes,Louisiana,20,Quarterly,Debit Card
+962,62,Male,Yes,Pennsylvania,37,Quarterly,Venmo
+963,29,Male,Yes,Michigan,26,Fortnightly,Cash
+964,21,Male,Yes,South Carolina,14,Weekly,Cash
+965,42,Male,Yes,Arizona,12,Bi-Weekly,Bank Transfer
+966,43,Male,Yes,Delaware,10,Annually,Debit Card
+967,58,Male,Yes,Kentucky,19,Annually,Cash
+968,27,Male,Yes,Georgia,4,Weekly,Debit Card
+969,57,Male,Yes,North Carolina,48,Quarterly,Debit Card
+970,40,Male,Yes,California,37,Monthly,Debit Card
+971,45,Male,Yes,California,4,Monthly,PayPal
+972,47,Male,Yes,Indiana,15,Weekly,Bank Transfer
+973,61,Male,Yes,Colorado,33,Weekly,Venmo
+974,60,Male,Yes,Colorado,30,Quarterly,Venmo
+975,69,Male,Yes,North Carolina,23,Monthly,Credit Card
+976,58,Male,Yes,Washington,2,Weekly,Bank Transfer
+977,34,Male,Yes,Florida,50,Every 3 Months,PayPal
+978,20,Male,Yes,Washington,34,Bi-Weekly,Credit Card
+979,56,Male,Yes,Colorado,33,Weekly,Cash
+980,64,Male,Yes,New Hampshire,34,Monthly,Venmo
+981,56,Male,Yes,Maryland,39,Every 3 Months,Bank Transfer
+982,27,Male,Yes,Maryland,47,Quarterly,Debit Card
+983,35,Male,Yes,Texas,37,Monthly,Venmo
+984,24,Male,Yes,New Mexico,40,Bi-Weekly,Credit Card
+985,26,Male,Yes,Utah,8,Bi-Weekly,Cash
+986,32,Male,Yes,West Virginia,12,Annually,Credit Card
+987,54,Male,Yes,Connecticut,36,Monthly,Credit Card
+988,62,Male,Yes,West Virginia,48,Weekly,PayPal
+989,50,Male,Yes,Ohio,47,Fortnightly,Venmo
+990,70,Male,Yes,Texas,2,Monthly,Bank Transfer
+991,48,Male,Yes,Washington,24,Weekly,PayPal
+992,20,Male,Yes,Wisconsin,40,Bi-Weekly,Debit Card
+993,46,Male,Yes,Louisiana,50,Weekly,Credit Card
+994,51,Male,Yes,Iowa,25,Weekly,Cash
+995,53,Male,Yes,New York,20,Monthly,PayPal
+996,44,Male,Yes,Idaho,10,Weekly,Venmo
+997,29,Male,Yes,Delaware,32,Quarterly,Bank Transfer
+998,64,Male,Yes,Kentucky,31,Fortnightly,Debit Card
+999,51,Male,Yes,Connecticut,48,Bi-Weekly,Venmo
+1000,50,Male,Yes,New Mexico,23,Monthly,Venmo
+1001,43,Male,Yes,Georgia,1,Bi-Weekly,Credit Card
+1002,61,Male,Yes,Washington,4,Fortnightly,Credit Card
+1003,55,Male,Yes,North Dakota,3,Bi-Weekly,Credit Card
+1004,56,Male,Yes,Ohio,3,Bi-Weekly,Cash
+1005,33,Male,Yes,Tennessee,44,Annually,Cash
+1006,43,Male,Yes,New York,5,Bi-Weekly,Credit Card
+1007,21,Male,Yes,Michigan,50,Quarterly,Credit Card
+1008,58,Male,Yes,Georgia,2,Annually,Venmo
+1009,41,Male,Yes,New Mexico,29,Annually,Cash
+1010,39,Male,Yes,Louisiana,11,Annually,Bank Transfer
+1011,54,Male,Yes,South Dakota,37,Fortnightly,PayPal
+1012,43,Male,Yes,Montana,32,Fortnightly,PayPal
+1013,28,Male,Yes,New Mexico,27,Annually,Cash
+1014,59,Male,Yes,South Carolina,31,Bi-Weekly,Bank Transfer
+1015,28,Male,Yes,Ohio,36,Fortnightly,Bank Transfer
+1016,68,Male,Yes,North Carolina,34,Weekly,Debit Card
+1017,20,Male,Yes,Idaho,15,Every 3 Months,Cash
+1018,21,Male,Yes,Oklahoma,14,Annually,Cash
+1019,50,Male,Yes,Georgia,46,Weekly,Credit Card
+1020,32,Male,Yes,Kentucky,33,Bi-Weekly,Debit Card
+1021,24,Male,Yes,Delaware,41,Annually,Bank Transfer
+1022,55,Male,Yes,Massachusetts,39,Weekly,Credit Card
+1023,61,Male,Yes,Nebraska,7,Annually,Cash
+1024,61,Male,Yes,Maine,29,Every 3 Months,Bank Transfer
+1025,28,Male,Yes,Pennsylvania,18,Quarterly,Debit Card
+1026,60,Male,Yes,Nebraska,15,Annually,Bank Transfer
+1027,49,Male,Yes,Virginia,39,Bi-Weekly,Venmo
+1028,33,Male,Yes,Ohio,11,Monthly,Cash
+1029,45,Male,Yes,Nebraska,4,Fortnightly,Venmo
+1030,29,Male,Yes,Ohio,33,Bi-Weekly,Credit Card
+1031,58,Male,Yes,Kentucky,37,Quarterly,Credit Card
+1032,22,Male,Yes,Tennessee,32,Quarterly,Cash
+1033,55,Male,Yes,Maine,44,Quarterly,Bank Transfer
+1034,19,Male,Yes,Montana,41,Quarterly,Credit Card
+1035,68,Male,Yes,Maryland,44,Weekly,Venmo
+1036,61,Male,Yes,Georgia,32,Annually,Venmo
+1037,68,Male,Yes,Hawaii,13,Monthly,Credit Card
+1038,52,Male,Yes,Rhode Island,48,Quarterly,Bank Transfer
+1039,41,Male,Yes,Nebraska,3,Weekly,Bank Transfer
+1040,29,Male,Yes,Michigan,39,Monthly,PayPal
+1041,68,Male,Yes,North Carolina,7,Fortnightly,Venmo
+1042,36,Male,Yes,Minnesota,11,Fortnightly,Venmo
+1043,55,Male,Yes,Maryland,47,Weekly,Venmo
+1044,28,Male,Yes,Hawaii,28,Fortnightly,Bank Transfer
+1045,39,Male,Yes,Oregon,17,Every 3 Months,Credit Card
+1046,54,Male,Yes,New Mexico,11,Bi-Weekly,Cash
+1047,40,Male,Yes,Illinois,12,Annually,Credit Card
+1048,31,Male,Yes,Utah,7,Fortnightly,Debit Card
+1049,30,Male,Yes,Maine,19,Fortnightly,Cash
+1050,45,Male,Yes,Virginia,24,Quarterly,Credit Card
+1051,48,Male,Yes,Florida,19,Monthly,Credit Card
+1052,45,Male,Yes,Ohio,39,Annually,PayPal
+1053,60,Male,Yes,Virginia,1,Fortnightly,Venmo
+1054,59,Male,No,Kansas,10,Bi-Weekly,Cash
+1055,18,Male,No,Arkansas,48,Quarterly,Debit Card
+1056,70,Male,No,Massachusetts,24,Annually,PayPal
+1057,20,Male,No,Idaho,42,Fortnightly,Debit Card
+1058,65,Male,No,Wisconsin,20,Weekly,Bank Transfer
+1059,29,Male,No,New Mexico,49,Every 3 Months,Credit Card
+1060,22,Male,No,North Carolina,25,Monthly,Venmo
+1061,27,Male,No,Iowa,21,Every 3 Months,PayPal
+1062,36,Male,No,Idaho,12,Every 3 Months,Debit Card
+1063,59,Male,No,Ohio,21,Every 3 Months,Venmo
+1064,62,Male,No,Alabama,35,Monthly,Bank Transfer
+1065,34,Male,No,Wyoming,42,Every 3 Months,Debit Card
+1066,59,Male,No,Alabama,3,Every 3 Months,Cash
+1067,49,Male,No,Mississippi,11,Bi-Weekly,Credit Card
+1068,18,Male,No,Pennsylvania,22,Quarterly,Venmo
+1069,55,Male,No,Wyoming,47,Weekly,Bank Transfer
+1070,38,Male,No,Maryland,33,Every 3 Months,Credit Card
+1071,50,Male,No,North Carolina,50,Weekly,Venmo
+1072,61,Male,No,Pennsylvania,46,Monthly,Cash
+1073,48,Male,No,Idaho,34,Fortnightly,Bank Transfer
+1074,22,Male,No,California,33,Monthly,Cash
+1075,48,Male,No,Tennessee,45,Fortnightly,PayPal
+1076,57,Male,No,Missouri,32,Bi-Weekly,Debit Card
+1077,33,Male,No,North Dakota,47,Bi-Weekly,Bank Transfer
+1078,58,Male,No,West Virginia,5,Quarterly,Cash
+1079,37,Male,No,Arizona,49,Fortnightly,Cash
+1080,18,Male,No,Oklahoma,48,Monthly,Bank Transfer
+1081,65,Male,No,Pennsylvania,22,Every 3 Months,Bank Transfer
+1082,62,Male,No,Idaho,45,Annually,Cash
+1083,54,Male,No,South Carolina,30,Quarterly,PayPal
+1084,35,Male,No,Washington,43,Weekly,Credit Card
+1085,34,Male,No,Arkansas,48,Quarterly,Credit Card
+1086,25,Male,No,Utah,23,Fortnightly,PayPal
+1087,53,Male,No,Alaska,27,Bi-Weekly,PayPal
+1088,45,Male,No,West Virginia,7,Monthly,PayPal
+1089,49,Male,No,Louisiana,2,Weekly,Bank Transfer
+1090,40,Male,No,Arizona,33,Bi-Weekly,Debit Card
+1091,38,Male,No,Connecticut,27,Fortnightly,Bank Transfer
+1092,44,Male,No,North Carolina,6,Fortnightly,Cash
+1093,68,Male,No,South Dakota,20,Quarterly,Credit Card
+1094,60,Male,No,Delaware,46,Every 3 Months,PayPal
+1095,25,Male,No,Connecticut,25,Quarterly,Credit Card
+1096,19,Male,No,Tennessee,30,Quarterly,Debit Card
+1097,57,Male,No,New Hampshire,48,Annually,Credit Card
+1098,58,Male,No,Vermont,47,Weekly,Venmo
+1099,49,Male,No,Idaho,27,Weekly,PayPal
+1100,19,Male,No,North Carolina,45,Fortnightly,Cash
+1101,50,Male,No,Nevada,2,Weekly,Debit Card
+1102,30,Male,No,Delaware,39,Fortnightly,Cash
+1103,52,Male,No,Texas,24,Fortnightly,Credit Card
+1104,35,Male,No,Tennessee,8,Bi-Weekly,Debit Card
+1105,35,Male,No,Delaware,8,Quarterly,Bank Transfer
+1106,33,Male,No,Massachusetts,6,Every 3 Months,Credit Card
+1107,52,Male,No,Minnesota,12,Fortnightly,Credit Card
+1108,69,Male,No,Texas,26,Weekly,Venmo
+1109,27,Male,No,Nebraska,50,Fortnightly,Venmo
+1110,66,Male,No,Oklahoma,2,Weekly,Debit Card
+1111,28,Male,No,Texas,31,Bi-Weekly,Debit Card
+1112,22,Male,No,New York,4,Bi-Weekly,Bank Transfer
+1113,69,Male,No,Washington,32,Quarterly,Credit Card
+1114,28,Male,No,Maryland,11,Bi-Weekly,Cash
+1115,55,Male,No,New Hampshire,47,Every 3 Months,Cash
+1116,30,Male,No,New York,37,Weekly,Bank Transfer
+1117,67,Male,No,Hawaii,39,Fortnightly,Venmo
+1118,25,Male,No,California,24,Monthly,PayPal
+1119,49,Male,No,Indiana,11,Every 3 Months,Debit Card
+1120,34,Male,No,Louisiana,36,Weekly,Venmo
+1121,22,Male,No,Pennsylvania,40,Monthly,Venmo
+1122,63,Male,No,Florida,25,Quarterly,Cash
+1123,70,Male,No,North Carolina,12,Annually,PayPal
+1124,36,Male,No,Massachusetts,38,Monthly,Debit Card
+1125,42,Male,No,Iowa,40,Quarterly,Debit Card
+1126,27,Male,No,North Dakota,10,Weekly,Debit Card
+1127,23,Male,No,Iowa,47,Fortnightly,Venmo
+1128,50,Male,No,Delaware,22,Monthly,Venmo
+1129,56,Male,No,New York,35,Monthly,PayPal
+1130,37,Male,No,New Hampshire,46,Fortnightly,Credit Card
+1131,67,Male,No,Kentucky,30,Bi-Weekly,Cash
+1132,67,Male,No,Illinois,20,Monthly,Credit Card
+1133,50,Male,No,North Carolina,25,Fortnightly,PayPal
+1134,36,Male,No,Connecticut,29,Weekly,PayPal
+1135,62,Male,No,Wisconsin,2,Every 3 Months,Bank Transfer
+1136,65,Male,No,Massachusetts,32,Quarterly,PayPal
+1137,23,Male,No,Illinois,37,Monthly,Debit Card
+1138,46,Male,No,New Mexico,16,Every 3 Months,Credit Card
+1139,18,Male,No,Iowa,32,Fortnightly,Venmo
+1140,58,Male,No,Alabama,42,Bi-Weekly,PayPal
+1141,31,Male,No,Maryland,6,Every 3 Months,Cash
+1142,39,Male,No,Ohio,23,Fortnightly,Debit Card
+1143,69,Male,No,Ohio,27,Bi-Weekly,Cash
+1144,68,Male,No,Nevada,43,Quarterly,Cash
+1145,41,Male,No,South Carolina,25,Fortnightly,PayPal
+1146,31,Male,No,Nevada,30,Every 3 Months,Venmo
+1147,48,Male,No,Wisconsin,7,Every 3 Months,Debit Card
+1148,59,Male,No,Tennessee,17,Annually,PayPal
+1149,34,Male,No,Florida,10,Fortnightly,Bank Transfer
+1150,21,Male,No,Georgia,40,Annually,Cash
+1151,29,Male,No,Kentucky,50,Bi-Weekly,Debit Card
+1152,41,Male,No,Ohio,24,Weekly,Bank Transfer
+1153,62,Male,No,Connecticut,8,Every 3 Months,Cash
+1154,27,Male,No,Idaho,6,Quarterly,PayPal
+1155,49,Male,No,Georgia,44,Bi-Weekly,Venmo
+1156,67,Male,No,Tennessee,47,Quarterly,Debit Card
+1157,20,Male,No,Hawaii,6,Every 3 Months,PayPal
+1158,37,Male,No,Maryland,11,Quarterly,Credit Card
+1159,69,Male,No,Nevada,41,Annually,Venmo
+1160,66,Male,No,New Hampshire,46,Every 3 Months,Debit Card
+1161,37,Male,No,North Dakota,9,Bi-Weekly,Cash
+1162,63,Male,No,Oklahoma,37,Monthly,Bank Transfer
+1163,47,Male,No,North Carolina,13,Weekly,Venmo
+1164,26,Male,No,Tennessee,24,Monthly,Credit Card
+1165,68,Male,No,Montana,47,Quarterly,Credit Card
+1166,51,Male,No,Wisconsin,21,Every 3 Months,Cash
+1167,48,Male,No,Connecticut,22,Fortnightly,Cash
+1168,60,Male,No,New Jersey,16,Quarterly,PayPal
+1169,68,Male,No,Mississippi,37,Fortnightly,PayPal
+1170,25,Male,No,Wyoming,3,Annually,Venmo
+1171,57,Male,No,Illinois,33,Bi-Weekly,Bank Transfer
+1172,41,Male,No,Louisiana,15,Annually,Bank Transfer
+1173,59,Male,No,Oregon,42,Bi-Weekly,Credit Card
+1174,44,Male,No,South Dakota,42,Bi-Weekly,Credit Card
+1175,42,Male,No,Michigan,19,Bi-Weekly,Cash
+1176,35,Male,No,New Jersey,26,Quarterly,Credit Card
+1177,36,Male,No,Oregon,39,Quarterly,Credit Card
+1178,54,Male,No,Iowa,24,Monthly,Cash
+1179,37,Male,No,South Carolina,23,Annually,Credit Card
+1180,20,Male,No,Indiana,44,Annually,Debit Card
+1181,23,Male,No,Oregon,34,Monthly,Cash
+1182,61,Male,No,New York,43,Quarterly,Cash
+1183,37,Male,No,New Mexico,45,Quarterly,Debit Card
+1184,23,Male,No,Louisiana,4,Weekly,PayPal
+1185,63,Male,No,South Carolina,19,Annually,Bank Transfer
+1186,47,Male,No,Maine,29,Monthly,Debit Card
+1187,63,Male,No,Indiana,27,Annually,Cash
+1188,56,Male,No,Iowa,37,Every 3 Months,Cash
+1189,68,Male,No,Mississippi,11,Weekly,Credit Card
+1190,64,Male,No,Arkansas,28,Annually,Venmo
+1191,62,Male,No,South Carolina,31,Weekly,Bank Transfer
+1192,34,Male,No,Indiana,50,Quarterly,Debit Card
+1193,49,Male,No,Florida,42,Quarterly,PayPal
+1194,40,Male,No,Alaska,18,Fortnightly,Venmo
+1195,50,Male,No,New York,6,Fortnightly,Debit Card
+1196,25,Male,No,Texas,33,Monthly,Cash
+1197,30,Male,No,North Dakota,13,Bi-Weekly,PayPal
+1198,54,Male,No,Vermont,26,Annually,Debit Card
+1199,40,Male,No,New Jersey,17,Annually,Bank Transfer
+1200,49,Male,No,Maryland,3,Weekly,Credit Card
+1201,27,Male,No,Connecticut,7,Weekly,Bank Transfer
+1202,27,Male,No,Illinois,46,Fortnightly,Cash
+1203,48,Male,No,Maryland,14,Every 3 Months,Bank Transfer
+1204,40,Male,No,Minnesota,23,Annually,Bank Transfer
+1205,67,Male,No,Florida,20,Every 3 Months,Bank Transfer
+1206,52,Male,No,California,38,Fortnightly,Credit Card
+1207,22,Male,No,Mississippi,16,Every 3 Months,Cash
+1208,62,Male,No,Washington,48,Every 3 Months,Venmo
+1209,20,Male,No,Wisconsin,8,Annually,Cash
+1210,41,Male,No,Pennsylvania,16,Monthly,PayPal
+1211,34,Male,No,Missouri,5,Quarterly,PayPal
+1212,23,Male,No,Oklahoma,14,Every 3 Months,Venmo
+1213,32,Male,No,Pennsylvania,18,Weekly,Venmo
+1214,68,Male,No,Kentucky,14,Every 3 Months,Cash
+1215,30,Male,No,Vermont,5,Every 3 Months,Cash
+1216,66,Male,No,Oregon,15,Every 3 Months,Cash
+1217,62,Male,No,Utah,3,Every 3 Months,PayPal
+1218,50,Male,No,Nebraska,12,Every 3 Months,Debit Card
+1219,55,Male,No,Pennsylvania,43,Every 3 Months,Venmo
+1220,19,Male,No,Vermont,35,Bi-Weekly,Bank Transfer
+1221,67,Male,No,Kentucky,36,Quarterly,Bank Transfer
+1222,18,Male,No,Iowa,3,Quarterly,Bank Transfer
+1223,58,Male,No,Indiana,27,Annually,Bank Transfer
+1224,69,Male,No,Kansas,21,Weekly,Credit Card
+1225,62,Male,No,Illinois,18,Weekly,Bank Transfer
+1226,28,Male,No,North Carolina,16,Weekly,Credit Card
+1227,53,Male,No,Ohio,18,Bi-Weekly,PayPal
+1228,27,Male,No,Illinois,19,Bi-Weekly,Venmo
+1229,55,Male,No,Indiana,1,Annually,Venmo
+1230,34,Male,No,Kansas,39,Annually,Venmo
+1231,25,Male,No,Illinois,49,Monthly,Debit Card
+1232,66,Male,No,Pennsylvania,43,Fortnightly,Credit Card
+1233,57,Male,No,New York,31,Every 3 Months,Cash
+1234,46,Male,No,Utah,40,Every 3 Months,Cash
+1235,38,Male,No,New Jersey,2,Bi-Weekly,Cash
+1236,23,Male,No,Idaho,46,Every 3 Months,Bank Transfer
+1237,42,Male,No,New Mexico,35,Every 3 Months,PayPal
+1238,25,Male,No,Michigan,42,Quarterly,Credit Card
+1239,55,Male,No,Wyoming,3,Fortnightly,PayPal
+1240,62,Male,No,New Jersey,32,Every 3 Months,PayPal
+1241,41,Male,No,New Jersey,48,Annually,Debit Card
+1242,58,Male,No,Hawaii,34,Weekly,Cash
+1243,56,Male,No,Nevada,15,Quarterly,Bank Transfer
+1244,25,Male,No,New Hampshire,22,Annually,PayPal
+1245,70,Male,No,Indiana,2,Monthly,Cash
+1246,42,Male,No,New York,30,Weekly,Bank Transfer
+1247,27,Male,No,Louisiana,27,Monthly,Credit Card
+1248,65,Male,No,Virginia,18,Bi-Weekly,Bank Transfer
+1249,62,Male,No,Wisconsin,8,Annually,Credit Card
+1250,62,Male,No,Oregon,48,Fortnightly,PayPal
+1251,52,Male,No,New Hampshire,24,Monthly,Cash
+1252,56,Male,No,Indiana,43,Monthly,Debit Card
+1253,28,Male,No,Massachusetts,8,Quarterly,Venmo
+1254,39,Male,No,Montana,49,Annually,Venmo
+1255,54,Male,No,California,2,Bi-Weekly,Cash
+1256,30,Male,No,Indiana,38,Fortnightly,Credit Card
+1257,45,Male,No,West Virginia,4,Fortnightly,Cash
+1258,68,Male,No,Minnesota,31,Every 3 Months,Cash
+1259,47,Male,No,Ohio,34,Every 3 Months,Debit Card
+1260,68,Male,No,Minnesota,45,Monthly,Bank Transfer
+1261,63,Male,No,Virginia,30,Quarterly,Venmo
+1262,20,Male,No,Connecticut,2,Fortnightly,Venmo
+1263,29,Male,No,Tennessee,44,Monthly,Debit Card
+1264,41,Male,No,Delaware,1,Bi-Weekly,Bank Transfer
+1265,52,Male,No,Vermont,1,Bi-Weekly,Venmo
+1266,32,Male,No,Louisiana,27,Weekly,Bank Transfer
+1267,20,Male,No,North Dakota,14,Every 3 Months,Cash
+1268,47,Male,No,Oregon,41,Weekly,Credit Card
+1269,23,Male,No,Idaho,25,Bi-Weekly,Venmo
+1270,43,Male,No,Vermont,47,Quarterly,PayPal
+1271,67,Male,No,West Virginia,20,Annually,Cash
+1272,70,Male,No,Kentucky,42,Annually,Cash
+1273,35,Male,No,Wisconsin,16,Monthly,Debit Card
+1274,41,Male,No,Mississippi,32,Every 3 Months,Cash
+1275,54,Male,No,Missouri,37,Quarterly,Cash
+1276,55,Male,No,Arkansas,1,Monthly,PayPal
+1277,51,Male,No,Wyoming,37,Weekly,PayPal
+1278,19,Male,No,Rhode Island,5,Quarterly,Debit Card
+1279,28,Male,No,Utah,31,Fortnightly,Credit Card
+1280,63,Male,No,Maryland,18,Annually,PayPal
+1281,30,Male,No,Georgia,39,Every 3 Months,PayPal
+1282,29,Male,No,New Jersey,8,Bi-Weekly,Cash
+1283,24,Male,No,New Hampshire,20,Monthly,Debit Card
+1284,69,Male,No,Oregon,23,Every 3 Months,Credit Card
+1285,65,Male,No,Arkansas,38,Fortnightly,Bank Transfer
+1286,64,Male,No,North Carolina,45,Fortnightly,Venmo
+1287,40,Male,No,West Virginia,44,Fortnightly,Bank Transfer
+1288,24,Male,No,Utah,20,Monthly,Venmo
+1289,66,Male,No,South Dakota,34,Bi-Weekly,Venmo
+1290,35,Male,No,New Hampshire,10,Weekly,Debit Card
+1291,67,Male,No,Maryland,3,Annually,Cash
+1292,69,Male,No,South Dakota,23,Fortnightly,Venmo
+1293,26,Male,No,Kentucky,42,Annually,Debit Card
+1294,23,Male,No,Florida,30,Annually,Bank Transfer
+1295,27,Male,No,Texas,21,Every 3 Months,Credit Card
+1296,30,Male,No,New Mexico,50,Weekly,PayPal
+1297,48,Male,No,South Dakota,16,Bi-Weekly,PayPal
+1298,44,Male,No,New Jersey,32,Annually,Debit Card
+1299,29,Male,No,Indiana,14,Fortnightly,Cash
+1300,29,Male,No,Louisiana,42,Bi-Weekly,Bank Transfer
+1301,67,Male,No,West Virginia,47,Every 3 Months,Cash
+1302,42,Male,No,Maine,21,Weekly,Venmo
+1303,23,Male,No,Idaho,37,Monthly,Bank Transfer
+1304,34,Male,No,New York,10,Annually,Venmo
+1305,64,Male,No,Montana,18,Every 3 Months,Bank Transfer
+1306,31,Male,No,Mississippi,2,Every 3 Months,Venmo
+1307,54,Male,No,Alaska,40,Annually,Cash
+1308,23,Male,No,Missouri,43,Annually,PayPal
+1309,59,Male,No,Rhode Island,14,Every 3 Months,Credit Card
+1310,32,Male,No,Hawaii,41,Quarterly,Bank Transfer
+1311,43,Male,No,South Carolina,38,Every 3 Months,Credit Card
+1312,32,Male,No,Tennessee,12,Annually,Credit Card
+1313,66,Male,No,Missouri,19,Monthly,Venmo
+1314,70,Male,No,Missouri,23,Bi-Weekly,Cash
+1315,42,Male,No,Missouri,49,Annually,Venmo
+1316,56,Male,No,Mississippi,29,Quarterly,PayPal
+1317,28,Male,No,Arkansas,14,Bi-Weekly,PayPal
+1318,28,Male,No,Kentucky,19,Monthly,Credit Card
+1319,52,Male,No,Connecticut,19,Bi-Weekly,Venmo
+1320,65,Male,No,Oklahoma,48,Weekly,Credit Card
+1321,56,Male,No,California,19,Annually,PayPal
+1322,59,Male,No,Missouri,45,Every 3 Months,Credit Card
+1323,23,Male,No,Washington,17,Quarterly,Credit Card
+1324,58,Male,No,New York,15,Every 3 Months,Cash
+1325,39,Male,No,Indiana,11,Fortnightly,Credit Card
+1326,28,Male,No,Oregon,1,Monthly,Venmo
+1327,40,Male,No,Texas,17,Monthly,Bank Transfer
+1328,52,Male,No,Florida,37,Weekly,Credit Card
+1329,37,Male,No,Rhode Island,40,Weekly,Debit Card
+1330,70,Male,No,Texas,50,Every 3 Months,PayPal
+1331,30,Male,No,Vermont,20,Bi-Weekly,Credit Card
+1332,38,Male,No,Maryland,8,Bi-Weekly,Credit Card
+1333,66,Male,No,Alaska,16,Quarterly,Bank Transfer
+1334,29,Male,No,Idaho,9,Quarterly,Cash
+1335,46,Male,No,West Virginia,12,Monthly,Debit Card
+1336,56,Male,No,Nevada,26,Weekly,Credit Card
+1337,23,Male,No,Oregon,44,Fortnightly,PayPal
+1338,37,Male,No,Tennessee,19,Bi-Weekly,Venmo
+1339,56,Male,No,Alabama,43,Fortnightly,Bank Transfer
+1340,36,Male,No,Indiana,5,Every 3 Months,PayPal
+1341,40,Male,No,Idaho,5,Every 3 Months,Credit Card
+1342,26,Male,No,Rhode Island,31,Quarterly,Debit Card
+1343,57,Male,No,Arizona,11,Monthly,Cash
+1344,68,Male,No,Florida,34,Monthly,Venmo
+1345,56,Male,No,New York,14,Annually,Credit Card
+1346,40,Male,No,Nebraska,42,Weekly,Credit Card
+1347,44,Male,No,Mississippi,15,Bi-Weekly,Credit Card
+1348,44,Male,No,Vermont,47,Monthly,Venmo
+1349,19,Male,No,Nebraska,23,Fortnightly,PayPal
+1350,21,Male,No,South Carolina,23,Bi-Weekly,Bank Transfer
+1351,31,Male,No,Delaware,1,Every 3 Months,Cash
+1352,30,Male,No,Vermont,28,Quarterly,Credit Card
+1353,65,Male,No,Indiana,37,Bi-Weekly,Bank Transfer
+1354,39,Male,No,Oregon,4,Every 3 Months,Bank Transfer
+1355,64,Male,No,Maryland,21,Quarterly,Debit Card
+1356,59,Male,No,Florida,50,Bi-Weekly,Venmo
+1357,49,Male,No,Indiana,34,Annually,Debit Card
+1358,24,Male,No,Texas,20,Quarterly,Venmo
+1359,19,Male,No,Nebraska,25,Every 3 Months,Debit Card
+1360,27,Male,No,North Carolina,26,Fortnightly,Debit Card
+1361,56,Male,No,Alabama,4,Annually,Bank Transfer
+1362,49,Male,No,Alabama,39,Monthly,Cash
+1363,41,Male,No,Colorado,29,Weekly,Cash
+1364,36,Male,No,Wisconsin,47,Quarterly,Bank Transfer
+1365,68,Male,No,Delaware,5,Every 3 Months,Cash
+1366,28,Male,No,Indiana,18,Fortnightly,PayPal
+1367,45,Male,No,Iowa,10,Fortnightly,Debit Card
+1368,60,Male,No,Iowa,25,Quarterly,Venmo
+1369,21,Male,No,Wisconsin,2,Weekly,Venmo
+1370,32,Male,No,Iowa,48,Fortnightly,Cash
+1371,27,Male,No,Montana,41,Every 3 Months,PayPal
+1372,40,Male,No,Mississippi,42,Monthly,PayPal
+1373,64,Male,No,Michigan,44,Bi-Weekly,Credit Card
+1374,18,Male,No,Virginia,6,Quarterly,Credit Card
+1375,22,Male,No,New York,5,Quarterly,Debit Card
+1376,42,Male,No,Maine,8,Annually,Venmo
+1377,57,Male,No,New Jersey,24,Annually,Cash
+1378,33,Male,No,Maryland,42,Monthly,Credit Card
+1379,37,Male,No,Kentucky,24,Weekly,PayPal
+1380,21,Male,No,Minnesota,38,Bi-Weekly,Venmo
+1381,51,Male,No,Massachusetts,41,Fortnightly,Bank Transfer
+1382,30,Male,No,Illinois,48,Quarterly,Cash
+1383,68,Male,No,Michigan,16,Quarterly,Venmo
+1384,36,Male,No,Wisconsin,4,Monthly,Bank Transfer
+1385,46,Male,No,Alaska,8,Weekly,Cash
+1386,41,Male,No,Mississippi,1,Bi-Weekly,Debit Card
+1387,68,Male,No,Oregon,4,Quarterly,Bank Transfer
+1388,21,Male,No,Maryland,20,Monthly,Credit Card
+1389,62,Male,No,Arkansas,40,Quarterly,Cash
+1390,59,Male,No,Illinois,8,Fortnightly,Debit Card
+1391,25,Male,No,Arkansas,42,Weekly,Venmo
+1392,53,Male,No,Mississippi,38,Annually,Bank Transfer
+1393,31,Male,No,Arkansas,34,Every 3 Months,Debit Card
+1394,46,Male,No,Idaho,14,Fortnightly,Bank Transfer
+1395,26,Male,No,Iowa,39,Weekly,PayPal
+1396,47,Male,No,West Virginia,40,Bi-Weekly,Cash
+1397,37,Male,No,Wisconsin,49,Monthly,Cash
+1398,55,Male,No,Massachusetts,33,Annually,Cash
+1399,30,Male,No,Texas,25,Weekly,Bank Transfer
+1400,19,Male,No,Nebraska,48,Annually,Bank Transfer
+1401,36,Male,No,Nevada,22,Every 3 Months,Venmo
+1402,23,Male,No,Indiana,1,Weekly,Cash
+1403,62,Male,No,North Dakota,47,Monthly,Bank Transfer
+1404,26,Male,No,Georgia,20,Bi-Weekly,Bank Transfer
+1405,36,Male,No,New Mexico,10,Weekly,Venmo
+1406,33,Male,No,New Hampshire,39,Monthly,Cash
+1407,32,Male,No,Washington,15,Monthly,Venmo
+1408,56,Male,No,Nevada,11,Annually,Cash
+1409,58,Male,No,Maine,38,Weekly,Debit Card
+1410,34,Male,No,Idaho,41,Fortnightly,Credit Card
+1411,61,Male,No,Tennessee,18,Annually,Venmo
+1412,48,Male,No,Louisiana,13,Quarterly,PayPal
+1413,25,Male,No,Michigan,43,Annually,Debit Card
+1414,51,Male,No,New Hampshire,12,Quarterly,Venmo
+1415,29,Male,No,Minnesota,3,Bi-Weekly,Debit Card
+1416,54,Male,No,Illinois,12,Every 3 Months,Bank Transfer
+1417,48,Male,No,Idaho,46,Quarterly,PayPal
+1418,62,Male,No,Montana,21,Fortnightly,Cash
+1419,18,Male,No,Alabama,23,Every 3 Months,Bank Transfer
+1420,43,Male,No,Montana,4,Quarterly,Debit Card
+1421,22,Male,No,California,45,Every 3 Months,Cash
+1422,68,Male,No,Pennsylvania,24,Fortnightly,Credit Card
+1423,44,Male,No,Texas,3,Bi-Weekly,PayPal
+1424,51,Male,No,Michigan,12,Every 3 Months,PayPal
+1425,66,Male,No,Connecticut,34,Every 3 Months,Cash
+1426,59,Male,No,Wyoming,39,Annually,Debit Card
+1427,60,Male,No,Michigan,35,Every 3 Months,Credit Card
+1428,31,Male,No,South Dakota,8,Annually,PayPal
+1429,20,Male,No,North Dakota,42,Quarterly,Debit Card
+1430,24,Male,No,Maryland,6,Every 3 Months,Venmo
+1431,48,Male,No,Michigan,3,Fortnightly,PayPal
+1432,39,Male,No,South Dakota,29,Quarterly,Bank Transfer
+1433,34,Male,No,Florida,32,Quarterly,Cash
+1434,70,Male,No,Minnesota,45,Weekly,Venmo
+1435,59,Male,No,New York,21,Bi-Weekly,PayPal
+1436,45,Male,No,Oregon,41,Weekly,Debit Card
+1437,35,Male,No,Minnesota,23,Fortnightly,Venmo
+1438,69,Male,No,Montana,14,Annually,Debit Card
+1439,58,Male,No,Washington,24,Monthly,Cash
+1440,25,Male,No,New Mexico,25,Fortnightly,Credit Card
+1441,27,Male,No,Arizona,13,Monthly,Bank Transfer
+1442,34,Male,No,Nebraska,3,Every 3 Months,Debit Card
+1443,53,Male,No,Idaho,42,Annually,Cash
+1444,58,Male,No,Idaho,2,Monthly,PayPal
+1445,32,Male,No,Vermont,26,Quarterly,Venmo
+1446,64,Male,No,Arkansas,24,Annually,Venmo
+1447,63,Male,No,Wyoming,6,Quarterly,Debit Card
+1448,23,Male,No,New Mexico,25,Monthly,Credit Card
+1449,64,Male,No,West Virginia,11,Every 3 Months,Bank Transfer
+1450,18,Male,No,New York,20,Every 3 Months,Debit Card
+1451,25,Male,No,Illinois,25,Quarterly,PayPal
+1452,54,Male,No,Utah,35,Quarterly,Venmo
+1453,60,Male,No,Colorado,11,Quarterly,Venmo
+1454,36,Male,No,Virginia,41,Fortnightly,PayPal
+1455,66,Male,No,Georgia,17,Annually,Bank Transfer
+1456,60,Male,No,Alabama,1,Every 3 Months,Debit Card
+1457,59,Male,No,Montana,30,Every 3 Months,Venmo
+1458,58,Male,No,Pennsylvania,47,Fortnightly,Bank Transfer
+1459,35,Male,No,Missouri,34,Weekly,Debit Card
+1460,20,Male,No,Maine,18,Fortnightly,PayPal
+1461,70,Male,No,Pennsylvania,33,Bi-Weekly,Venmo
+1462,54,Male,No,Oregon,42,Quarterly,PayPal
+1463,38,Male,No,Utah,2,Quarterly,Venmo
+1464,54,Male,No,Oklahoma,1,Monthly,Credit Card
+1465,33,Male,No,Montana,23,Quarterly,Bank Transfer
+1466,46,Male,No,Nebraska,42,Bi-Weekly,Bank Transfer
+1467,58,Male,No,Alabama,3,Annually,PayPal
+1468,30,Male,No,Ohio,16,Fortnightly,Credit Card
+1469,42,Male,No,Arkansas,46,Fortnightly,Bank Transfer
+1470,28,Male,No,Mississippi,31,Every 3 Months,Debit Card
+1471,43,Male,No,California,15,Every 3 Months,Venmo
+1472,31,Male,No,Alaska,48,Every 3 Months,PayPal
+1473,39,Male,No,Indiana,11,Weekly,Bank Transfer
+1474,69,Male,No,Wisconsin,20,Every 3 Months,Cash
+1475,31,Male,No,New Jersey,6,Monthly,Bank Transfer
+1476,44,Male,No,Rhode Island,24,Monthly,Bank Transfer
+1477,39,Male,No,Wyoming,18,Monthly,Credit Card
+1478,24,Male,No,Oregon,1,Every 3 Months,Credit Card
+1479,28,Male,No,Washington,13,Bi-Weekly,PayPal
+1480,48,Male,No,Washington,2,Weekly,Debit Card
+1481,39,Male,No,New Hampshire,26,Quarterly,Cash
+1482,64,Male,No,Maryland,31,Quarterly,Credit Card
+1483,28,Male,No,Wisconsin,43,Weekly,Venmo
+1484,39,Male,No,Massachusetts,12,Bi-Weekly,PayPal
+1485,49,Male,No,Nebraska,22,Every 3 Months,Cash
+1486,22,Male,No,Nebraska,3,Fortnightly,Bank Transfer
+1487,25,Male,No,Idaho,23,Every 3 Months,Cash
+1488,40,Male,No,Arizona,26,Annually,Credit Card
+1489,23,Male,No,Hawaii,37,Weekly,Venmo
+1490,24,Male,No,Missouri,42,Quarterly,PayPal
+1491,66,Male,No,Louisiana,15,Bi-Weekly,Venmo
+1492,27,Male,No,Arkansas,10,Quarterly,Venmo
+1493,62,Male,No,North Carolina,3,Quarterly,Venmo
+1494,70,Male,No,North Dakota,44,Quarterly,Venmo
+1495,43,Male,No,Montana,23,Fortnightly,Bank Transfer
+1496,45,Male,No,Rhode Island,6,Weekly,PayPal
+1497,63,Male,No,Idaho,9,Bi-Weekly,Credit Card
+1498,69,Male,No,Michigan,16,Every 3 Months,Debit Card
+1499,59,Male,No,Illinois,46,Fortnightly,PayPal
+1500,19,Male,No,Georgia,24,Every 3 Months,Cash
+1501,63,Male,No,Alabama,22,Monthly,Venmo
+1502,37,Male,No,Alaska,13,Every 3 Months,Bank Transfer
+1503,37,Male,No,Massachusetts,20,Fortnightly,PayPal
+1504,50,Male,No,Michigan,46,Quarterly,Cash
+1505,60,Male,No,Alaska,10,Monthly,Cash
+1506,46,Male,No,North Dakota,39,Monthly,PayPal
+1507,35,Male,No,South Carolina,44,Quarterly,Venmo
+1508,66,Male,No,Pennsylvania,7,Annually,Bank Transfer
+1509,35,Male,No,Colorado,3,Every 3 Months,Credit Card
+1510,20,Male,No,New Hampshire,44,Annually,Credit Card
+1511,55,Male,No,Maryland,31,Annually,Credit Card
+1512,34,Male,No,Georgia,48,Weekly,Credit Card
+1513,60,Male,No,Wisconsin,18,Bi-Weekly,Debit Card
+1514,22,Male,No,Texas,27,Monthly,PayPal
+1515,26,Male,No,Utah,1,Weekly,Venmo
+1516,39,Male,No,Indiana,34,Weekly,Debit Card
+1517,20,Male,No,Nevada,5,Bi-Weekly,Bank Transfer
+1518,57,Male,No,New Hampshire,12,Quarterly,PayPal
+1519,68,Male,No,New York,14,Fortnightly,Cash
+1520,50,Male,No,Texas,40,Weekly,Venmo
+1521,21,Male,No,Iowa,39,Quarterly,Venmo
+1522,29,Male,No,Washington,50,Weekly,Credit Card
+1523,38,Male,No,Tennessee,5,Monthly,Venmo
+1524,54,Male,No,Georgia,35,Annually,Venmo
+1525,22,Male,No,Massachusetts,6,Bi-Weekly,Debit Card
+1526,29,Male,No,Oregon,22,Fortnightly,Debit Card
+1527,41,Male,No,Oklahoma,27,Monthly,PayPal
+1528,26,Male,No,Wisconsin,33,Fortnightly,Bank Transfer
+1529,69,Male,No,Oregon,47,Bi-Weekly,Credit Card
+1530,20,Male,No,Georgia,48,Bi-Weekly,Venmo
+1531,59,Male,No,New Mexico,22,Quarterly,Venmo
+1532,63,Male,No,Mississippi,8,Bi-Weekly,Cash
+1533,68,Male,No,Wisconsin,5,Every 3 Months,PayPal
+1534,50,Male,No,New Hampshire,16,Quarterly,Bank Transfer
+1535,55,Male,No,Wyoming,26,Fortnightly,Venmo
+1536,36,Male,No,West Virginia,8,Monthly,PayPal
+1537,18,Male,No,Michigan,17,Quarterly,Cash
+1538,68,Male,No,Alaska,50,Annually,Bank Transfer
+1539,56,Male,No,Illinois,22,Bi-Weekly,Bank Transfer
+1540,32,Male,No,Hawaii,19,Every 3 Months,Credit Card
+1541,28,Male,No,Colorado,14,Monthly,Debit Card
+1542,24,Male,No,Illinois,35,Bi-Weekly,Cash
+1543,59,Male,No,Hawaii,43,Weekly,Venmo
+1544,56,Male,No,Wisconsin,24,Annually,Bank Transfer
+1545,30,Male,No,Arkansas,17,Bi-Weekly,PayPal
+1546,48,Male,No,Delaware,49,Annually,Cash
+1547,60,Male,No,Oregon,17,Annually,Credit Card
+1548,46,Male,No,South Carolina,40,Quarterly,PayPal
+1549,69,Male,No,Maryland,43,Weekly,PayPal
+1550,19,Male,No,Kansas,19,Every 3 Months,Cash
+1551,66,Male,No,Arkansas,40,Quarterly,Debit Card
+1552,64,Male,No,Minnesota,13,Monthly,Debit Card
+1553,54,Male,No,New Mexico,20,Monthly,Debit Card
+1554,27,Male,No,Delaware,21,Quarterly,PayPal
+1555,64,Male,No,Utah,18,Bi-Weekly,Credit Card
+1556,43,Male,No,Ohio,44,Quarterly,Bank Transfer
+1557,43,Male,No,Alabama,26,Quarterly,Venmo
+1558,27,Male,No,South Dakota,34,Quarterly,PayPal
+1559,35,Male,No,New Mexico,24,Every 3 Months,Credit Card
+1560,43,Male,No,Oregon,23,Fortnightly,Venmo
+1561,57,Male,No,Oregon,3,Weekly,Venmo
+1562,50,Male,No,Mississippi,2,Quarterly,Credit Card
+1563,37,Male,No,Alabama,23,Bi-Weekly,Credit Card
+1564,68,Male,No,Kansas,8,Weekly,Credit Card
+1565,22,Male,No,California,30,Every 3 Months,Cash
+1566,58,Male,No,Idaho,48,Annually,Venmo
+1567,48,Male,No,Wyoming,21,Bi-Weekly,Credit Card
+1568,30,Male,No,Minnesota,9,Monthly,Venmo
+1569,51,Male,No,Washington,8,Monthly,Venmo
+1570,20,Male,No,Hawaii,29,Weekly,PayPal
+1571,30,Male,No,Missouri,3,Every 3 Months,Debit Card
+1572,28,Male,No,Colorado,11,Fortnightly,Cash
+1573,37,Male,No,Washington,16,Monthly,Venmo
+1574,36,Male,No,North Dakota,25,Weekly,Debit Card
+1575,18,Male,No,Minnesota,32,Bi-Weekly,Bank Transfer
+1576,52,Male,No,California,28,Fortnightly,Cash
+1577,56,Male,No,Michigan,36,Monthly,PayPal
+1578,68,Male,No,Delaware,7,Fortnightly,Debit Card
+1579,62,Male,No,California,2,Quarterly,Debit Card
+1580,35,Male,No,Oklahoma,6,Monthly,Cash
+1581,65,Male,No,North Dakota,30,Annually,Credit Card
+1582,69,Male,No,Ohio,46,Quarterly,PayPal
+1583,28,Male,No,Hawaii,39,Monthly,Cash
+1584,37,Male,No,Maryland,8,Annually,Cash
+1585,41,Male,No,Hawaii,46,Quarterly,Venmo
+1586,37,Male,No,Alabama,40,Fortnightly,Cash
+1587,25,Male,No,Oklahoma,21,Weekly,Debit Card
+1588,41,Male,No,Alabama,33,Fortnightly,Venmo
+1589,48,Male,No,Vermont,3,Monthly,Cash
+1590,42,Male,No,Ohio,48,Weekly,Venmo
+1591,54,Male,No,Wisconsin,8,Annually,Cash
+1592,18,Male,No,South Dakota,24,Annually,Bank Transfer
+1593,56,Male,No,Iowa,10,Every 3 Months,Credit Card
+1594,61,Male,No,Maryland,25,Monthly,PayPal
+1595,40,Male,No,Colorado,3,Fortnightly,Bank Transfer
+1596,34,Male,No,Wisconsin,45,Fortnightly,Cash
+1597,42,Male,No,Mississippi,15,Monthly,Bank Transfer
+1598,43,Male,No,Mississippi,34,Quarterly,Debit Card
+1599,47,Male,No,California,21,Bi-Weekly,Credit Card
+1600,48,Male,No,Delaware,22,Bi-Weekly,Venmo
+1601,20,Male,No,Montana,24,Weekly,PayPal
+1602,65,Male,No,Indiana,33,Monthly,Venmo
+1603,54,Male,No,West Virginia,13,Fortnightly,Credit Card
+1604,23,Male,No,Iowa,17,Bi-Weekly,Debit Card
+1605,18,Male,No,Maine,25,Every 3 Months,Venmo
+1606,70,Male,No,Connecticut,15,Bi-Weekly,Bank Transfer
+1607,55,Male,No,Kansas,4,Fortnightly,Debit Card
+1608,49,Male,No,Vermont,43,Quarterly,Venmo
+1609,26,Male,No,Nebraska,12,Bi-Weekly,Cash
+1610,33,Male,No,Nevada,3,Monthly,Credit Card
+1611,20,Male,No,Tennessee,1,Annually,Credit Card
+1612,41,Male,No,Arkansas,6,Monthly,PayPal
+1613,18,Male,No,Wisconsin,26,Monthly,Bank Transfer
+1614,26,Male,No,Illinois,6,Fortnightly,Credit Card
+1615,30,Male,No,Kansas,22,Bi-Weekly,Cash
+1616,64,Male,No,New York,45,Bi-Weekly,PayPal
+1617,26,Male,No,Colorado,50,Quarterly,Bank Transfer
+1618,43,Male,No,Wisconsin,50,Fortnightly,PayPal
+1619,63,Male,No,Michigan,39,Quarterly,Venmo
+1620,57,Male,No,Hawaii,50,Bi-Weekly,Cash
+1621,25,Male,No,Virginia,27,Every 3 Months,Bank Transfer
+1622,68,Male,No,Ohio,38,Fortnightly,Venmo
+1623,31,Male,No,Missouri,37,Every 3 Months,PayPal
+1624,64,Male,No,Indiana,50,Annually,Venmo
+1625,38,Male,No,Florida,40,Every 3 Months,Venmo
+1626,34,Male,No,Minnesota,3,Bi-Weekly,PayPal
+1627,32,Male,No,Nevada,45,Bi-Weekly,Bank Transfer
+1628,69,Male,No,Maine,8,Annually,Venmo
+1629,45,Male,No,Massachusetts,7,Monthly,PayPal
+1630,35,Male,No,North Dakota,13,Quarterly,Credit Card
+1631,63,Male,No,New Jersey,29,Every 3 Months,Debit Card
+1632,65,Male,No,Indiana,7,Fortnightly,PayPal
+1633,35,Male,No,Oregon,50,Every 3 Months,PayPal
+1634,54,Male,No,North Dakota,33,Bi-Weekly,Bank Transfer
+1635,28,Male,No,South Carolina,30,Every 3 Months,Debit Card
+1636,68,Male,No,North Carolina,40,Annually,Cash
+1637,58,Male,No,North Dakota,49,Fortnightly,Credit Card
+1638,35,Male,No,Massachusetts,32,Fortnightly,Bank Transfer
+1639,68,Male,No,Tennessee,18,Weekly,PayPal
+1640,41,Male,No,Missouri,50,Annually,Bank Transfer
+1641,65,Male,No,Tennessee,13,Weekly,Debit Card
+1642,50,Male,No,Colorado,1,Every 3 Months,Bank Transfer
+1643,18,Male,No,Mississippi,16,Fortnightly,Bank Transfer
+1644,38,Male,No,Ohio,6,Monthly,PayPal
+1645,68,Male,No,North Carolina,21,Monthly,PayPal
+1646,53,Male,No,Ohio,36,Every 3 Months,Bank Transfer
+1647,58,Male,No,Nebraska,20,Every 3 Months,Credit Card
+1648,34,Male,No,Hawaii,8,Quarterly,Credit Card
+1649,36,Male,No,Oklahoma,22,Monthly,Bank Transfer
+1650,58,Male,No,Wisconsin,3,Quarterly,PayPal
+1651,60,Male,No,Arkansas,46,Fortnightly,Venmo
+1652,59,Male,No,Texas,42,Monthly,Bank Transfer
+1653,65,Male,No,New Mexico,1,Fortnightly,Cash
+1654,31,Male,No,Colorado,29,Bi-Weekly,Venmo
+1655,43,Male,No,Indiana,14,Quarterly,Venmo
+1656,37,Male,No,Arizona,4,Monthly,Venmo
+1657,21,Male,No,Indiana,41,Every 3 Months,Credit Card
+1658,69,Male,No,Indiana,4,Bi-Weekly,Cash
+1659,32,Male,No,Alaska,47,Weekly,Debit Card
+1660,53,Male,No,Utah,44,Annually,Bank Transfer
+1661,59,Male,No,Louisiana,37,Monthly,Venmo
+1662,64,Male,No,Iowa,21,Quarterly,Credit Card
+1663,63,Male,No,New Mexico,46,Fortnightly,Debit Card
+1664,43,Male,No,Maine,1,Bi-Weekly,Cash
+1665,19,Male,No,Minnesota,35,Weekly,PayPal
+1666,40,Male,No,New Mexico,49,Monthly,Cash
+1667,51,Male,No,Arkansas,47,Annually,Cash
+1668,51,Male,No,Oklahoma,24,Every 3 Months,Bank Transfer
+1669,66,Male,No,Utah,28,Fortnightly,Credit Card
+1670,42,Male,No,Wisconsin,22,Quarterly,PayPal
+1671,22,Male,No,Utah,20,Weekly,Venmo
+1672,31,Male,No,Utah,25,Weekly,PayPal
+1673,18,Male,No,South Carolina,15,Quarterly,Debit Card
+1674,21,Male,No,Hawaii,49,Bi-Weekly,Debit Card
+1675,35,Male,No,Alaska,10,Fortnightly,PayPal
+1676,35,Male,No,Colorado,21,Annually,Venmo
+1677,27,Male,No,West Virginia,34,Weekly,PayPal
+1678,65,Male,No,Oregon,41,Weekly,PayPal
+1679,41,Male,No,Ohio,30,Fortnightly,PayPal
+1680,60,Male,No,Massachusetts,24,Bi-Weekly,PayPal
+1681,61,Male,No,Louisiana,6,Annually,Credit Card
+1682,24,Male,No,Virginia,14,Bi-Weekly,Cash
+1683,65,Male,No,New York,37,Bi-Weekly,Venmo
+1684,23,Male,No,Arkansas,37,Quarterly,Debit Card
+1685,30,Male,No,New Mexico,28,Weekly,Cash
+1686,33,Male,No,Minnesota,43,Bi-Weekly,Venmo
+1687,22,Male,No,Illinois,25,Annually,Credit Card
+1688,67,Male,No,Georgia,4,Annually,Venmo
+1689,28,Male,No,Mississippi,13,Fortnightly,Credit Card
+1690,32,Male,No,North Carolina,32,Monthly,Credit Card
+1691,40,Male,No,Nevada,1,Annually,Cash
+1692,64,Male,No,Connecticut,4,Annually,Credit Card
+1693,56,Male,No,Utah,33,Bi-Weekly,Debit Card
+1694,63,Male,No,Tennessee,45,Fortnightly,Venmo
+1695,20,Male,No,Mississippi,20,Fortnightly,Credit Card
+1696,54,Male,No,Nebraska,1,Fortnightly,Venmo
+1697,31,Male,No,West Virginia,7,Bi-Weekly,Bank Transfer
+1698,36,Male,No,South Carolina,48,Every 3 Months,Venmo
+1699,25,Male,No,Iowa,46,Quarterly,Credit Card
+1700,20,Male,No,North Dakota,34,Annually,Bank Transfer
+1701,62,Male,No,West Virginia,36,Monthly,Credit Card
+1702,69,Male,No,Mississippi,44,Every 3 Months,PayPal
+1703,54,Male,No,Alabama,48,Weekly,Debit Card
+1704,39,Male,No,California,12,Annually,Venmo
+1705,56,Male,No,Idaho,19,Every 3 Months,Bank Transfer
+1706,39,Male,No,South Dakota,49,Bi-Weekly,Venmo
+1707,37,Male,No,North Dakota,25,Fortnightly,Credit Card
+1708,25,Male,No,Nevada,25,Bi-Weekly,Credit Card
+1709,35,Male,No,Florida,1,Quarterly,Bank Transfer
+1710,45,Male,No,Indiana,19,Annually,Venmo
+1711,19,Male,No,Arkansas,7,Quarterly,Debit Card
+1712,21,Male,No,North Carolina,19,Monthly,Debit Card
+1713,65,Male,No,Illinois,9,Fortnightly,Debit Card
+1714,49,Male,No,Missouri,37,Quarterly,Venmo
+1715,30,Male,No,South Dakota,15,Monthly,Bank Transfer
+1716,23,Male,No,Idaho,30,Bi-Weekly,PayPal
+1717,69,Male,No,Connecticut,30,Every 3 Months,Venmo
+1718,29,Male,No,Hawaii,16,Bi-Weekly,Cash
+1719,54,Male,No,Maryland,14,Every 3 Months,Cash
+1720,45,Male,No,Maryland,8,Quarterly,Venmo
+1721,25,Male,No,Massachusetts,40,Bi-Weekly,Cash
+1722,34,Male,No,Delaware,24,Monthly,Venmo
+1723,46,Male,No,Massachusetts,14,Fortnightly,Cash
+1724,70,Male,No,New York,39,Annually,Bank Transfer
+1725,42,Male,No,Delaware,21,Weekly,PayPal
+1726,45,Male,No,Massachusetts,32,Quarterly,Cash
+1727,57,Male,No,Indiana,45,Weekly,Credit Card
+1728,49,Male,No,Virginia,19,Monthly,Credit Card
+1729,23,Male,No,Wyoming,1,Every 3 Months,Debit Card
+1730,47,Male,No,Illinois,12,Fortnightly,Venmo
+1731,23,Male,No,Alabama,26,Weekly,Cash
+1732,21,Male,No,Idaho,12,Monthly,Debit Card
+1733,45,Male,No,Rhode Island,36,Every 3 Months,Cash
+1734,67,Male,No,New York,22,Annually,Bank Transfer
+1735,31,Male,No,Missouri,16,Quarterly,Credit Card
+1736,58,Male,No,Texas,31,Annually,Debit Card
+1737,57,Male,No,Tennessee,43,Quarterly,Cash
+1738,42,Male,No,Ohio,50,Bi-Weekly,Bank Transfer
+1739,60,Male,No,Tennessee,37,Weekly,PayPal
+1740,21,Male,No,Minnesota,23,Weekly,Credit Card
+1741,69,Male,No,Wisconsin,10,Every 3 Months,Cash
+1742,41,Male,No,Delaware,20,Monthly,Venmo
+1743,51,Male,No,Kansas,18,Every 3 Months,Credit Card
+1744,23,Male,No,Missouri,3,Weekly,Debit Card
+1745,57,Male,No,Michigan,23,Weekly,PayPal
+1746,40,Male,No,West Virginia,27,Weekly,Credit Card
+1747,65,Male,No,Alabama,44,Fortnightly,Bank Transfer
+1748,61,Male,No,New Hampshire,41,Quarterly,Cash
+1749,34,Male,No,Montana,41,Annually,Bank Transfer
+1750,43,Male,No,Wyoming,36,Every 3 Months,Credit Card
+1751,31,Male,No,Missouri,38,Every 3 Months,Credit Card
+1752,57,Male,No,Ohio,34,Annually,PayPal
+1753,34,Male,No,South Dakota,14,Quarterly,Debit Card
+1754,25,Male,No,Colorado,23,Fortnightly,Venmo
+1755,66,Male,No,Massachusetts,18,Fortnightly,Debit Card
+1756,56,Male,No,Delaware,45,Monthly,Cash
+1757,49,Male,No,New Hampshire,14,Weekly,PayPal
+1758,19,Male,No,Michigan,48,Annually,Bank Transfer
+1759,27,Male,No,Pennsylvania,17,Bi-Weekly,Debit Card
+1760,68,Male,No,Louisiana,1,Weekly,Venmo
+1761,20,Male,No,Minnesota,39,Weekly,Credit Card
+1762,21,Male,No,Hawaii,24,Weekly,PayPal
+1763,36,Male,No,Idaho,41,Fortnightly,Credit Card
+1764,37,Male,No,Vermont,28,Annually,Venmo
+1765,61,Male,No,Delaware,34,Quarterly,PayPal
+1766,68,Male,No,New Mexico,41,Quarterly,Bank Transfer
+1767,60,Male,No,Alaska,27,Bi-Weekly,Venmo
+1768,69,Male,No,Minnesota,46,Fortnightly,PayPal
+1769,25,Male,No,Nebraska,2,Every 3 Months,Venmo
+1770,32,Male,No,Alaska,45,Monthly,Credit Card
+1771,53,Male,No,Michigan,34,Weekly,Credit Card
+1772,46,Male,No,Indiana,9,Annually,Credit Card
+1773,58,Male,No,Hawaii,1,Annually,PayPal
+1774,21,Male,No,West Virginia,17,Annually,Cash
+1775,46,Male,No,New York,6,Weekly,Bank Transfer
+1776,18,Male,No,Iowa,12,Bi-Weekly,Bank Transfer
+1777,56,Male,No,Arizona,10,Every 3 Months,Bank Transfer
+1778,18,Male,No,Minnesota,4,Fortnightly,Cash
+1779,49,Male,No,Texas,8,Bi-Weekly,Debit Card
+1780,29,Male,No,Virginia,41,Weekly,Bank Transfer
+1781,67,Male,No,North Dakota,49,Weekly,Cash
+1782,31,Male,No,Iowa,49,Quarterly,PayPal
+1783,52,Male,No,Utah,40,Fortnightly,Credit Card
+1784,42,Male,No,Ohio,30,Monthly,Cash
+1785,32,Male,No,Louisiana,4,Quarterly,Cash
+1786,47,Male,No,Iowa,22,Monthly,Bank Transfer
+1787,45,Male,No,Maryland,22,Monthly,Debit Card
+1788,20,Male,No,Montana,10,Quarterly,Bank Transfer
+1789,66,Male,No,Illinois,23,Bi-Weekly,PayPal
+1790,52,Male,No,Arizona,43,Quarterly,PayPal
+1791,50,Male,No,North Carolina,31,Bi-Weekly,Credit Card
+1792,62,Male,No,Montana,38,Annually,Debit Card
+1793,38,Male,No,Iowa,22,Every 3 Months,Bank Transfer
+1794,65,Male,No,Iowa,45,Every 3 Months,Debit Card
+1795,60,Male,No,Ohio,21,Fortnightly,Bank Transfer
+1796,68,Male,No,Wisconsin,9,Fortnightly,Debit Card
+1797,62,Male,No,South Carolina,34,Weekly,Debit Card
+1798,62,Male,No,Oregon,26,Weekly,PayPal
+1799,40,Male,No,North Dakota,1,Weekly,Credit Card
+1800,32,Male,No,California,47,Weekly,Debit Card
+1801,22,Male,No,Mississippi,30,Weekly,Cash
+1802,33,Male,No,New Jersey,48,Fortnightly,Credit Card
+1803,57,Male,No,Rhode Island,31,Bi-Weekly,Bank Transfer
+1804,60,Male,No,New Hampshire,33,Fortnightly,PayPal
+1805,30,Male,No,Louisiana,39,Weekly,Debit Card
+1806,41,Male,No,Arizona,46,Weekly,Venmo
+1807,58,Male,No,Rhode Island,24,Annually,Credit Card
+1808,34,Male,No,Vermont,37,Fortnightly,PayPal
+1809,67,Male,No,Tennessee,7,Monthly,Credit Card
+1810,58,Male,No,Alaska,6,Fortnightly,Credit Card
+1811,41,Male,No,Maryland,16,Bi-Weekly,Credit Card
+1812,42,Male,No,Wisconsin,33,Annually,Bank Transfer
+1813,50,Male,No,Nevada,18,Bi-Weekly,Venmo
+1814,40,Male,No,Illinois,24,Weekly,Credit Card
+1815,32,Male,No,Montana,24,Quarterly,Debit Card
+1816,51,Male,No,New Mexico,48,Every 3 Months,Venmo
+1817,26,Male,No,Virginia,4,Weekly,Venmo
+1818,32,Male,No,Delaware,20,Weekly,Credit Card
+1819,58,Male,No,North Carolina,47,Every 3 Months,Credit Card
+1820,51,Male,No,Nevada,50,Quarterly,Cash
+1821,19,Male,No,Washington,31,Monthly,PayPal
+1822,57,Male,No,Maine,29,Quarterly,Credit Card
+1823,66,Male,No,Connecticut,4,Annually,Cash
+1824,62,Male,No,Louisiana,40,Bi-Weekly,Cash
+1825,58,Male,No,Illinois,31,Monthly,Credit Card
+1826,23,Male,No,South Dakota,41,Weekly,Bank Transfer
+1827,45,Male,No,Indiana,44,Annually,PayPal
+1828,20,Male,No,Vermont,31,Weekly,Cash
+1829,33,Male,No,New Hampshire,45,Every 3 Months,Debit Card
+1830,30,Male,No,Oregon,50,Quarterly,Venmo
+1831,50,Male,No,Kansas,7,Annually,Credit Card
+1832,62,Male,No,Maine,5,Every 3 Months,Bank Transfer
+1833,69,Male,No,Louisiana,48,Monthly,Debit Card
+1834,34,Male,No,Louisiana,19,Fortnightly,Bank Transfer
+1835,49,Male,No,Indiana,39,Fortnightly,Venmo
+1836,65,Male,No,Kentucky,45,Quarterly,Cash
+1837,66,Male,No,South Carolina,35,Monthly,Cash
+1838,41,Male,No,Montana,8,Monthly,PayPal
+1839,37,Male,No,Vermont,11,Quarterly,Credit Card
+1840,32,Male,No,Mississippi,32,Annually,Venmo
+1841,42,Male,No,Wyoming,46,Every 3 Months,Cash
+1842,31,Male,No,Vermont,7,Every 3 Months,Debit Card
+1843,61,Male,No,Alabama,1,Annually,Bank Transfer
+1844,36,Male,No,Kentucky,32,Monthly,Bank Transfer
+1845,60,Male,No,South Dakota,31,Annually,Venmo
+1846,51,Male,No,Delaware,39,Quarterly,Debit Card
+1847,68,Male,No,Wisconsin,9,Quarterly,Debit Card
+1848,46,Male,No,Arizona,49,Weekly,Debit Card
+1849,19,Male,No,Maine,34,Every 3 Months,Credit Card
+1850,30,Male,No,New Mexico,35,Monthly,Credit Card
+1851,51,Male,No,Wyoming,50,Weekly,Credit Card
+1852,28,Male,No,Delaware,4,Fortnightly,Venmo
+1853,41,Male,No,Pennsylvania,32,Weekly,Cash
+1854,29,Male,No,North Dakota,11,Fortnightly,Bank Transfer
+1855,25,Male,No,Kentucky,49,Annually,Credit Card
+1856,60,Male,No,Rhode Island,9,Annually,Bank Transfer
+1857,63,Male,No,Arizona,30,Bi-Weekly,Venmo
+1858,51,Male,No,Colorado,33,Monthly,Cash
+1859,22,Male,No,Maine,8,Annually,Venmo
+1860,54,Male,No,New Jersey,29,Fortnightly,Credit Card
+1861,18,Male,No,Kansas,4,Monthly,Credit Card
+1862,29,Male,No,South Dakota,19,Monthly,Bank Transfer
+1863,59,Male,No,New Hampshire,10,Fortnightly,Debit Card
+1864,25,Male,No,Connecticut,39,Monthly,Venmo
+1865,19,Male,No,Wyoming,21,Quarterly,Bank Transfer
+1866,56,Male,No,Missouri,12,Monthly,Venmo
+1867,31,Male,No,Alaska,9,Fortnightly,Debit Card
+1868,45,Male,No,Delaware,20,Quarterly,Debit Card
+1869,23,Male,No,Indiana,44,Fortnightly,Bank Transfer
+1870,18,Male,No,West Virginia,16,Every 3 Months,PayPal
+1871,43,Male,No,Wyoming,27,Fortnightly,Debit Card
+1872,56,Male,No,Illinois,14,Every 3 Months,Bank Transfer
+1873,43,Male,No,Alaska,24,Monthly,Credit Card
+1874,64,Male,No,Wisconsin,49,Weekly,Credit Card
+1875,67,Male,No,Indiana,14,Weekly,Cash
+1876,63,Male,No,Tennessee,6,Quarterly,Debit Card
+1877,54,Male,No,Illinois,20,Quarterly,Credit Card
+1878,69,Male,No,Pennsylvania,3,Annually,Cash
+1879,34,Male,No,Oklahoma,5,Monthly,Credit Card
+1880,56,Male,No,Tennessee,46,Bi-Weekly,Debit Card
+1881,34,Male,No,New Jersey,8,Monthly,PayPal
+1882,58,Male,No,New Jersey,13,Bi-Weekly,Bank Transfer
+1883,44,Male,No,Tennessee,25,Quarterly,Debit Card
+1884,25,Male,No,Georgia,39,Fortnightly,PayPal
+1885,27,Male,No,Arizona,15,Bi-Weekly,Bank Transfer
+1886,26,Male,No,Nevada,35,Monthly,Credit Card
+1887,18,Male,No,Arkansas,46,Bi-Weekly,Cash
+1888,64,Male,No,North Dakota,3,Monthly,Cash
+1889,62,Male,No,South Dakota,48,Weekly,Bank Transfer
+1890,59,Male,No,North Carolina,27,Weekly,Debit Card
+1891,36,Male,No,Hawaii,5,Weekly,Debit Card
+1892,69,Male,No,New Hampshire,48,Quarterly,Venmo
+1893,39,Male,No,California,12,Weekly,Bank Transfer
+1894,28,Male,No,Delaware,10,Fortnightly,Venmo
+1895,42,Male,No,Arizona,48,Bi-Weekly,Credit Card
+1896,31,Male,No,Washington,3,Monthly,Debit Card
+1897,57,Male,No,Nevada,19,Monthly,Cash
+1898,53,Male,No,Alaska,11,Fortnightly,Venmo
+1899,59,Male,No,Texas,25,Monthly,PayPal
+1900,32,Male,No,New York,42,Weekly,Venmo
+1901,65,Male,No,Iowa,34,Quarterly,Debit Card
+1902,56,Male,No,Arizona,50,Quarterly,Venmo
+1903,31,Male,No,New Mexico,21,Monthly,Bank Transfer
+1904,59,Male,No,North Carolina,37,Weekly,Bank Transfer
+1905,22,Male,No,Nevada,46,Monthly,PayPal
+1906,47,Male,No,Idaho,14,Fortnightly,Debit Card
+1907,23,Male,No,Vermont,24,Fortnightly,Bank Transfer
+1908,69,Male,No,New Mexico,36,Every 3 Months,Cash
+1909,18,Male,No,Georgia,19,Bi-Weekly,Credit Card
+1910,50,Male,No,Kentucky,12,Monthly,PayPal
+1911,29,Male,No,New York,13,Quarterly,Venmo
+1912,65,Male,No,Arizona,32,Bi-Weekly,Credit Card
+1913,29,Male,No,Colorado,5,Bi-Weekly,Cash
+1914,49,Male,No,Kentucky,29,Annually,Venmo
+1915,28,Male,No,Alaska,40,Fortnightly,Venmo
+1916,51,Male,No,Alabama,44,Weekly,PayPal
+1917,26,Male,No,Connecticut,3,Bi-Weekly,PayPal
+1918,38,Male,No,Hawaii,35,Bi-Weekly,Venmo
+1919,35,Male,No,Idaho,33,Monthly,PayPal
+1920,34,Male,No,Virginia,20,Bi-Weekly,Credit Card
+1921,51,Male,No,Connecticut,40,Every 3 Months,Bank Transfer
+1922,47,Male,No,Michigan,13,Annually,Cash
+1923,18,Male,No,Kentucky,9,Monthly,PayPal
+1924,64,Male,No,Nebraska,7,Annually,PayPal
+1925,30,Male,No,Michigan,42,Quarterly,Venmo
+1926,59,Male,No,Utah,44,Fortnightly,Venmo
+1927,66,Male,No,New Mexico,6,Annually,Venmo
+1928,40,Male,No,Florida,8,Every 3 Months,Debit Card
+1929,25,Male,No,Mississippi,10,Weekly,PayPal
+1930,59,Male,No,Hawaii,46,Quarterly,Debit Card
+1931,66,Male,No,North Carolina,26,Weekly,Bank Transfer
+1932,54,Male,No,Illinois,6,Every 3 Months,PayPal
+1933,42,Male,No,Maryland,47,Every 3 Months,Cash
+1934,48,Male,No,Montana,28,Annually,Cash
+1935,34,Male,No,Michigan,23,Annually,Debit Card
+1936,19,Male,No,North Carolina,45,Fortnightly,Debit Card
+1937,70,Male,No,Minnesota,44,Every 3 Months,PayPal
+1938,43,Male,No,Delaware,11,Monthly,Venmo
+1939,46,Male,No,Kentucky,39,Bi-Weekly,Bank Transfer
+1940,66,Male,No,Ohio,20,Every 3 Months,Bank Transfer
+1941,50,Male,No,Alaska,48,Fortnightly,Venmo
+1942,55,Male,No,Vermont,46,Quarterly,PayPal
+1943,63,Male,No,Alabama,22,Monthly,Credit Card
+1944,32,Male,No,Wisconsin,45,Annually,Debit Card
+1945,30,Male,No,Arkansas,49,Every 3 Months,Debit Card
+1946,35,Male,No,Georgia,9,Every 3 Months,Debit Card
+1947,59,Male,No,Louisiana,41,Quarterly,Bank Transfer
+1948,59,Male,No,New York,2,Monthly,Debit Card
+1949,54,Male,No,Connecticut,39,Bi-Weekly,Debit Card
+1950,63,Male,No,Nebraska,12,Quarterly,Venmo
+1951,43,Male,No,Arkansas,26,Every 3 Months,Cash
+1952,33,Male,No,Connecticut,32,Bi-Weekly,Bank Transfer
+1953,57,Male,No,Maryland,50,Bi-Weekly,PayPal
+1954,25,Male,No,Colorado,3,Fortnightly,Cash
+1955,26,Male,No,Colorado,3,Quarterly,Bank Transfer
+1956,50,Male,No,Maine,37,Monthly,Credit Card
+1957,70,Male,No,Oklahoma,20,Fortnightly,Cash
+1958,68,Male,No,South Carolina,26,Bi-Weekly,Venmo
+1959,39,Male,No,Nevada,47,Quarterly,Cash
+1960,46,Male,No,Colorado,7,Every 3 Months,Credit Card
+1961,57,Male,No,Massachusetts,40,Annually,Bank Transfer
+1962,47,Male,No,Nevada,45,Quarterly,Cash
+1963,40,Male,No,Iowa,20,Fortnightly,Debit Card
+1964,52,Male,No,Michigan,11,Weekly,Bank Transfer
+1965,40,Male,No,West Virginia,50,Monthly,PayPal
+1966,67,Male,No,Indiana,25,Quarterly,Venmo
+1967,67,Male,No,Indiana,5,Fortnightly,Venmo
+1968,37,Male,No,Georgia,4,Annually,Venmo
+1969,67,Male,No,Minnesota,25,Weekly,Credit Card
+1970,64,Male,No,Louisiana,11,Fortnightly,PayPal
+1971,28,Male,No,Maryland,4,Bi-Weekly,Debit Card
+1972,54,Male,No,Pennsylvania,1,Monthly,PayPal
+1973,54,Male,No,Louisiana,48,Every 3 Months,Debit Card
+1974,24,Male,No,Maryland,9,Every 3 Months,Debit Card
+1975,27,Male,No,Tennessee,2,Fortnightly,Credit Card
+1976,53,Male,No,Illinois,4,Quarterly,Credit Card
+1977,32,Male,No,Wyoming,43,Fortnightly,Debit Card
+1978,24,Male,No,Florida,32,Annually,Debit Card
+1979,45,Male,No,Massachusetts,1,Quarterly,Cash
+1980,49,Male,No,Tennessee,38,Fortnightly,PayPal
+1981,51,Male,No,Iowa,25,Fortnightly,Venmo
+1982,69,Male,No,Michigan,42,Quarterly,Cash
+1983,41,Male,No,Kansas,32,Monthly,PayPal
+1984,59,Male,No,Georgia,21,Quarterly,Credit Card
+1985,26,Male,No,West Virginia,26,Fortnightly,Bank Transfer
+1986,23,Male,No,Tennessee,6,Fortnightly,Cash
+1987,62,Male,No,Arkansas,14,Quarterly,Debit Card
+1988,69,Male,No,Vermont,4,Quarterly,Debit Card
+1989,46,Male,No,Virginia,26,Weekly,Credit Card
+1990,35,Male,No,Maryland,39,Bi-Weekly,Cash
+1991,32,Male,No,Connecticut,15,Annually,Debit Card
+1992,46,Male,No,Missouri,1,Every 3 Months,Venmo
+1993,33,Male,No,New Jersey,28,Monthly,PayPal
+1994,32,Male,No,Arkansas,17,Weekly,Cash
+1995,33,Male,No,Nevada,24,Weekly,Bank Transfer
+1996,67,Male,No,Missouri,29,Quarterly,Credit Card
+1997,67,Male,No,South Dakota,18,Every 3 Months,Cash
+1998,42,Male,No,Connecticut,10,Bi-Weekly,PayPal
+1999,20,Male,No,Vermont,19,Quarterly,Debit Card
+2000,39,Male,No,Tennessee,26,Monthly,Credit Card
+2001,26,Male,No,California,25,Bi-Weekly,Venmo
+2002,51,Male,No,Wyoming,2,Fortnightly,Debit Card
+2003,31,Male,No,New York,19,Every 3 Months,Cash
+2004,68,Male,No,Maine,32,Quarterly,Venmo
+2005,44,Male,No,Georgia,13,Bi-Weekly,Cash
+2006,18,Male,No,Tennessee,30,Fortnightly,PayPal
+2007,58,Male,No,New Mexico,2,Annually,Debit Card
+2008,26,Male,No,Virginia,8,Quarterly,Cash
+2009,57,Male,No,Florida,27,Every 3 Months,PayPal
+2010,37,Male,No,Alabama,26,Bi-Weekly,Venmo
+2011,24,Male,No,Texas,3,Bi-Weekly,Venmo
+2012,57,Male,No,West Virginia,4,Monthly,Debit Card
+2013,48,Male,No,Nevada,5,Fortnightly,Bank Transfer
+2014,39,Male,No,Virginia,25,Quarterly,PayPal
+2015,51,Male,No,Wisconsin,47,Bi-Weekly,Venmo
+2016,57,Male,No,Virginia,8,Fortnightly,Debit Card
+2017,53,Male,No,Maine,20,Fortnightly,Credit Card
+2018,70,Male,No,Massachusetts,42,Every 3 Months,Venmo
+2019,60,Male,No,Arkansas,20,Weekly,Debit Card
+2020,31,Male,No,Idaho,23,Fortnightly,PayPal
+2021,41,Male,No,Pennsylvania,26,Quarterly,Credit Card
+2022,62,Male,No,Maine,48,Quarterly,Debit Card
+2023,59,Male,No,Alabama,16,Bi-Weekly,Bank Transfer
+2024,46,Male,No,Idaho,28,Bi-Weekly,Bank Transfer
+2025,62,Male,No,Arkansas,39,Weekly,Bank Transfer
+2026,42,Male,No,Delaware,43,Fortnightly,Bank Transfer
+2027,37,Male,No,Maine,45,Every 3 Months,Bank Transfer
+2028,50,Male,No,Nebraska,50,Every 3 Months,Venmo
+2029,29,Male,No,Ohio,10,Bi-Weekly,Cash
+2030,25,Male,No,Montana,40,Quarterly,Bank Transfer
+2031,66,Male,No,New Mexico,38,Monthly,Venmo
+2032,21,Male,No,North Carolina,2,Monthly,Credit Card
+2033,46,Male,No,South Carolina,13,Annually,Credit Card
+2034,57,Male,No,Illinois,33,Annually,Cash
+2035,61,Male,No,Alabama,27,Monthly,Credit Card
+2036,53,Male,No,Oklahoma,43,Weekly,Venmo
+2037,37,Male,No,Minnesota,46,Weekly,PayPal
+2038,39,Male,No,Illinois,7,Bi-Weekly,Cash
+2039,53,Male,No,Arkansas,35,Fortnightly,Debit Card
+2040,35,Male,No,Minnesota,31,Bi-Weekly,Cash
+2041,69,Male,No,South Carolina,42,Quarterly,Debit Card
+2042,66,Male,No,New York,14,Bi-Weekly,Cash
+2043,19,Male,No,Alabama,35,Monthly,Credit Card
+2044,47,Male,No,New York,49,Weekly,PayPal
+2045,49,Male,No,Missouri,17,Fortnightly,Cash
+2046,31,Male,No,Georgia,26,Quarterly,PayPal
+2047,39,Male,No,Oklahoma,30,Every 3 Months,Bank Transfer
+2048,58,Male,No,Connecticut,32,Annually,Cash
+2049,45,Male,No,Michigan,35,Quarterly,Credit Card
+2050,68,Male,No,Rhode Island,15,Annually,Debit Card
+2051,35,Male,No,Mississippi,10,Annually,Credit Card
+2052,65,Male,No,Massachusetts,14,Monthly,Cash
+2053,45,Male,No,New Hampshire,30,Annually,PayPal
+2054,19,Male,No,Wyoming,16,Fortnightly,Bank Transfer
+2055,65,Male,No,New Jersey,14,Annually,PayPal
+2056,28,Male,No,Texas,28,Weekly,Debit Card
+2057,55,Male,No,Minnesota,29,Monthly,Cash
+2058,66,Male,No,South Dakota,5,Every 3 Months,Credit Card
+2059,29,Male,No,Washington,17,Quarterly,Debit Card
+2060,56,Male,No,California,50,Weekly,Cash
+2061,21,Male,No,Wisconsin,23,Quarterly,Debit Card
+2062,32,Male,No,Michigan,22,Annually,PayPal
+2063,54,Male,No,South Carolina,15,Quarterly,PayPal
+2064,61,Male,No,Indiana,32,Monthly,Venmo
+2065,31,Male,No,Arkansas,5,Monthly,Bank Transfer
+2066,27,Male,No,Oregon,6,Bi-Weekly,PayPal
+2067,64,Male,No,Illinois,44,Fortnightly,Credit Card
+2068,60,Male,No,Maryland,23,Fortnightly,Cash
+2069,70,Male,No,Vermont,44,Monthly,Credit Card
+2070,36,Male,No,Texas,3,Quarterly,Cash
+2071,56,Male,No,Nebraska,14,Monthly,Cash
+2072,69,Male,No,South Carolina,37,Quarterly,Debit Card
+2073,39,Male,No,Massachusetts,22,Weekly,Credit Card
+2074,38,Male,No,Texas,2,Every 3 Months,Debit Card
+2075,36,Male,No,Florida,44,Fortnightly,Credit Card
+2076,46,Male,No,South Carolina,49,Monthly,Bank Transfer
+2077,59,Male,No,Florida,22,Bi-Weekly,Cash
+2078,64,Male,No,Nebraska,26,Annually,Bank Transfer
+2079,49,Male,No,Hawaii,40,Weekly,Venmo
+2080,32,Male,No,Montana,16,Quarterly,Debit Card
+2081,29,Male,No,South Dakota,17,Bi-Weekly,Credit Card
+2082,24,Male,No,Alabama,48,Bi-Weekly,Credit Card
+2083,41,Male,No,Arkansas,28,Every 3 Months,Cash
+2084,41,Male,No,Mississippi,26,Fortnightly,Credit Card
+2085,32,Male,No,Vermont,43,Quarterly,Bank Transfer
+2086,69,Male,No,New York,38,Weekly,Cash
+2087,65,Male,No,North Dakota,36,Every 3 Months,Credit Card
+2088,54,Male,No,Wisconsin,1,Weekly,Credit Card
+2089,39,Male,No,California,49,Annually,Cash
+2090,37,Male,No,Maryland,41,Every 3 Months,Cash
+2091,51,Male,No,Massachusetts,21,Monthly,Debit Card
+2092,26,Male,No,Washington,24,Quarterly,PayPal
+2093,42,Male,No,Minnesota,27,Weekly,Bank Transfer
+2094,21,Male,No,Washington,4,Annually,Venmo
+2095,53,Male,No,South Carolina,19,Annually,Bank Transfer
+2096,36,Male,No,New Mexico,1,Fortnightly,Credit Card
+2097,21,Male,No,North Carolina,27,Annually,Debit Card
+2098,33,Male,No,Iowa,5,Weekly,Credit Card
+2099,49,Male,No,Louisiana,20,Quarterly,Credit Card
+2100,31,Male,No,Oklahoma,50,Annually,Debit Card
+2101,68,Male,No,Michigan,36,Fortnightly,PayPal
+2102,49,Male,No,Oregon,12,Bi-Weekly,Cash
+2103,23,Male,No,Idaho,23,Monthly,PayPal
+2104,30,Male,No,Indiana,21,Weekly,PayPal
+2105,53,Male,No,New Mexico,47,Weekly,Bank Transfer
+2106,65,Male,No,South Carolina,38,Bi-Weekly,Credit Card
+2107,60,Male,No,Vermont,40,Every 3 Months,Cash
+2108,46,Male,No,Delaware,35,Quarterly,PayPal
+2109,54,Male,No,North Dakota,4,Quarterly,Debit Card
+2110,59,Male,No,California,28,Every 3 Months,Cash
+2111,52,Male,No,Montana,36,Every 3 Months,Cash
+2112,41,Male,No,Missouri,15,Annually,Credit Card
+2113,43,Male,No,Tennessee,7,Fortnightly,Credit Card
+2114,63,Male,No,Virginia,29,Every 3 Months,Credit Card
+2115,37,Male,No,Vermont,12,Annually,Credit Card
+2116,44,Male,No,Rhode Island,16,Bi-Weekly,Credit Card
+2117,67,Male,No,Kansas,50,Bi-Weekly,PayPal
+2118,27,Male,No,Colorado,11,Annually,Bank Transfer
+2119,60,Male,No,Georgia,28,Quarterly,Bank Transfer
+2120,58,Male,No,Nebraska,36,Bi-Weekly,Debit Card
+2121,53,Male,No,Missouri,38,Quarterly,Venmo
+2122,43,Male,No,Alaska,32,Monthly,Credit Card
+2123,32,Male,No,Virginia,42,Weekly,PayPal
+2124,54,Male,No,Nebraska,22,Bi-Weekly,Cash
+2125,47,Male,No,Rhode Island,22,Quarterly,Venmo
+2126,57,Male,No,New Hampshire,31,Quarterly,Credit Card
+2127,63,Male,No,Alabama,28,Monthly,PayPal
+2128,70,Male,No,North Carolina,40,Weekly,Credit Card
+2129,62,Male,No,New Mexico,21,Weekly,PayPal
+2130,40,Male,No,Minnesota,12,Every 3 Months,Credit Card
+2131,25,Male,No,Arizona,33,Annually,Debit Card
+2132,19,Male,No,Montana,9,Fortnightly,Credit Card
+2133,25,Male,No,Vermont,15,Weekly,PayPal
+2134,21,Male,No,Maine,13,Annually,PayPal
+2135,55,Male,No,Virginia,35,Fortnightly,Venmo
+2136,34,Male,No,California,1,Every 3 Months,Credit Card
+2137,47,Male,No,New York,25,Fortnightly,Bank Transfer
+2138,27,Male,No,Indiana,20,Every 3 Months,Bank Transfer
+2139,67,Male,No,Mississippi,36,Quarterly,Venmo
+2140,40,Male,No,New York,33,Weekly,Credit Card
+2141,53,Male,No,New Mexico,36,Fortnightly,Cash
+2142,24,Male,No,Kentucky,32,Annually,Credit Card
+2143,47,Male,No,North Dakota,21,Quarterly,Venmo
+2144,53,Male,No,Arkansas,48,Bi-Weekly,Debit Card
+2145,47,Male,No,Maryland,25,Quarterly,Cash
+2146,38,Male,No,Connecticut,32,Annually,Debit Card
+2147,48,Male,No,Utah,45,Every 3 Months,Debit Card
+2148,47,Male,No,Missouri,4,Fortnightly,PayPal
+2149,19,Male,No,Nebraska,19,Bi-Weekly,PayPal
+2150,38,Male,No,Hawaii,1,Weekly,Bank Transfer
+2151,57,Male,No,Illinois,12,Weekly,PayPal
+2152,70,Male,No,Vermont,18,Monthly,Venmo
+2153,38,Male,No,New Jersey,43,Bi-Weekly,Bank Transfer
+2154,35,Male,No,Kentucky,31,Annually,Credit Card
+2155,46,Male,No,Wyoming,33,Every 3 Months,Debit Card
+2156,32,Male,No,Hawaii,46,Monthly,Debit Card
+2157,38,Male,No,Missouri,41,Bi-Weekly,PayPal
+2158,41,Male,No,Mississippi,41,Fortnightly,Debit Card
+2159,19,Male,No,Massachusetts,9,Fortnightly,Credit Card
+2160,18,Male,No,Louisiana,34,Annually,PayPal
+2161,45,Male,No,West Virginia,21,Annually,Bank Transfer
+2162,23,Male,No,Washington,5,Fortnightly,Credit Card
+2163,60,Male,No,Oregon,32,Weekly,Credit Card
+2164,52,Male,No,New York,44,Monthly,Bank Transfer
+2165,42,Male,No,Iowa,46,Bi-Weekly,Venmo
+2166,29,Male,No,Idaho,42,Every 3 Months,Bank Transfer
+2167,31,Male,No,New Jersey,50,Bi-Weekly,Venmo
+2168,30,Male,No,Ohio,33,Fortnightly,Venmo
+2169,23,Male,No,Connecticut,32,Quarterly,Bank Transfer
+2170,31,Male,No,Florida,32,Bi-Weekly,PayPal
+2171,40,Male,No,South Carolina,37,Every 3 Months,PayPal
+2172,39,Male,No,Missouri,9,Fortnightly,Credit Card
+2173,28,Male,No,Rhode Island,6,Fortnightly,Bank Transfer
+2174,23,Male,No,Delaware,36,Quarterly,Cash
+2175,42,Male,No,Colorado,1,Annually,Cash
+2176,68,Male,No,Nebraska,48,Fortnightly,Bank Transfer
+2177,24,Male,No,Vermont,44,Quarterly,Venmo
+2178,24,Male,No,Montana,9,Bi-Weekly,Bank Transfer
+2179,21,Male,No,Florida,32,Annually,Debit Card
+2180,49,Male,No,Delaware,14,Monthly,Credit Card
+2181,41,Male,No,Connecticut,43,Quarterly,Debit Card
+2182,22,Male,No,Hawaii,32,Bi-Weekly,Venmo
+2183,42,Male,No,New Mexico,26,Bi-Weekly,Cash
+2184,30,Male,No,Kansas,2,Monthly,PayPal
+2185,38,Male,No,Nevada,16,Every 3 Months,PayPal
+2186,40,Male,No,North Carolina,50,Every 3 Months,Venmo
+2187,55,Male,No,New Mexico,6,Every 3 Months,Bank Transfer
+2188,37,Male,No,Idaho,20,Annually,Venmo
+2189,41,Male,No,California,9,Weekly,PayPal
+2190,38,Male,No,Wisconsin,47,Bi-Weekly,PayPal
+2191,42,Male,No,Alaska,33,Annually,Debit Card
+2192,26,Male,No,Pennsylvania,46,Bi-Weekly,Venmo
+2193,41,Male,No,Virginia,9,Monthly,Bank Transfer
+2194,27,Male,No,California,8,Monthly,Bank Transfer
+2195,61,Male,No,Kentucky,48,Quarterly,Debit Card
+2196,58,Male,No,New York,2,Monthly,Credit Card
+2197,25,Male,No,Vermont,31,Weekly,Venmo
+2198,33,Male,No,Pennsylvania,40,Monthly,PayPal
+2199,57,Male,No,New York,35,Monthly,Cash
+2200,39,Male,No,North Carolina,40,Monthly,Bank Transfer
+2201,60,Male,No,Wyoming,27,Every 3 Months,PayPal
+2202,39,Male,No,Ohio,10,Annually,Bank Transfer
+2203,42,Male,No,Alabama,23,Weekly,PayPal
+2204,53,Male,No,Rhode Island,32,Quarterly,Venmo
+2205,20,Male,No,Oregon,6,Monthly,Venmo
+2206,46,Male,No,North Dakota,27,Weekly,PayPal
+2207,46,Male,No,Illinois,25,Fortnightly,PayPal
+2208,69,Male,No,New Mexico,11,Annually,Debit Card
+2209,28,Male,No,Colorado,23,Monthly,Debit Card
+2210,42,Male,No,Utah,44,Quarterly,Credit Card
+2211,30,Male,No,Virginia,35,Fortnightly,Venmo
+2212,50,Male,No,Maine,45,Every 3 Months,PayPal
+2213,59,Male,No,Nebraska,22,Quarterly,PayPal
+2214,54,Male,No,Hawaii,18,Quarterly,Credit Card
+2215,50,Male,No,Idaho,20,Weekly,Cash
+2216,25,Male,No,West Virginia,28,Fortnightly,Debit Card
+2217,41,Male,No,Vermont,15,Bi-Weekly,Credit Card
+2218,35,Male,No,Indiana,42,Fortnightly,Bank Transfer
+2219,67,Male,No,Idaho,20,Quarterly,Cash
+2220,33,Male,No,Minnesota,16,Fortnightly,PayPal
+2221,19,Male,No,Wyoming,47,Annually,Cash
+2222,25,Male,No,Kansas,34,Annually,Debit Card
+2223,32,Male,No,Georgia,30,Weekly,PayPal
+2224,30,Male,No,Kansas,5,Quarterly,Credit Card
+2225,18,Male,No,Nebraska,38,Quarterly,Credit Card
+2226,38,Male,No,Washington,18,Annually,Credit Card
+2227,22,Male,No,Missouri,28,Annually,Credit Card
+2228,40,Male,No,Washington,42,Fortnightly,Venmo
+2229,54,Male,No,Kansas,5,Weekly,Debit Card
+2230,70,Male,No,Minnesota,50,Monthly,Bank Transfer
+2231,52,Male,No,Colorado,33,Fortnightly,Debit Card
+2232,34,Male,No,Utah,1,Weekly,Cash
+2233,65,Male,No,North Carolina,14,Fortnightly,Bank Transfer
+2234,38,Male,No,Florida,48,Monthly,Credit Card
+2235,35,Male,No,New Hampshire,26,Weekly,Cash
+2236,40,Male,No,Illinois,44,Annually,Credit Card
+2237,23,Male,No,Louisiana,18,Fortnightly,Venmo
+2238,45,Male,No,Alabama,31,Every 3 Months,Bank Transfer
+2239,40,Male,No,Florida,18,Weekly,Credit Card
+2240,42,Male,No,Alabama,41,Every 3 Months,Bank Transfer
+2241,57,Male,No,California,18,Every 3 Months,Credit Card
+2242,18,Male,No,Maryland,3,Bi-Weekly,Bank Transfer
+2243,18,Male,No,Nevada,5,Bi-Weekly,PayPal
+2244,56,Male,No,Massachusetts,13,Annually,Cash
+2245,35,Male,No,South Carolina,22,Annually,Credit Card
+2246,49,Male,No,Delaware,45,Fortnightly,Venmo
+2247,49,Male,No,Hawaii,39,Every 3 Months,Cash
+2248,34,Male,No,Florida,18,Annually,PayPal
+2249,63,Male,No,Rhode Island,19,Fortnightly,Cash
+2250,42,Male,No,Wyoming,29,Weekly,Bank Transfer
+2251,41,Male,No,Colorado,19,Weekly,Venmo
+2252,26,Male,No,Virginia,22,Monthly,PayPal
+2253,48,Male,No,Nebraska,21,Annually,Venmo
+2254,62,Male,No,Oklahoma,22,Monthly,Credit Card
+2255,24,Male,No,North Dakota,44,Every 3 Months,Venmo
+2256,48,Male,No,Michigan,42,Quarterly,Venmo
+2257,31,Male,No,California,33,Quarterly,Debit Card
+2258,41,Male,No,Tennessee,6,Annually,PayPal
+2259,24,Male,No,Ohio,44,Every 3 Months,Bank Transfer
+2260,60,Male,No,Florida,24,Annually,Venmo
+2261,38,Male,No,Missouri,16,Quarterly,Venmo
+2262,58,Male,No,South Carolina,12,Fortnightly,Cash
+2263,53,Male,No,Arizona,50,Monthly,Venmo
+2264,44,Male,No,Indiana,42,Quarterly,PayPal
+2265,51,Male,No,North Dakota,50,Monthly,Bank Transfer
+2266,36,Male,No,Montana,10,Quarterly,Bank Transfer
+2267,20,Male,No,Missouri,32,Weekly,Bank Transfer
+2268,32,Male,No,Kentucky,37,Weekly,Venmo
+2269,66,Male,No,Georgia,15,Monthly,Credit Card
+2270,49,Male,No,Kentucky,27,Annually,Credit Card
+2271,27,Male,No,Georgia,7,Weekly,Debit Card
+2272,29,Male,No,Alaska,49,Quarterly,Cash
+2273,29,Male,No,Maine,44,Monthly,Venmo
+2274,55,Male,No,New Mexico,13,Bi-Weekly,Credit Card
+2275,57,Male,No,New York,38,Fortnightly,Cash
+2276,29,Male,No,Oklahoma,10,Weekly,PayPal
+2277,31,Male,No,Wyoming,25,Weekly,Bank Transfer
+2278,25,Male,No,Alabama,18,Quarterly,Bank Transfer
+2279,61,Male,No,Maryland,6,Every 3 Months,Cash
+2280,53,Male,No,West Virginia,35,Quarterly,Bank Transfer
+2281,22,Male,No,Kentucky,31,Fortnightly,Bank Transfer
+2282,28,Male,No,Kansas,41,Annually,Bank Transfer
+2283,18,Male,No,Idaho,8,Annually,Debit Card
+2284,44,Male,No,Ohio,34,Fortnightly,Cash
+2285,32,Male,No,Iowa,20,Annually,Cash
+2286,34,Male,No,Michigan,38,Every 3 Months,Cash
+2287,67,Male,No,South Dakota,35,Quarterly,PayPal
+2288,66,Male,No,Nebraska,6,Annually,PayPal
+2289,28,Male,No,California,50,Weekly,Credit Card
+2290,70,Male,No,Nevada,47,Weekly,PayPal
+2291,37,Male,No,Kansas,23,Quarterly,Venmo
+2292,28,Male,No,Ohio,13,Quarterly,PayPal
+2293,43,Male,No,Vermont,31,Monthly,Debit Card
+2294,37,Male,No,Georgia,16,Every 3 Months,PayPal
+2295,54,Male,No,Maryland,40,Annually,Venmo
+2296,50,Male,No,Connecticut,45,Quarterly,Credit Card
+2297,46,Male,No,Washington,50,Every 3 Months,PayPal
+2298,60,Male,No,California,1,Quarterly,PayPal
+2299,40,Male,No,Montana,10,Every 3 Months,PayPal
+2300,64,Male,No,Idaho,48,Every 3 Months,Debit Card
+2301,18,Male,No,Pennsylvania,38,Monthly,Venmo
+2302,37,Male,No,Maine,21,Annually,Debit Card
+2303,36,Male,No,Montana,38,Monthly,Cash
+2304,51,Male,No,New Jersey,31,Fortnightly,Bank Transfer
+2305,26,Male,No,Louisiana,9,Fortnightly,Bank Transfer
+2306,68,Male,No,Maine,47,Weekly,Cash
+2307,27,Male,No,Florida,8,Bi-Weekly,Cash
+2308,28,Male,No,Missouri,30,Annually,Bank Transfer
+2309,49,Male,No,North Dakota,22,Quarterly,Bank Transfer
+2310,70,Male,No,Connecticut,3,Quarterly,Cash
+2311,30,Male,No,Virginia,15,Monthly,Credit Card
+2312,27,Male,No,Montana,10,Every 3 Months,PayPal
+2313,19,Male,No,Vermont,19,Every 3 Months,PayPal
+2314,64,Male,No,Georgia,36,Fortnightly,Venmo
+2315,42,Male,No,Virginia,12,Every 3 Months,Venmo
+2316,69,Male,No,Vermont,49,Quarterly,Cash
+2317,28,Male,No,Montana,7,Annually,Credit Card
+2318,47,Male,No,New Jersey,28,Monthly,Debit Card
+2319,69,Male,No,Wyoming,30,Annually,PayPal
+2320,56,Male,No,Maine,29,Monthly,Debit Card
+2321,28,Male,No,New Mexico,9,Every 3 Months,Credit Card
+2322,50,Male,No,Colorado,27,Fortnightly,PayPal
+2323,39,Male,No,Connecticut,21,Fortnightly,Cash
+2324,35,Male,No,Maryland,36,Monthly,Bank Transfer
+2325,59,Male,No,Oregon,19,Annually,Debit Card
+2326,44,Male,No,New York,47,Weekly,Debit Card
+2327,66,Male,No,Oklahoma,38,Annually,Cash
+2328,20,Male,No,Alabama,22,Bi-Weekly,Credit Card
+2329,45,Male,No,North Dakota,29,Bi-Weekly,Credit Card
+2330,49,Male,No,Nebraska,42,Annually,Venmo
+2331,60,Male,No,Arizona,47,Every 3 Months,Venmo
+2332,61,Male,No,Illinois,10,Bi-Weekly,Credit Card
+2333,36,Male,No,South Carolina,10,Monthly,Credit Card
+2334,33,Male,No,Kansas,1,Every 3 Months,Cash
+2335,49,Male,No,Kansas,7,Monthly,Credit Card
+2336,31,Male,No,Idaho,10,Fortnightly,Venmo
+2337,19,Male,No,California,11,Weekly,Cash
+2338,39,Male,No,North Dakota,5,Annually,PayPal
+2339,66,Male,No,Georgia,21,Quarterly,PayPal
+2340,25,Male,No,Illinois,24,Quarterly,Cash
+2341,63,Male,No,Delaware,37,Fortnightly,Venmo
+2342,56,Male,No,Connecticut,22,Every 3 Months,Cash
+2343,20,Male,No,Tennessee,16,Fortnightly,Credit Card
+2344,58,Male,No,Maryland,44,Monthly,Venmo
+2345,34,Male,No,Rhode Island,14,Bi-Weekly,Credit Card
+2346,28,Male,No,New York,23,Every 3 Months,Bank Transfer
+2347,22,Male,No,New Mexico,46,Fortnightly,Bank Transfer
+2348,37,Male,No,California,46,Every 3 Months,Credit Card
+2349,54,Male,No,Maine,16,Every 3 Months,PayPal
+2350,65,Male,No,New York,40,Every 3 Months,Venmo
+2351,57,Male,No,Hawaii,21,Annually,Bank Transfer
+2352,38,Male,No,New Hampshire,25,Bi-Weekly,Credit Card
+2353,70,Male,No,Nebraska,25,Quarterly,Credit Card
+2354,56,Male,No,Montana,25,Every 3 Months,Credit Card
+2355,56,Male,No,Wisconsin,27,Monthly,Cash
+2356,22,Male,No,Tennessee,12,Monthly,PayPal
+2357,57,Male,No,Montana,27,Quarterly,Bank Transfer
+2358,53,Male,No,Michigan,40,Bi-Weekly,Bank Transfer
+2359,53,Male,No,Texas,38,Quarterly,Bank Transfer
+2360,19,Male,No,Pennsylvania,44,Every 3 Months,Venmo
+2361,49,Male,No,New York,27,Every 3 Months,Debit Card
+2362,44,Male,No,Alabama,30,Every 3 Months,Cash
+2363,27,Male,No,Virginia,24,Monthly,Venmo
+2364,60,Male,No,Pennsylvania,38,Bi-Weekly,PayPal
+2365,62,Male,No,Mississippi,4,Quarterly,Credit Card
+2366,52,Male,No,Wyoming,32,Monthly,Cash
+2367,30,Male,No,New Mexico,32,Fortnightly,PayPal
+2368,66,Male,No,North Dakota,28,Bi-Weekly,Bank Transfer
+2369,29,Male,No,New Jersey,6,Every 3 Months,Credit Card
+2370,24,Male,No,Vermont,24,Monthly,Debit Card
+2371,51,Male,No,Alaska,38,Weekly,Debit Card
+2372,67,Male,No,Indiana,28,Annually,PayPal
+2373,50,Male,No,Alabama,9,Fortnightly,Debit Card
+2374,37,Male,No,Michigan,21,Every 3 Months,Bank Transfer
+2375,69,Male,No,Washington,31,Monthly,Cash
+2376,60,Male,No,Virginia,18,Quarterly,PayPal
+2377,21,Male,No,Tennessee,5,Weekly,Venmo
+2378,44,Male,No,South Dakota,22,Annually,Venmo
+2379,26,Male,No,New Hampshire,37,Bi-Weekly,Debit Card
+2380,40,Male,No,South Dakota,22,Monthly,Credit Card
+2381,41,Male,No,Pennsylvania,36,Fortnightly,Credit Card
+2382,62,Male,No,Wisconsin,23,Annually,Bank Transfer
+2383,39,Male,No,California,44,Weekly,Debit Card
+2384,53,Male,No,Rhode Island,25,Annually,Cash
+2385,24,Male,No,Alabama,40,Quarterly,Debit Card
+2386,41,Male,No,Oklahoma,12,Weekly,Venmo
+2387,19,Male,No,Illinois,14,Monthly,Credit Card
+2388,36,Male,No,Tennessee,14,Monthly,Credit Card
+2389,21,Male,No,Alabama,10,Annually,Credit Card
+2390,25,Male,No,Kansas,17,Every 3 Months,Cash
+2391,65,Male,No,Arizona,24,Fortnightly,Debit Card
+2392,42,Male,No,Michigan,31,Quarterly,PayPal
+2393,40,Male,No,Missouri,36,Annually,Cash
+2394,58,Male,No,Louisiana,38,Every 3 Months,Debit Card
+2395,40,Male,No,Connecticut,23,Fortnightly,Cash
+2396,62,Male,No,Connecticut,47,Bi-Weekly,Debit Card
+2397,38,Male,No,Oregon,20,Weekly,Credit Card
+2398,37,Male,No,West Virginia,41,Monthly,Bank Transfer
+2399,65,Male,No,Florida,44,Fortnightly,PayPal
+2400,55,Male,No,New Hampshire,31,Monthly,Debit Card
+2401,43,Male,No,Oregon,11,Bi-Weekly,PayPal
+2402,43,Male,No,Oregon,25,Bi-Weekly,Cash
+2403,45,Male,No,Utah,31,Weekly,PayPal
+2404,64,Male,No,Missouri,40,Weekly,Bank Transfer
+2405,28,Male,No,West Virginia,23,Bi-Weekly,Venmo
+2406,69,Male,No,California,5,Quarterly,Venmo
+2407,54,Male,No,California,26,Weekly,Venmo
+2408,52,Male,No,Illinois,11,Bi-Weekly,Credit Card
+2409,23,Male,No,Hawaii,44,Every 3 Months,PayPal
+2410,26,Male,No,Washington,47,Every 3 Months,Credit Card
+2411,48,Male,No,Wisconsin,46,Monthly,Venmo
+2412,49,Male,No,Virginia,35,Every 3 Months,Debit Card
+2413,53,Male,No,Oregon,8,Bi-Weekly,Debit Card
+2414,69,Male,No,Pennsylvania,30,Weekly,Bank Transfer
+2415,26,Male,No,Virginia,14,Bi-Weekly,PayPal
+2416,21,Male,No,Hawaii,30,Weekly,Cash
+2417,59,Male,No,Nebraska,26,Every 3 Months,Cash
+2418,21,Male,No,Alaska,32,Fortnightly,Bank Transfer
+2419,22,Male,No,Michigan,47,Every 3 Months,Bank Transfer
+2420,26,Male,No,North Carolina,11,Every 3 Months,Venmo
+2421,41,Male,No,North Carolina,28,Annually,PayPal
+2422,37,Male,No,Minnesota,2,Every 3 Months,PayPal
+2423,30,Male,No,Georgia,45,Weekly,Credit Card
+2424,49,Male,No,West Virginia,7,Every 3 Months,PayPal
+2425,49,Male,No,Delaware,28,Bi-Weekly,Debit Card
+2426,58,Male,No,North Dakota,34,Quarterly,Venmo
+2427,70,Male,No,Florida,26,Every 3 Months,Venmo
+2428,27,Male,No,Oregon,45,Quarterly,Debit Card
+2429,65,Male,No,Idaho,34,Annually,PayPal
+2430,57,Male,No,Virginia,47,Fortnightly,PayPal
+2431,20,Male,No,North Dakota,42,Quarterly,Cash
+2432,34,Male,No,Alabama,27,Every 3 Months,Cash
+2433,59,Male,No,Hawaii,43,Monthly,PayPal
+2434,54,Male,No,Oregon,16,Bi-Weekly,Cash
+2435,36,Male,No,Utah,40,Monthly,Cash
+2436,21,Male,No,Hawaii,29,Bi-Weekly,Cash
+2437,52,Male,No,Connecticut,38,Quarterly,Credit Card
+2438,43,Male,No,Wyoming,34,Weekly,Credit Card
+2439,32,Male,No,Delaware,30,Weekly,Cash
+2440,55,Male,No,Arkansas,45,Annually,Cash
+2441,31,Male,No,Indiana,47,Annually,Bank Transfer
+2442,45,Male,No,California,5,Monthly,Credit Card
+2443,53,Male,No,Wyoming,50,Bi-Weekly,PayPal
+2444,24,Male,No,South Dakota,24,Bi-Weekly,Venmo
+2445,47,Male,No,West Virginia,15,Bi-Weekly,Cash
+2446,63,Male,No,Tennessee,50,Weekly,PayPal
+2447,38,Male,No,Alaska,7,Monthly,Cash
+2448,59,Male,No,South Dakota,10,Fortnightly,Venmo
+2449,54,Male,No,Tennessee,38,Bi-Weekly,Bank Transfer
+2450,26,Male,No,Alabama,31,Fortnightly,Debit Card
+2451,68,Male,No,North Carolina,7,Quarterly,Venmo
+2452,41,Male,No,Oklahoma,27,Monthly,Debit Card
+2453,68,Male,No,New York,45,Every 3 Months,Venmo
+2454,21,Male,No,Iowa,13,Annually,PayPal
+2455,32,Male,No,Alaska,33,Annually,Bank Transfer
+2456,20,Male,No,Alaska,25,Every 3 Months,PayPal
+2457,59,Male,No,Nebraska,5,Monthly,Credit Card
+2458,53,Male,No,Delaware,23,Quarterly,PayPal
+2459,66,Male,No,Texas,17,Weekly,Bank Transfer
+2460,47,Male,No,Missouri,14,Weekly,PayPal
+2461,58,Male,No,Maine,28,Annually,Venmo
+2462,28,Male,No,Pennsylvania,19,Weekly,PayPal
+2463,68,Male,No,Missouri,31,Bi-Weekly,Venmo
+2464,60,Male,No,Mississippi,25,Bi-Weekly,Bank Transfer
+2465,47,Male,No,Hawaii,4,Bi-Weekly,Debit Card
+2466,18,Male,No,Texas,20,Weekly,Cash
+2467,32,Male,No,South Dakota,37,Annually,Cash
+2468,27,Male,No,New Jersey,28,Annually,Debit Card
+2469,65,Male,No,Connecticut,6,Weekly,Credit Card
+2470,68,Male,No,Maryland,27,Annually,Cash
+2471,55,Male,No,Arizona,29,Fortnightly,Cash
+2472,30,Male,No,Oklahoma,1,Annually,Cash
+2473,24,Male,No,Utah,31,Annually,Bank Transfer
+2474,57,Male,No,Arkansas,28,Quarterly,Cash
+2475,23,Male,No,North Carolina,19,Quarterly,Cash
+2476,69,Male,No,California,36,Monthly,Bank Transfer
+2477,60,Male,No,Colorado,28,Monthly,Debit Card
+2478,25,Male,No,California,29,Weekly,Debit Card
+2479,18,Male,No,Vermont,9,Every 3 Months,Cash
+2480,37,Male,No,Kansas,26,Every 3 Months,Venmo
+2481,61,Male,No,Ohio,7,Fortnightly,Debit Card
+2482,41,Male,No,New Jersey,35,Weekly,Venmo
+2483,69,Male,No,Arizona,46,Every 3 Months,PayPal
+2484,32,Male,No,Arizona,8,Monthly,PayPal
+2485,60,Male,No,New Hampshire,50,Every 3 Months,Bank Transfer
+2486,43,Male,No,Louisiana,37,Annually,Credit Card
+2487,61,Male,No,Texas,6,Fortnightly,Credit Card
+2488,57,Male,No,Montana,16,Bi-Weekly,PayPal
+2489,56,Male,No,New Hampshire,30,Monthly,Credit Card
+2490,66,Male,No,South Dakota,50,Quarterly,Credit Card
+2491,52,Male,No,Montana,5,Every 3 Months,PayPal
+2492,63,Male,No,North Carolina,15,Monthly,Debit Card
+2493,50,Male,No,South Dakota,34,Bi-Weekly,Venmo
+2494,21,Male,No,Maine,6,Every 3 Months,Cash
+2495,42,Male,No,Oklahoma,26,Annually,PayPal
+2496,40,Male,No,Nebraska,34,Every 3 Months,Bank Transfer
+2497,67,Male,No,Illinois,37,Weekly,Bank Transfer
+2498,35,Male,No,Colorado,28,Annually,Bank Transfer
+2499,18,Male,No,Massachusetts,38,Fortnightly,Cash
+2500,52,Male,No,Louisiana,2,Quarterly,Debit Card
+2501,59,Male,No,Massachusetts,32,Bi-Weekly,Credit Card
+2502,49,Male,No,West Virginia,30,Bi-Weekly,Cash
+2503,46,Male,No,Idaho,17,Every 3 Months,Cash
+2504,69,Male,No,Ohio,5,Bi-Weekly,PayPal
+2505,56,Male,No,Rhode Island,31,Bi-Weekly,Credit Card
+2506,27,Male,No,Illinois,43,Quarterly,PayPal
+2507,57,Male,No,New York,19,Annually,Debit Card
+2508,58,Male,No,Louisiana,32,Every 3 Months,PayPal
+2509,23,Male,No,California,5,Bi-Weekly,Cash
+2510,19,Male,No,Washington,9,Quarterly,PayPal
+2511,40,Male,No,South Dakota,48,Weekly,Cash
+2512,54,Male,No,Idaho,1,Quarterly,Debit Card
+2513,50,Male,No,North Dakota,20,Monthly,Credit Card
+2514,69,Male,No,Washington,42,Annually,Debit Card
+2515,42,Male,No,Alaska,45,Bi-Weekly,Debit Card
+2516,37,Male,No,Kansas,41,Monthly,Bank Transfer
+2517,46,Male,No,Utah,36,Quarterly,Bank Transfer
+2518,64,Male,No,Wyoming,10,Annually,Credit Card
+2519,20,Male,No,Maine,31,Annually,PayPal
+2520,40,Male,No,Michigan,21,Quarterly,Credit Card
+2521,64,Male,No,Illinois,16,Every 3 Months,Bank Transfer
+2522,29,Male,No,Minnesota,18,Every 3 Months,Debit Card
+2523,20,Male,No,Massachusetts,20,Weekly,Cash
+2524,43,Male,No,New Jersey,21,Annually,Cash
+2525,60,Male,No,Kansas,23,Quarterly,Venmo
+2526,39,Male,No,Kentucky,20,Weekly,PayPal
+2527,47,Male,No,Rhode Island,30,Bi-Weekly,Bank Transfer
+2528,19,Male,No,Illinois,33,Every 3 Months,Cash
+2529,52,Male,No,Alabama,31,Monthly,Bank Transfer
+2530,34,Male,No,Tennessee,48,Monthly,Cash
+2531,25,Male,No,Massachusetts,28,Weekly,Debit Card
+2532,43,Male,No,Texas,7,Every 3 Months,PayPal
+2533,55,Male,No,Nebraska,4,Weekly,PayPal
+2534,66,Male,No,Pennsylvania,49,Bi-Weekly,Venmo
+2535,41,Male,No,Virginia,22,Weekly,PayPal
+2536,47,Male,No,Vermont,39,Fortnightly,Bank Transfer
+2537,51,Male,No,Oklahoma,45,Every 3 Months,Bank Transfer
+2538,44,Male,No,Maine,30,Fortnightly,Debit Card
+2539,18,Male,No,New Jersey,33,Bi-Weekly,Venmo
+2540,33,Male,No,Massachusetts,24,Bi-Weekly,PayPal
+2541,24,Male,No,New Jersey,11,Quarterly,PayPal
+2542,33,Male,No,Washington,13,Every 3 Months,Venmo
+2543,61,Male,No,Arkansas,27,Annually,PayPal
+2544,27,Male,No,West Virginia,30,Bi-Weekly,Debit Card
+2545,46,Male,No,Delaware,39,Quarterly,Cash
+2546,38,Male,No,Texas,10,Annually,Bank Transfer
+2547,63,Male,No,Texas,4,Quarterly,Venmo
+2548,47,Male,No,Mississippi,16,Weekly,Bank Transfer
+2549,42,Male,No,Texas,34,Monthly,Credit Card
+2550,41,Male,No,Virginia,11,Every 3 Months,Credit Card
+2551,53,Male,No,New Hampshire,30,Fortnightly,Credit Card
+2552,29,Male,No,Minnesota,40,Annually,Cash
+2553,61,Male,No,Maryland,13,Annually,Cash
+2554,69,Male,No,Vermont,28,Every 3 Months,Cash
+2555,51,Male,No,Kansas,49,Bi-Weekly,Bank Transfer
+2556,24,Male,No,Idaho,23,Weekly,PayPal
+2557,24,Male,No,Montana,4,Quarterly,PayPal
+2558,70,Male,No,Oklahoma,17,Fortnightly,Venmo
+2559,49,Male,No,California,24,Fortnightly,Cash
+2560,48,Male,No,Mississippi,21,Every 3 Months,Venmo
+2561,58,Male,No,California,17,Bi-Weekly,Debit Card
+2562,32,Male,No,New York,22,Quarterly,Credit Card
+2563,57,Male,No,Arizona,27,Fortnightly,Debit Card
+2564,69,Male,No,Massachusetts,1,Every 3 Months,PayPal
+2565,42,Male,No,Kentucky,27,Weekly,Debit Card
+2566,30,Male,No,Vermont,8,Quarterly,Debit Card
+2567,35,Male,No,Missouri,43,Quarterly,Credit Card
+2568,19,Male,No,Michigan,24,Fortnightly,Venmo
+2569,52,Male,No,Texas,29,Fortnightly,Cash
+2570,42,Male,No,New York,10,Bi-Weekly,Debit Card
+2571,36,Male,No,New Mexico,12,Fortnightly,Bank Transfer
+2572,45,Male,No,Mississippi,48,Fortnightly,Credit Card
+2573,54,Male,No,Washington,40,Quarterly,Debit Card
+2574,54,Male,No,New Mexico,1,Annually,Bank Transfer
+2575,27,Male,No,Florida,26,Fortnightly,Credit Card
+2576,53,Male,No,Minnesota,9,Annually,Cash
+2577,20,Male,No,New Hampshire,19,Quarterly,PayPal
+2578,52,Male,No,Minnesota,37,Monthly,Debit Card
+2579,54,Male,No,Vermont,3,Quarterly,Bank Transfer
+2580,65,Male,No,Minnesota,40,Weekly,Venmo
+2581,43,Male,No,Massachusetts,13,Quarterly,Cash
+2582,57,Male,No,Wyoming,48,Monthly,Bank Transfer
+2583,19,Male,No,South Dakota,4,Every 3 Months,Venmo
+2584,69,Male,No,Oklahoma,9,Weekly,Bank Transfer
+2585,26,Male,No,Florida,26,Bi-Weekly,PayPal
+2586,57,Male,No,Wisconsin,19,Weekly,Venmo
+2587,20,Male,No,Maine,1,Every 3 Months,Venmo
+2588,55,Male,No,Connecticut,29,Every 3 Months,PayPal
+2589,44,Male,No,Delaware,38,Bi-Weekly,Venmo
+2590,52,Male,No,North Dakota,31,Annually,Bank Transfer
+2591,57,Male,No,California,35,Annually,PayPal
+2592,40,Male,No,New Mexico,40,Quarterly,Debit Card
+2593,23,Male,No,Iowa,13,Quarterly,Cash
+2594,36,Male,No,Colorado,9,Every 3 Months,Debit Card
+2595,59,Male,No,Montana,25,Every 3 Months,Credit Card
+2596,29,Male,No,Iowa,3,Bi-Weekly,Credit Card
+2597,63,Male,No,Louisiana,35,Monthly,Venmo
+2598,60,Male,No,Alabama,13,Bi-Weekly,Bank Transfer
+2599,64,Male,No,Nevada,31,Annually,Credit Card
+2600,63,Male,No,Vermont,48,Monthly,Credit Card
+2601,21,Male,No,New York,6,Bi-Weekly,Debit Card
+2602,61,Male,No,Mississippi,43,Monthly,PayPal
+2603,65,Male,No,South Carolina,1,Quarterly,Venmo
+2604,69,Male,No,Washington,8,Annually,Debit Card
+2605,47,Male,No,Colorado,6,Weekly,Credit Card
+2606,41,Male,No,Nevada,32,Fortnightly,Debit Card
+2607,68,Male,No,Nevada,46,Bi-Weekly,Bank Transfer
+2608,41,Male,No,Oklahoma,38,Every 3 Months,Bank Transfer
+2609,42,Male,No,Mississippi,48,Fortnightly,PayPal
+2610,66,Male,No,Arkansas,18,Bi-Weekly,Credit Card
+2611,66,Male,No,West Virginia,25,Quarterly,Bank Transfer
+2612,33,Male,No,Michigan,4,Fortnightly,Cash
+2613,55,Male,No,Louisiana,27,Quarterly,Cash
+2614,58,Male,No,South Dakota,14,Monthly,Cash
+2615,18,Male,No,North Dakota,36,Fortnightly,Credit Card
+2616,49,Male,No,Arizona,6,Quarterly,Venmo
+2617,61,Male,No,Georgia,46,Annually,Bank Transfer
+2618,31,Male,No,Idaho,29,Annually,Bank Transfer
+2619,70,Male,No,Louisiana,12,Monthly,Credit Card
+2620,68,Male,No,Connecticut,47,Weekly,Credit Card
+2621,27,Male,No,Ohio,28,Annually,Venmo
+2622,48,Male,No,Maine,21,Annually,PayPal
+2623,63,Male,No,New Hampshire,15,Annually,Venmo
+2624,49,Male,No,Massachusetts,38,Annually,Cash
+2625,19,Male,No,South Dakota,19,Annually,Debit Card
+2626,30,Male,No,Colorado,31,Weekly,Bank Transfer
+2627,50,Male,No,Rhode Island,30,Every 3 Months,Bank Transfer
+2628,66,Male,No,Missouri,40,Quarterly,PayPal
+2629,25,Male,No,Wyoming,42,Bi-Weekly,Venmo
+2630,61,Male,No,New Hampshire,25,Annually,Venmo
+2631,29,Male,No,Maine,20,Quarterly,Bank Transfer
+2632,53,Male,No,Connecticut,3,Weekly,PayPal
+2633,24,Male,No,Alaska,14,Annually,Venmo
+2634,51,Male,No,Alaska,32,Fortnightly,PayPal
+2635,26,Male,No,North Carolina,20,Every 3 Months,Cash
+2636,59,Male,No,Colorado,34,Fortnightly,PayPal
+2637,41,Male,No,Utah,6,Annually,PayPal
+2638,20,Male,No,Alabama,2,Annually,Credit Card
+2639,22,Male,No,Hawaii,35,Annually,PayPal
+2640,18,Male,No,New Hampshire,33,Quarterly,Debit Card
+2641,30,Male,No,Indiana,45,Bi-Weekly,Debit Card
+2642,25,Male,No,Vermont,20,Every 3 Months,Debit Card
+2643,39,Male,No,Iowa,48,Annually,Debit Card
+2644,49,Male,No,Maryland,37,Monthly,Credit Card
+2645,25,Male,No,New Mexico,4,Every 3 Months,PayPal
+2646,23,Male,No,Louisiana,24,Bi-Weekly,Bank Transfer
+2647,33,Male,No,New Mexico,4,Every 3 Months,Cash
+2648,60,Male,No,South Carolina,25,Annually,Debit Card
+2649,51,Male,No,Illinois,14,Bi-Weekly,Venmo
+2650,23,Male,No,Minnesota,14,Fortnightly,Credit Card
+2651,20,Male,No,Oregon,46,Every 3 Months,PayPal
+2652,51,Male,No,Tennessee,27,Quarterly,Venmo
+2653,23,Female,No,Maryland,46,Monthly,Debit Card
+2654,67,Female,No,Wisconsin,24,Every 3 Months,Credit Card
+2655,23,Female,No,Idaho,4,Annually,Debit Card
+2656,26,Female,No,Wyoming,2,Fortnightly,Credit Card
+2657,52,Female,No,Indiana,29,Fortnightly,Bank Transfer
+2658,52,Female,No,Texas,7,Fortnightly,PayPal
+2659,52,Female,No,Ohio,39,Monthly,Bank Transfer
+2660,35,Female,No,Kansas,46,Fortnightly,Bank Transfer
+2661,24,Female,No,South Carolina,44,Annually,Debit Card
+2662,43,Female,No,Michigan,20,Annually,Debit Card
+2663,25,Female,No,Nebraska,44,Fortnightly,PayPal
+2664,46,Female,No,Wisconsin,23,Annually,Credit Card
+2665,22,Female,No,Illinois,37,Weekly,Debit Card
+2666,70,Female,No,Louisiana,4,Weekly,Venmo
+2667,49,Female,No,Ohio,14,Fortnightly,Bank Transfer
+2668,48,Female,No,Maryland,31,Fortnightly,Venmo
+2669,59,Female,No,Texas,9,Quarterly,Venmo
+2670,39,Female,No,Illinois,31,Weekly,PayPal
+2671,30,Female,No,Pennsylvania,26,Bi-Weekly,Venmo
+2672,37,Female,No,Alabama,41,Every 3 Months,Cash
+2673,56,Female,No,West Virginia,13,Annually,Debit Card
+2674,67,Female,No,Nevada,4,Monthly,Cash
+2675,40,Female,No,Florida,15,Every 3 Months,Debit Card
+2676,24,Female,No,Virginia,38,Bi-Weekly,Cash
+2677,43,Female,No,Kentucky,3,Fortnightly,Venmo
+2678,45,Female,No,Connecticut,6,Every 3 Months,Debit Card
+2679,33,Female,No,Montana,34,Bi-Weekly,Cash
+2680,53,Female,No,Montana,7,Quarterly,Debit Card
+2681,44,Female,No,Nebraska,21,Annually,PayPal
+2682,23,Female,No,Massachusetts,17,Monthly,Bank Transfer
+2683,59,Female,No,North Carolina,5,Every 3 Months,Venmo
+2684,68,Female,No,Montana,21,Fortnightly,Cash
+2685,46,Female,No,Washington,42,Bi-Weekly,Venmo
+2686,56,Female,No,Virginia,49,Quarterly,Venmo
+2687,40,Female,No,Georgia,33,Fortnightly,Venmo
+2688,61,Female,No,Delaware,12,Bi-Weekly,Cash
+2689,53,Female,No,West Virginia,18,Every 3 Months,Cash
+2690,29,Female,No,Wyoming,47,Quarterly,Credit Card
+2691,44,Female,No,New Mexico,18,Weekly,Venmo
+2692,43,Female,No,Nebraska,48,Monthly,Bank Transfer
+2693,40,Female,No,Washington,18,Every 3 Months,Venmo
+2694,55,Female,No,Hawaii,46,Quarterly,Debit Card
+2695,66,Female,No,Louisiana,34,Every 3 Months,Venmo
+2696,50,Female,No,Tennessee,10,Bi-Weekly,Debit Card
+2697,57,Female,No,South Dakota,12,Monthly,Credit Card
+2698,42,Female,No,Delaware,36,Quarterly,Credit Card
+2699,55,Female,No,Virginia,34,Quarterly,Venmo
+2700,25,Female,No,Utah,49,Annually,Venmo
+2701,22,Female,No,California,36,Weekly,Bank Transfer
+2702,49,Female,No,Idaho,18,Fortnightly,Bank Transfer
+2703,70,Female,No,Texas,39,Fortnightly,PayPal
+2704,56,Female,No,Tennessee,34,Weekly,Bank Transfer
+2705,52,Female,No,Tennessee,35,Weekly,Credit Card
+2706,65,Female,No,Washington,1,Bi-Weekly,Debit Card
+2707,24,Female,No,Alabama,48,Quarterly,Bank Transfer
+2708,32,Female,No,Nebraska,19,Weekly,Cash
+2709,57,Female,No,Alabama,44,Weekly,Debit Card
+2710,35,Female,No,Illinois,9,Bi-Weekly,Debit Card
+2711,69,Female,No,Wisconsin,3,Fortnightly,Debit Card
+2712,30,Female,No,Nebraska,50,Monthly,Credit Card
+2713,37,Female,No,North Dakota,7,Quarterly,Credit Card
+2714,19,Female,No,Mississippi,20,Annually,PayPal
+2715,53,Female,No,Iowa,16,Bi-Weekly,Debit Card
+2716,25,Female,No,Mississippi,29,Fortnightly,Debit Card
+2717,47,Female,No,Colorado,21,Weekly,Debit Card
+2718,18,Female,No,Nebraska,19,Every 3 Months,Debit Card
+2719,22,Female,No,Virginia,10,Bi-Weekly,Credit Card
+2720,69,Female,No,Louisiana,4,Monthly,Venmo
+2721,55,Female,No,Maryland,45,Quarterly,Debit Card
+2722,19,Female,No,Minnesota,17,Fortnightly,Cash
+2723,23,Female,No,Maine,22,Fortnightly,PayPal
+2724,54,Female,No,Texas,3,Every 3 Months,Bank Transfer
+2725,52,Female,No,Missouri,11,Fortnightly,Bank Transfer
+2726,64,Female,No,Mississippi,4,Annually,Bank Transfer
+2727,33,Female,No,Michigan,11,Bi-Weekly,Debit Card
+2728,40,Female,No,Colorado,47,Fortnightly,Debit Card
+2729,26,Female,No,Florida,17,Weekly,Credit Card
+2730,31,Female,No,Montana,32,Monthly,Debit Card
+2731,23,Female,No,Wisconsin,37,Annually,Bank Transfer
+2732,52,Female,No,Wisconsin,44,Quarterly,PayPal
+2733,21,Female,No,Delaware,27,Every 3 Months,Credit Card
+2734,31,Female,No,North Carolina,46,Annually,Cash
+2735,63,Female,No,New York,13,Bi-Weekly,Venmo
+2736,46,Female,No,California,2,Bi-Weekly,Bank Transfer
+2737,44,Female,No,Montana,45,Annually,PayPal
+2738,57,Female,No,North Carolina,35,Every 3 Months,Venmo
+2739,50,Female,No,Ohio,39,Every 3 Months,Bank Transfer
+2740,33,Female,No,Alaska,39,Every 3 Months,Venmo
+2741,19,Female,No,Pennsylvania,34,Fortnightly,Credit Card
+2742,68,Female,No,Maine,41,Monthly,PayPal
+2743,27,Female,No,Texas,47,Annually,PayPal
+2744,61,Female,No,New Jersey,17,Quarterly,Debit Card
+2745,38,Female,No,Wyoming,40,Monthly,Cash
+2746,28,Female,No,Michigan,44,Bi-Weekly,Bank Transfer
+2747,39,Female,No,Ohio,21,Every 3 Months,Bank Transfer
+2748,18,Female,No,West Virginia,21,Every 3 Months,Debit Card
+2749,24,Female,No,Virginia,16,Annually,Cash
+2750,64,Female,No,Vermont,15,Annually,Venmo
+2751,51,Female,No,Alaska,26,Every 3 Months,Cash
+2752,27,Female,No,Minnesota,50,Monthly,Venmo
+2753,48,Female,No,Colorado,30,Bi-Weekly,Cash
+2754,69,Female,No,Rhode Island,48,Quarterly,Bank Transfer
+2755,59,Female,No,New Jersey,21,Bi-Weekly,PayPal
+2756,59,Female,No,Nevada,18,Annually,Venmo
+2757,42,Female,No,Minnesota,41,Monthly,Bank Transfer
+2758,39,Female,No,Delaware,11,Monthly,Cash
+2759,32,Female,No,Illinois,8,Bi-Weekly,Debit Card
+2760,68,Female,No,Washington,42,Every 3 Months,Credit Card
+2761,41,Female,No,Alaska,41,Bi-Weekly,Bank Transfer
+2762,31,Female,No,Michigan,3,Every 3 Months,Venmo
+2763,58,Female,No,Georgia,10,Every 3 Months,Bank Transfer
+2764,28,Female,No,West Virginia,35,Quarterly,Venmo
+2765,63,Female,No,Arizona,2,Weekly,Credit Card
+2766,64,Female,No,Colorado,24,Quarterly,Cash
+2767,66,Female,No,Tennessee,47,Monthly,Venmo
+2768,31,Female,No,Iowa,31,Monthly,Credit Card
+2769,55,Female,No,Kansas,28,Bi-Weekly,Venmo
+2770,32,Female,No,Oklahoma,13,Weekly,PayPal
+2771,50,Female,No,Nebraska,22,Quarterly,PayPal
+2772,58,Female,No,Maryland,12,Fortnightly,Cash
+2773,18,Female,No,Pennsylvania,10,Every 3 Months,Credit Card
+2774,39,Female,No,Arizona,45,Quarterly,Credit Card
+2775,56,Female,No,Oklahoma,42,Quarterly,Bank Transfer
+2776,37,Female,No,Montana,16,Weekly,Venmo
+2777,46,Female,No,Wyoming,6,Annually,Debit Card
+2778,52,Female,No,Idaho,28,Every 3 Months,Debit Card
+2779,70,Female,No,Pennsylvania,24,Bi-Weekly,Cash
+2780,61,Female,No,Montana,14,Fortnightly,Bank Transfer
+2781,33,Female,No,Ohio,29,Fortnightly,Bank Transfer
+2782,65,Female,No,Mississippi,33,Weekly,Venmo
+2783,41,Female,No,Idaho,30,Annually,PayPal
+2784,19,Female,No,Virginia,26,Quarterly,Credit Card
+2785,33,Female,No,Idaho,12,Every 3 Months,Bank Transfer
+2786,53,Female,No,Louisiana,13,Monthly,Credit Card
+2787,54,Female,No,Colorado,41,Every 3 Months,PayPal
+2788,36,Female,No,West Virginia,4,Fortnightly,Cash
+2789,56,Female,No,Rhode Island,2,Annually,Cash
+2790,28,Female,No,North Carolina,28,Bi-Weekly,Cash
+2791,34,Female,No,Maine,24,Annually,Cash
+2792,43,Female,No,Iowa,14,Fortnightly,Credit Card
+2793,54,Female,No,Kentucky,11,Weekly,Debit Card
+2794,37,Female,No,Massachusetts,27,Bi-Weekly,Bank Transfer
+2795,33,Female,No,New York,7,Fortnightly,PayPal
+2796,33,Female,No,Nebraska,49,Annually,Bank Transfer
+2797,55,Female,No,Oklahoma,21,Annually,Cash
+2798,63,Female,No,Oklahoma,10,Every 3 Months,PayPal
+2799,52,Female,No,Rhode Island,37,Weekly,Credit Card
+2800,23,Female,No,Maine,9,Every 3 Months,Credit Card
+2801,70,Female,No,Arkansas,14,Bi-Weekly,PayPal
+2802,64,Female,No,New Mexico,30,Annually,Cash
+2803,22,Female,No,Hawaii,42,Fortnightly,Bank Transfer
+2804,46,Female,No,Idaho,31,Monthly,Credit Card
+2805,65,Female,No,South Carolina,48,Every 3 Months,Credit Card
+2806,18,Female,No,Nevada,48,Quarterly,Cash
+2807,45,Female,No,South Carolina,50,Annually,PayPal
+2808,56,Female,No,Maryland,10,Fortnightly,Debit Card
+2809,49,Female,No,Tennessee,45,Every 3 Months,Credit Card
+2810,66,Female,No,Arkansas,27,Quarterly,Debit Card
+2811,27,Female,No,Arizona,10,Fortnightly,Credit Card
+2812,69,Female,No,Ohio,19,Quarterly,PayPal
+2813,66,Female,No,North Dakota,1,Every 3 Months,Debit Card
+2814,45,Female,No,Vermont,39,Quarterly,Debit Card
+2815,31,Female,No,Minnesota,14,Monthly,Venmo
+2816,33,Female,No,Idaho,40,Every 3 Months,Cash
+2817,43,Female,No,Maryland,45,Weekly,Bank Transfer
+2818,25,Female,No,South Carolina,6,Weekly,Credit Card
+2819,46,Female,No,California,12,Annually,Venmo
+2820,67,Female,No,Georgia,19,Monthly,Credit Card
+2821,26,Female,No,Vermont,5,Bi-Weekly,Venmo
+2822,35,Female,No,Georgia,37,Monthly,Credit Card
+2823,61,Female,No,New Jersey,33,Quarterly,PayPal
+2824,26,Female,No,Utah,47,Bi-Weekly,Venmo
+2825,39,Female,No,Utah,49,Quarterly,Debit Card
+2826,69,Female,No,North Carolina,28,Annually,Cash
+2827,32,Female,No,Florida,23,Annually,Debit Card
+2828,20,Female,No,Wisconsin,11,Bi-Weekly,Credit Card
+2829,25,Female,No,Tennessee,33,Quarterly,Credit Card
+2830,56,Female,No,Arizona,47,Weekly,PayPal
+2831,63,Female,No,Oregon,13,Every 3 Months,Credit Card
+2832,34,Female,No,Virginia,4,Weekly,Cash
+2833,29,Female,No,Maryland,40,Quarterly,Cash
+2834,43,Female,No,Arkansas,19,Monthly,PayPal
+2835,39,Female,No,Texas,17,Weekly,Credit Card
+2836,33,Female,No,Vermont,7,Annually,Credit Card
+2837,51,Female,No,Wyoming,21,Bi-Weekly,Venmo
+2838,65,Female,No,Alabama,44,Weekly,Venmo
+2839,51,Female,No,Maine,2,Weekly,Venmo
+2840,70,Female,No,South Dakota,30,Monthly,Cash
+2841,40,Female,No,West Virginia,41,Annually,Bank Transfer
+2842,19,Female,No,Ohio,31,Weekly,Credit Card
+2843,28,Female,No,Arizona,48,Quarterly,Cash
+2844,51,Female,No,Ohio,41,Weekly,Cash
+2845,32,Female,No,New Mexico,42,Annually,Venmo
+2846,26,Female,No,South Dakota,39,Every 3 Months,Cash
+2847,50,Female,No,Oklahoma,15,Bi-Weekly,Cash
+2848,68,Female,No,Connecticut,3,Every 3 Months,Venmo
+2849,33,Female,No,Wisconsin,28,Quarterly,Debit Card
+2850,56,Female,No,New Hampshire,27,Bi-Weekly,Credit Card
+2851,57,Female,No,Nebraska,36,Annually,Credit Card
+2852,58,Female,No,Nevada,42,Monthly,Bank Transfer
+2853,40,Female,No,New York,30,Weekly,Credit Card
+2854,37,Female,No,Pennsylvania,9,Weekly,Cash
+2855,36,Female,No,Delaware,25,Monthly,Debit Card
+2856,29,Female,No,Mississippi,33,Quarterly,Debit Card
+2857,65,Female,No,Iowa,31,Monthly,Debit Card
+2858,44,Female,No,Utah,35,Monthly,Venmo
+2859,34,Female,No,Maryland,46,Monthly,Cash
+2860,31,Female,No,Utah,29,Annually,Venmo
+2861,28,Female,No,Rhode Island,49,Weekly,PayPal
+2862,66,Female,No,Maryland,27,Monthly,Debit Card
+2863,68,Female,No,Hawaii,5,Every 3 Months,Bank Transfer
+2864,37,Female,No,Connecticut,18,Monthly,Debit Card
+2865,58,Female,No,Illinois,31,Weekly,Debit Card
+2866,28,Female,No,California,27,Fortnightly,Cash
+2867,54,Female,No,Connecticut,19,Annually,Venmo
+2868,21,Female,No,Colorado,33,Fortnightly,Venmo
+2869,45,Female,No,Colorado,42,Every 3 Months,Debit Card
+2870,57,Female,No,Georgia,16,Weekly,Cash
+2871,47,Female,No,North Dakota,49,Every 3 Months,Debit Card
+2872,46,Female,No,Idaho,40,Bi-Weekly,Cash
+2873,63,Female,No,Connecticut,5,Annually,Venmo
+2874,44,Female,No,Montana,8,Monthly,PayPal
+2875,36,Female,No,Colorado,2,Annually,Debit Card
+2876,24,Female,No,Kentucky,14,Weekly,Credit Card
+2877,65,Female,No,New Mexico,5,Fortnightly,Credit Card
+2878,32,Female,No,New Jersey,34,Monthly,PayPal
+2879,63,Female,No,California,13,Annually,Venmo
+2880,62,Female,No,North Dakota,31,Annually,Credit Card
+2881,19,Female,No,Florida,43,Quarterly,Debit Card
+2882,38,Female,No,Texas,6,Annually,Credit Card
+2883,59,Female,No,Oklahoma,23,Bi-Weekly,Credit Card
+2884,22,Female,No,Rhode Island,10,Weekly,Debit Card
+2885,55,Female,No,Arkansas,47,Every 3 Months,Bank Transfer
+2886,29,Female,No,Nevada,14,Bi-Weekly,Bank Transfer
+2887,42,Female,No,Utah,29,Weekly,Credit Card
+2888,23,Female,No,Kentucky,12,Bi-Weekly,Debit Card
+2889,70,Female,No,Wisconsin,25,Quarterly,Venmo
+2890,64,Female,No,Minnesota,21,Annually,Credit Card
+2891,39,Female,No,North Dakota,23,Monthly,PayPal
+2892,47,Female,No,Ohio,10,Monthly,Venmo
+2893,22,Female,No,Nevada,47,Monthly,Bank Transfer
+2894,69,Female,No,Kentucky,44,Every 3 Months,Credit Card
+2895,35,Female,No,Kentucky,41,Annually,Cash
+2896,56,Female,No,Montana,29,Monthly,Debit Card
+2897,30,Female,No,Delaware,2,Every 3 Months,Credit Card
+2898,43,Female,No,Montana,2,Fortnightly,Credit Card
+2899,23,Female,No,New Jersey,29,Annually,Credit Card
+2900,50,Female,No,Nebraska,22,Fortnightly,PayPal
+2901,41,Female,No,Maryland,23,Bi-Weekly,Bank Transfer
+2902,41,Female,No,Alabama,46,Quarterly,Credit Card
+2903,27,Female,No,North Carolina,19,Bi-Weekly,Debit Card
+2904,38,Female,No,Delaware,24,Every 3 Months,Venmo
+2905,41,Female,No,Iowa,43,Monthly,Bank Transfer
+2906,58,Female,No,New York,14,Fortnightly,PayPal
+2907,58,Female,No,Virginia,7,Annually,PayPal
+2908,19,Female,No,Maryland,50,Bi-Weekly,Cash
+2909,43,Female,No,Texas,15,Every 3 Months,Debit Card
+2910,27,Female,No,Louisiana,40,Every 3 Months,Bank Transfer
+2911,32,Female,No,Mississippi,41,Monthly,Bank Transfer
+2912,28,Female,No,Ohio,34,Quarterly,Debit Card
+2913,48,Female,No,Oregon,27,Bi-Weekly,Cash
+2914,43,Female,No,Wyoming,12,Every 3 Months,Debit Card
+2915,45,Female,No,Pennsylvania,1,Bi-Weekly,PayPal
+2916,26,Female,No,Oregon,39,Bi-Weekly,Credit Card
+2917,62,Female,No,Oklahoma,13,Bi-Weekly,Credit Card
+2918,58,Female,No,Colorado,50,Annually,Cash
+2919,19,Female,No,New York,36,Weekly,Credit Card
+2920,64,Female,No,Minnesota,31,Monthly,Bank Transfer
+2921,33,Female,No,Texas,3,Bi-Weekly,Venmo
+2922,20,Female,No,Wisconsin,11,Fortnightly,Venmo
+2923,45,Female,No,Kentucky,16,Quarterly,Venmo
+2924,28,Female,No,Pennsylvania,12,Quarterly,Bank Transfer
+2925,47,Female,No,Rhode Island,37,Every 3 Months,Bank Transfer
+2926,54,Female,No,Illinois,43,Every 3 Months,Cash
+2927,64,Female,No,Maryland,9,Weekly,Debit Card
+2928,45,Female,No,Missouri,15,Bi-Weekly,Debit Card
+2929,40,Female,No,Alabama,17,Weekly,Venmo
+2930,31,Female,No,Maine,42,Fortnightly,Debit Card
+2931,38,Female,No,Mississippi,14,Monthly,Credit Card
+2932,36,Female,No,Alabama,49,Bi-Weekly,Cash
+2933,65,Female,No,Alaska,3,Quarterly,Credit Card
+2934,27,Female,No,Illinois,28,Monthly,Credit Card
+2935,38,Female,No,Idaho,41,Quarterly,Bank Transfer
+2936,58,Female,No,North Carolina,11,Weekly,Debit Card
+2937,31,Female,No,Washington,46,Weekly,Debit Card
+2938,28,Female,No,West Virginia,15,Weekly,Debit Card
+2939,28,Female,No,Maine,15,Monthly,Cash
+2940,32,Female,No,Kentucky,34,Weekly,PayPal
+2941,61,Female,No,Massachusetts,13,Monthly,Venmo
+2942,38,Female,No,Pennsylvania,27,Monthly,Bank Transfer
+2943,54,Female,No,Hawaii,37,Weekly,Cash
+2944,29,Female,No,Virginia,37,Monthly,Debit Card
+2945,50,Female,No,New York,4,Every 3 Months,Cash
+2946,32,Female,No,Delaware,1,Every 3 Months,Venmo
+2947,38,Female,No,Hawaii,29,Quarterly,Credit Card
+2948,52,Female,No,Nebraska,50,Annually,Venmo
+2949,61,Female,No,Vermont,38,Bi-Weekly,Credit Card
+2950,25,Female,No,Iowa,15,Annually,Credit Card
+2951,22,Female,No,Iowa,44,Every 3 Months,Bank Transfer
+2952,47,Female,No,Arkansas,14,Weekly,Credit Card
+2953,50,Female,No,Alabama,5,Monthly,PayPal
+2954,45,Female,No,Maryland,11,Annually,PayPal
+2955,33,Female,No,South Dakota,15,Annually,PayPal
+2956,42,Female,No,Vermont,46,Annually,Venmo
+2957,52,Female,No,Montana,30,Monthly,PayPal
+2958,69,Female,No,South Dakota,2,Annually,Cash
+2959,55,Female,No,Ohio,28,Monthly,Venmo
+2960,38,Female,No,Texas,9,Quarterly,PayPal
+2961,57,Female,No,Indiana,47,Weekly,Venmo
+2962,33,Female,No,New Hampshire,21,Bi-Weekly,Credit Card
+2963,57,Female,No,California,42,Every 3 Months,PayPal
+2964,52,Female,No,Maine,28,Weekly,Debit Card
+2965,44,Female,No,Ohio,13,Fortnightly,Credit Card
+2966,48,Female,No,Delaware,25,Fortnightly,Bank Transfer
+2967,52,Female,No,Oklahoma,38,Every 3 Months,Cash
+2968,34,Female,No,Indiana,40,Annually,Cash
+2969,26,Female,No,South Carolina,25,Every 3 Months,Cash
+2970,36,Female,No,Vermont,20,Every 3 Months,Bank Transfer
+2971,24,Female,No,Kansas,44,Bi-Weekly,Bank Transfer
+2972,30,Female,No,Utah,9,Every 3 Months,Credit Card
+2973,31,Female,No,New York,11,Every 3 Months,Venmo
+2974,25,Female,No,Indiana,3,Fortnightly,PayPal
+2975,57,Female,No,Tennessee,34,Weekly,Cash
+2976,61,Female,No,Georgia,48,Every 3 Months,PayPal
+2977,30,Female,No,Nebraska,28,Fortnightly,Debit Card
+2978,38,Female,No,Washington,20,Annually,PayPal
+2979,53,Female,No,Idaho,49,Fortnightly,Credit Card
+2980,31,Female,No,Louisiana,14,Weekly,PayPal
+2981,70,Female,No,New Jersey,9,Monthly,Cash
+2982,21,Female,No,Delaware,37,Annually,PayPal
+2983,33,Female,No,Wisconsin,4,Weekly,Venmo
+2984,60,Female,No,West Virginia,1,Quarterly,Venmo
+2985,45,Female,No,Texas,36,Bi-Weekly,PayPal
+2986,46,Female,No,Hawaii,21,Bi-Weekly,Venmo
+2987,62,Female,No,Arizona,16,Monthly,Credit Card
+2988,63,Female,No,Louisiana,42,Monthly,Debit Card
+2989,69,Female,No,Nevada,31,Monthly,Debit Card
+2990,46,Female,No,Rhode Island,6,Weekly,Cash
+2991,69,Female,No,Illinois,24,Monthly,Venmo
+2992,66,Female,No,Utah,7,Bi-Weekly,PayPal
+2993,41,Female,No,North Dakota,25,Weekly,Bank Transfer
+2994,32,Female,No,Kansas,18,Bi-Weekly,Bank Transfer
+2995,69,Female,No,Nevada,14,Quarterly,Cash
+2996,29,Female,No,Virginia,42,Bi-Weekly,Venmo
+2997,70,Female,No,Utah,6,Every 3 Months,Credit Card
+2998,41,Female,No,Idaho,14,Every 3 Months,Venmo
+2999,31,Female,No,Alaska,30,Quarterly,Venmo
+3000,31,Female,No,New Hampshire,10,Monthly,Bank Transfer
+3001,57,Female,No,Ohio,7,Weekly,Cash
+3002,29,Female,No,Montana,28,Quarterly,Credit Card
+3003,70,Female,No,Louisiana,19,Quarterly,Cash
+3004,51,Female,No,Oregon,13,Every 3 Months,Venmo
+3005,45,Female,No,Arizona,23,Fortnightly,Venmo
+3006,18,Female,No,Alaska,5,Weekly,Bank Transfer
+3007,37,Female,No,Utah,17,Bi-Weekly,Venmo
+3008,23,Female,No,New York,31,Weekly,Debit Card
+3009,39,Female,No,New Mexico,19,Weekly,Cash
+3010,62,Female,No,Louisiana,8,Fortnightly,Venmo
+3011,70,Female,No,Ohio,15,Annually,Bank Transfer
+3012,20,Female,No,Nevada,18,Every 3 Months,Bank Transfer
+3013,42,Female,No,Idaho,16,Annually,Credit Card
+3014,41,Female,No,Arizona,13,Monthly,Debit Card
+3015,24,Female,No,Utah,38,Every 3 Months,Credit Card
+3016,37,Female,No,Wyoming,27,Bi-Weekly,Venmo
+3017,30,Female,No,Indiana,31,Quarterly,Credit Card
+3018,58,Female,No,Wisconsin,24,Bi-Weekly,Bank Transfer
+3019,43,Female,No,Texas,21,Bi-Weekly,Debit Card
+3020,19,Female,No,Utah,15,Annually,Venmo
+3021,23,Female,No,Arkansas,48,Every 3 Months,Bank Transfer
+3022,65,Female,No,Pennsylvania,47,Quarterly,Debit Card
+3023,58,Female,No,Georgia,23,Weekly,Debit Card
+3024,50,Female,No,Indiana,4,Quarterly,PayPal
+3025,67,Female,No,Idaho,47,Every 3 Months,Credit Card
+3026,40,Female,No,Montana,7,Monthly,Debit Card
+3027,55,Female,No,Tennessee,6,Annually,Venmo
+3028,52,Female,No,West Virginia,47,Quarterly,Bank Transfer
+3029,62,Female,No,California,7,Every 3 Months,PayPal
+3030,64,Female,No,Georgia,1,Quarterly,Bank Transfer
+3031,43,Female,No,Maryland,23,Weekly,PayPal
+3032,61,Female,No,Idaho,30,Monthly,PayPal
+3033,26,Female,No,California,24,Quarterly,Debit Card
+3034,22,Female,No,Alabama,9,Weekly,PayPal
+3035,51,Female,No,Utah,25,Quarterly,PayPal
+3036,69,Female,No,Kentucky,18,Bi-Weekly,Bank Transfer
+3037,50,Female,No,Vermont,7,Fortnightly,PayPal
+3038,51,Female,No,Iowa,2,Annually,Debit Card
+3039,56,Female,No,Georgia,36,Annually,Bank Transfer
+3040,59,Female,No,Alabama,31,Bi-Weekly,Bank Transfer
+3041,18,Female,No,Nebraska,10,Fortnightly,PayPal
+3042,48,Female,No,Rhode Island,27,Monthly,Credit Card
+3043,53,Female,No,South Dakota,14,Every 3 Months,Credit Card
+3044,45,Female,No,Illinois,17,Monthly,Debit Card
+3045,21,Female,No,North Carolina,10,Quarterly,PayPal
+3046,42,Female,No,Florida,4,Bi-Weekly,Debit Card
+3047,60,Female,No,Pennsylvania,25,Every 3 Months,Bank Transfer
+3048,21,Female,No,Vermont,3,Bi-Weekly,Cash
+3049,69,Female,No,Colorado,47,Fortnightly,PayPal
+3050,40,Female,No,Utah,41,Bi-Weekly,Debit Card
+3051,31,Female,No,Kentucky,28,Every 3 Months,Cash
+3052,44,Female,No,Wyoming,49,Every 3 Months,Venmo
+3053,48,Female,No,Maine,7,Fortnightly,Credit Card
+3054,32,Female,No,Maine,22,Monthly,Credit Card
+3055,42,Female,No,New Hampshire,34,Monthly,Cash
+3056,27,Female,No,Kansas,5,Bi-Weekly,Bank Transfer
+3057,69,Female,No,New Jersey,15,Bi-Weekly,Credit Card
+3058,67,Female,No,North Carolina,26,Weekly,PayPal
+3059,41,Female,No,West Virginia,3,Fortnightly,Venmo
+3060,46,Female,No,Kentucky,42,Quarterly,PayPal
+3061,47,Female,No,California,1,Monthly,Credit Card
+3062,33,Female,No,South Dakota,20,Every 3 Months,Debit Card
+3063,51,Female,No,California,39,Monthly,Bank Transfer
+3064,26,Female,No,Connecticut,24,Fortnightly,Debit Card
+3065,22,Female,No,Idaho,49,Quarterly,Debit Card
+3066,49,Female,No,North Dakota,7,Bi-Weekly,Debit Card
+3067,58,Female,No,Michigan,13,Every 3 Months,Cash
+3068,70,Female,No,Missouri,2,Weekly,Bank Transfer
+3069,32,Female,No,California,4,Weekly,Bank Transfer
+3070,62,Female,No,Delaware,17,Quarterly,Venmo
+3071,52,Female,No,Alabama,43,Bi-Weekly,Debit Card
+3072,23,Female,No,New Hampshire,6,Monthly,Debit Card
+3073,26,Female,No,New York,46,Quarterly,Venmo
+3074,58,Female,No,Oregon,7,Bi-Weekly,PayPal
+3075,26,Female,No,Massachusetts,34,Fortnightly,Bank Transfer
+3076,54,Female,No,Utah,21,Every 3 Months,Credit Card
+3077,66,Female,No,New Hampshire,13,Bi-Weekly,Credit Card
+3078,60,Female,No,Illinois,33,Bi-Weekly,Venmo
+3079,32,Female,No,Alaska,24,Bi-Weekly,Bank Transfer
+3080,48,Female,No,Wyoming,4,Annually,Credit Card
+3081,69,Female,No,Colorado,5,Bi-Weekly,PayPal
+3082,64,Female,No,Vermont,11,Weekly,Debit Card
+3083,56,Female,No,Utah,20,Annually,Venmo
+3084,22,Female,No,Illinois,28,Quarterly,Venmo
+3085,46,Female,No,Idaho,43,Monthly,Bank Transfer
+3086,24,Female,No,Nevada,10,Every 3 Months,Credit Card
+3087,47,Female,No,Utah,26,Every 3 Months,Debit Card
+3088,62,Female,No,North Carolina,29,Monthly,Cash
+3089,34,Female,No,Arkansas,35,Quarterly,PayPal
+3090,50,Female,No,North Carolina,23,Bi-Weekly,Debit Card
+3091,29,Female,No,Texas,15,Quarterly,PayPal
+3092,68,Female,No,Nevada,46,Annually,Bank Transfer
+3093,52,Female,No,Utah,14,Bi-Weekly,Cash
+3094,29,Female,No,Pennsylvania,17,Every 3 Months,Bank Transfer
+3095,22,Female,No,Georgia,9,Weekly,Bank Transfer
+3096,62,Female,No,Minnesota,13,Fortnightly,Cash
+3097,69,Female,No,Kansas,20,Monthly,PayPal
+3098,48,Female,No,Delaware,39,Quarterly,Debit Card
+3099,66,Female,No,New Mexico,50,Quarterly,Bank Transfer
+3100,42,Female,No,Michigan,21,Bi-Weekly,Venmo
+3101,50,Female,No,Vermont,3,Weekly,Venmo
+3102,32,Female,No,Idaho,9,Fortnightly,PayPal
+3103,51,Female,No,South Dakota,29,Bi-Weekly,Bank Transfer
+3104,27,Female,No,Illinois,42,Weekly,PayPal
+3105,43,Female,No,Georgia,41,Fortnightly,PayPal
+3106,48,Female,No,Oregon,17,Monthly,Debit Card
+3107,62,Female,No,Alabama,20,Annually,Venmo
+3108,65,Female,No,Hawaii,18,Bi-Weekly,Debit Card
+3109,50,Female,No,Oregon,7,Monthly,Bank Transfer
+3110,60,Female,No,Illinois,47,Fortnightly,Credit Card
+3111,19,Female,No,Texas,2,Bi-Weekly,Bank Transfer
+3112,21,Female,No,Kansas,25,Quarterly,PayPal
+3113,19,Female,No,Texas,26,Annually,Cash
+3114,46,Female,No,Nebraska,2,Weekly,PayPal
+3115,21,Female,No,Arkansas,45,Bi-Weekly,Venmo
+3116,26,Female,No,South Dakota,9,Bi-Weekly,PayPal
+3117,50,Female,No,Montana,1,Weekly,Debit Card
+3118,43,Female,No,Florida,4,Bi-Weekly,Credit Card
+3119,61,Female,No,Virginia,31,Quarterly,Venmo
+3120,63,Female,No,Louisiana,21,Every 3 Months,Cash
+3121,46,Female,No,Louisiana,32,Fortnightly,Venmo
+3122,63,Female,No,Louisiana,16,Weekly,Credit Card
+3123,23,Female,No,Georgia,34,Fortnightly,Debit Card
+3124,57,Female,No,Iowa,40,Bi-Weekly,PayPal
+3125,57,Female,No,California,4,Every 3 Months,Venmo
+3126,33,Female,No,Oregon,3,Quarterly,Venmo
+3127,57,Female,No,Maine,28,Bi-Weekly,PayPal
+3128,55,Female,No,Louisiana,43,Every 3 Months,Credit Card
+3129,65,Female,No,Arkansas,20,Annually,PayPal
+3130,60,Female,No,Maryland,40,Every 3 Months,PayPal
+3131,52,Female,No,Vermont,34,Every 3 Months,PayPal
+3132,34,Female,No,North Dakota,11,Every 3 Months,Cash
+3133,33,Female,No,Michigan,26,Quarterly,Cash
+3134,58,Female,No,Arkansas,29,Bi-Weekly,Credit Card
+3135,35,Female,No,Kentucky,47,Weekly,Venmo
+3136,68,Female,No,Indiana,48,Fortnightly,Bank Transfer
+3137,58,Female,No,Minnesota,29,Bi-Weekly,Bank Transfer
+3138,34,Female,No,Louisiana,14,Monthly,Cash
+3139,47,Female,No,Kentucky,40,Every 3 Months,Venmo
+3140,35,Female,No,Georgia,4,Weekly,Venmo
+3141,34,Female,No,Alaska,37,Weekly,Debit Card
+3142,36,Female,No,Mississippi,47,Bi-Weekly,Venmo
+3143,23,Female,No,Kansas,1,Quarterly,PayPal
+3144,68,Female,No,Arizona,26,Quarterly,Debit Card
+3145,23,Female,No,Maine,12,Quarterly,Bank Transfer
+3146,57,Female,No,Texas,16,Fortnightly,Debit Card
+3147,21,Female,No,Virginia,19,Annually,Bank Transfer
+3148,45,Female,No,North Dakota,21,Weekly,Cash
+3149,37,Female,No,West Virginia,15,Weekly,Credit Card
+3150,18,Female,No,North Carolina,9,Annually,Debit Card
+3151,55,Female,No,Georgia,7,Bi-Weekly,Venmo
+3152,52,Female,No,New Mexico,47,Quarterly,Cash
+3153,49,Female,No,North Carolina,17,Monthly,Venmo
+3154,56,Female,No,Alabama,46,Fortnightly,Bank Transfer
+3155,27,Female,No,Connecticut,32,Quarterly,Venmo
+3156,22,Female,No,Montana,34,Annually,PayPal
+3157,18,Female,No,Montana,18,Monthly,Cash
+3158,21,Female,No,Maine,5,Fortnightly,Bank Transfer
+3159,30,Female,No,Mississippi,44,Monthly,PayPal
+3160,62,Female,No,Louisiana,4,Quarterly,PayPal
+3161,28,Female,No,Nebraska,37,Fortnightly,Debit Card
+3162,66,Female,No,Massachusetts,43,Monthly,Cash
+3163,66,Female,No,Wisconsin,28,Quarterly,Credit Card
+3164,49,Female,No,Nebraska,36,Monthly,Bank Transfer
+3165,40,Female,No,Arizona,16,Annually,Cash
+3166,49,Female,No,Hawaii,38,Every 3 Months,PayPal
+3167,19,Female,No,Georgia,37,Fortnightly,Debit Card
+3168,24,Female,No,Oregon,9,Bi-Weekly,Venmo
+3169,31,Female,No,Montana,14,Fortnightly,Bank Transfer
+3170,35,Female,No,Georgia,3,Weekly,Venmo
+3171,65,Female,No,Rhode Island,10,Fortnightly,Debit Card
+3172,68,Female,No,Tennessee,26,Bi-Weekly,Credit Card
+3173,57,Female,No,Missouri,30,Bi-Weekly,Venmo
+3174,69,Female,No,Washington,32,Fortnightly,Cash
+3175,45,Female,No,Oklahoma,35,Monthly,PayPal
+3176,35,Female,No,Connecticut,26,Every 3 Months,Debit Card
+3177,36,Female,No,Arkansas,39,Monthly,Cash
+3178,55,Female,No,Missouri,31,Monthly,Credit Card
+3179,66,Female,No,Washington,28,Annually,Cash
+3180,57,Female,No,Idaho,12,Bi-Weekly,Debit Card
+3181,18,Female,No,Montana,46,Weekly,Cash
+3182,31,Female,No,Montana,27,Every 3 Months,Cash
+3183,50,Female,No,Georgia,4,Annually,PayPal
+3184,50,Female,No,Mississippi,14,Every 3 Months,Debit Card
+3185,61,Female,No,Hawaii,30,Quarterly,Credit Card
+3186,52,Female,No,Ohio,6,Annually,Credit Card
+3187,38,Female,No,Virginia,43,Annually,PayPal
+3188,67,Female,No,Texas,28,Weekly,Credit Card
+3189,42,Female,No,Vermont,39,Monthly,Venmo
+3190,25,Female,No,Kansas,30,Bi-Weekly,PayPal
+3191,41,Female,No,California,5,Fortnightly,Bank Transfer
+3192,62,Female,No,Mississippi,42,Every 3 Months,Bank Transfer
+3193,19,Female,No,Iowa,20,Fortnightly,Credit Card
+3194,63,Female,No,Virginia,35,Fortnightly,PayPal
+3195,43,Female,No,Maryland,10,Bi-Weekly,Debit Card
+3196,68,Female,No,Missouri,36,Quarterly,Debit Card
+3197,24,Female,No,Wisconsin,21,Fortnightly,Debit Card
+3198,27,Female,No,Maine,29,Every 3 Months,Bank Transfer
+3199,61,Female,No,Pennsylvania,39,Weekly,Cash
+3200,59,Female,No,Maine,16,Monthly,PayPal
+3201,67,Female,No,Missouri,32,Monthly,PayPal
+3202,46,Female,No,Vermont,34,Monthly,Credit Card
+3203,65,Female,No,Wisconsin,38,Annually,Bank Transfer
+3204,63,Female,No,New Jersey,14,Annually,Cash
+3205,57,Female,No,New Mexico,23,Bi-Weekly,Credit Card
+3206,40,Female,No,Colorado,50,Every 3 Months,Debit Card
+3207,36,Female,No,California,49,Monthly,Debit Card
+3208,67,Female,No,Arizona,14,Annually,Debit Card
+3209,61,Female,No,Indiana,42,Weekly,PayPal
+3210,64,Female,No,Arkansas,39,Annually,Bank Transfer
+3211,30,Female,No,Nevada,43,Bi-Weekly,Debit Card
+3212,53,Female,No,Rhode Island,12,Monthly,Credit Card
+3213,27,Female,No,Wyoming,21,Weekly,Bank Transfer
+3214,27,Female,No,Texas,33,Monthly,Venmo
+3215,53,Female,No,Washington,6,Annually,Bank Transfer
+3216,34,Female,No,Rhode Island,10,Every 3 Months,Bank Transfer
+3217,39,Female,No,Illinois,18,Weekly,Debit Card
+3218,44,Female,No,Oregon,46,Weekly,PayPal
+3219,37,Female,No,Florida,49,Monthly,Venmo
+3220,57,Female,No,Kansas,39,Weekly,Bank Transfer
+3221,38,Female,No,North Dakota,16,Monthly,PayPal
+3222,21,Female,No,New Hampshire,28,Annually,Credit Card
+3223,45,Female,No,Texas,22,Quarterly,Debit Card
+3224,68,Female,No,Montana,36,Bi-Weekly,PayPal
+3225,37,Female,No,Delaware,18,Monthly,Cash
+3226,53,Female,No,New Hampshire,31,Weekly,Credit Card
+3227,57,Female,No,Minnesota,38,Fortnightly,Debit Card
+3228,28,Female,No,Alaska,42,Quarterly,Credit Card
+3229,37,Female,No,Connecticut,27,Annually,Credit Card
+3230,54,Female,No,Connecticut,24,Monthly,Debit Card
+3231,49,Female,No,Kansas,38,Annually,Venmo
+3232,62,Female,No,Nevada,9,Annually,PayPal
+3233,45,Female,No,Massachusetts,19,Monthly,PayPal
+3234,45,Female,No,Indiana,11,Bi-Weekly,Credit Card
+3235,49,Female,No,Washington,16,Quarterly,Bank Transfer
+3236,27,Female,No,Kansas,18,Monthly,Venmo
+3237,63,Female,No,South Carolina,8,Monthly,Venmo
+3238,61,Female,No,Vermont,4,Weekly,Bank Transfer
+3239,25,Female,No,Wyoming,37,Quarterly,PayPal
+3240,33,Female,No,Colorado,30,Monthly,Credit Card
+3241,56,Female,No,West Virginia,37,Monthly,Credit Card
+3242,50,Female,No,Connecticut,30,Quarterly,Credit Card
+3243,45,Female,No,Oregon,17,Weekly,Cash
+3244,45,Female,No,Idaho,11,Every 3 Months,Venmo
+3245,65,Female,No,Arkansas,42,Annually,Bank Transfer
+3246,63,Female,No,Kansas,20,Weekly,PayPal
+3247,70,Female,No,Michigan,37,Monthly,Venmo
+3248,53,Female,No,Arkansas,12,Fortnightly,Venmo
+3249,22,Female,No,Pennsylvania,41,Quarterly,Venmo
+3250,26,Female,No,Virginia,32,Quarterly,Credit Card
+3251,23,Female,No,Minnesota,15,Weekly,Cash
+3252,25,Female,No,Nevada,39,Quarterly,Debit Card
+3253,69,Female,No,Montana,48,Fortnightly,Bank Transfer
+3254,36,Female,No,Nebraska,8,Fortnightly,Debit Card
+3255,21,Female,No,Indiana,11,Every 3 Months,Venmo
+3256,57,Female,No,New Jersey,36,Monthly,Cash
+3257,60,Female,No,Wisconsin,50,Every 3 Months,Cash
+3258,44,Female,No,Minnesota,39,Every 3 Months,PayPal
+3259,31,Female,No,New Jersey,11,Bi-Weekly,Debit Card
+3260,57,Female,No,Oklahoma,5,Every 3 Months,PayPal
+3261,39,Female,No,Wisconsin,7,Annually,Bank Transfer
+3262,48,Female,No,Rhode Island,50,Weekly,Bank Transfer
+3263,42,Female,No,Indiana,21,Every 3 Months,Cash
+3264,56,Female,No,Vermont,31,Fortnightly,PayPal
+3265,28,Female,No,Maine,39,Bi-Weekly,PayPal
+3266,40,Female,No,Alabama,28,Fortnightly,Credit Card
+3267,49,Female,No,Alabama,33,Weekly,Bank Transfer
+3268,37,Female,No,Idaho,42,Quarterly,Debit Card
+3269,22,Female,No,Arkansas,5,Every 3 Months,Cash
+3270,27,Female,No,Ohio,25,Monthly,Venmo
+3271,59,Female,No,Illinois,48,Annually,Cash
+3272,35,Female,No,Nevada,30,Weekly,Debit Card
+3273,58,Female,No,Texas,34,Quarterly,Bank Transfer
+3274,58,Female,No,Nevada,34,Every 3 Months,Credit Card
+3275,46,Female,No,Oklahoma,14,Fortnightly,Credit Card
+3276,43,Female,No,Alabama,2,Weekly,Venmo
+3277,39,Female,No,South Dakota,41,Every 3 Months,Credit Card
+3278,59,Female,No,Texas,3,Monthly,Cash
+3279,59,Female,No,Montana,18,Weekly,Debit Card
+3280,59,Female,No,Wyoming,1,Fortnightly,Credit Card
+3281,45,Female,No,New York,5,Monthly,Credit Card
+3282,27,Female,No,Oregon,41,Annually,Debit Card
+3283,24,Female,No,California,5,Monthly,Bank Transfer
+3284,47,Female,No,North Carolina,10,Every 3 Months,Credit Card
+3285,70,Female,No,Kentucky,20,Annually,Debit Card
+3286,58,Female,No,Hawaii,11,Weekly,PayPal
+3287,45,Female,No,Illinois,4,Fortnightly,Venmo
+3288,24,Female,No,West Virginia,38,Weekly,PayPal
+3289,67,Female,No,South Carolina,19,Bi-Weekly,Debit Card
+3290,31,Female,No,Montana,16,Every 3 Months,Venmo
+3291,52,Female,No,North Dakota,2,Monthly,Bank Transfer
+3292,29,Female,No,New Mexico,11,Monthly,Bank Transfer
+3293,62,Female,No,Missouri,18,Fortnightly,Debit Card
+3294,19,Female,No,West Virginia,47,Fortnightly,Bank Transfer
+3295,62,Female,No,South Carolina,15,Bi-Weekly,PayPal
+3296,70,Female,No,West Virginia,15,Weekly,PayPal
+3297,20,Female,No,Alaska,47,Quarterly,PayPal
+3298,67,Female,No,West Virginia,47,Monthly,Credit Card
+3299,65,Female,No,New Mexico,6,Every 3 Months,PayPal
+3300,45,Female,No,South Dakota,18,Monthly,Bank Transfer
+3301,26,Female,No,Oklahoma,40,Bi-Weekly,Debit Card
+3302,36,Female,No,Oklahoma,31,Fortnightly,PayPal
+3303,36,Female,No,Alabama,31,Bi-Weekly,Venmo
+3304,20,Female,No,Mississippi,4,Fortnightly,PayPal
+3305,30,Female,No,Mississippi,36,Every 3 Months,Debit Card
+3306,34,Female,No,Nebraska,31,Bi-Weekly,Bank Transfer
+3307,63,Female,No,Colorado,6,Fortnightly,Cash
+3308,18,Female,No,Pennsylvania,1,Monthly,Credit Card
+3309,55,Female,No,Utah,29,Monthly,Venmo
+3310,48,Female,No,Massachusetts,19,Monthly,Credit Card
+3311,45,Female,No,Iowa,12,Fortnightly,Debit Card
+3312,29,Female,No,Florida,18,Annually,PayPal
+3313,55,Female,No,Louisiana,45,Quarterly,Venmo
+3314,55,Female,No,Kansas,45,Monthly,Cash
+3315,55,Female,No,Kansas,8,Quarterly,PayPal
+3316,48,Female,No,Kentucky,4,Every 3 Months,Credit Card
+3317,42,Female,No,New Mexico,5,Fortnightly,Cash
+3318,21,Female,No,North Carolina,30,Quarterly,Debit Card
+3319,45,Female,No,North Dakota,15,Monthly,Venmo
+3320,23,Female,No,North Dakota,17,Every 3 Months,Cash
+3321,66,Female,No,Illinois,45,Every 3 Months,Cash
+3322,32,Female,No,Maine,3,Annually,Bank Transfer
+3323,52,Female,No,Indiana,43,Weekly,Credit Card
+3324,54,Female,No,North Dakota,4,Monthly,Venmo
+3325,37,Female,No,Missouri,41,Weekly,Venmo
+3326,29,Female,No,Alaska,16,Monthly,Debit Card
+3327,47,Female,No,North Dakota,10,Annually,Cash
+3328,47,Female,No,Connecticut,2,Quarterly,Bank Transfer
+3329,42,Female,No,Wisconsin,11,Bi-Weekly,Venmo
+3330,34,Female,No,New Jersey,1,Bi-Weekly,Debit Card
+3331,38,Female,No,Missouri,41,Quarterly,PayPal
+3332,55,Female,No,California,39,Quarterly,Debit Card
+3333,27,Female,No,Washington,1,Bi-Weekly,PayPal
+3334,55,Female,No,Minnesota,3,Monthly,Debit Card
+3335,66,Female,No,California,21,Annually,Bank Transfer
+3336,44,Female,No,Texas,48,Quarterly,Credit Card
+3337,39,Female,No,Montana,24,Annually,Venmo
+3338,23,Female,No,Arizona,45,Bi-Weekly,Bank Transfer
+3339,29,Female,No,Minnesota,46,Monthly,Venmo
+3340,20,Female,No,Nebraska,35,Fortnightly,Debit Card
+3341,42,Female,No,Virginia,47,Fortnightly,Credit Card
+3342,55,Female,No,Connecticut,35,Monthly,Venmo
+3343,66,Female,No,New Jersey,45,Weekly,Credit Card
+3344,24,Female,No,Kentucky,6,Bi-Weekly,Bank Transfer
+3345,62,Female,No,Washington,20,Annually,Debit Card
+3346,28,Female,No,Florida,3,Bi-Weekly,Cash
+3347,30,Female,No,Oklahoma,30,Quarterly,PayPal
+3348,22,Female,No,Iowa,28,Bi-Weekly,Credit Card
+3349,28,Female,No,New Hampshire,15,Every 3 Months,PayPal
+3350,35,Female,No,Georgia,29,Quarterly,Cash
+3351,45,Female,No,Mississippi,15,Bi-Weekly,PayPal
+3352,43,Female,No,New Hampshire,18,Fortnightly,Cash
+3353,55,Female,No,Washington,7,Bi-Weekly,Credit Card
+3354,31,Female,No,Ohio,19,Every 3 Months,Debit Card
+3355,42,Female,No,Maryland,15,Weekly,Cash
+3356,40,Female,No,Delaware,3,Bi-Weekly,Debit Card
+3357,39,Female,No,Tennessee,13,Bi-Weekly,Credit Card
+3358,41,Female,No,Arkansas,37,Monthly,Venmo
+3359,56,Female,No,Tennessee,26,Annually,Debit Card
+3360,43,Female,No,New Hampshire,29,Monthly,Credit Card
+3361,22,Female,No,Minnesota,47,Every 3 Months,Venmo
+3362,47,Female,No,Florida,47,Bi-Weekly,Credit Card
+3363,50,Female,No,Tennessee,48,Fortnightly,Credit Card
+3364,58,Female,No,California,46,Bi-Weekly,PayPal
+3365,50,Female,No,Oregon,7,Monthly,Cash
+3366,43,Female,No,Tennessee,45,Every 3 Months,Bank Transfer
+3367,38,Female,No,North Carolina,47,Quarterly,Venmo
+3368,44,Female,No,Tennessee,6,Fortnightly,Credit Card
+3369,30,Female,No,Nebraska,29,Every 3 Months,Cash
+3370,47,Female,No,Maine,42,Monthly,Debit Card
+3371,30,Female,No,Illinois,46,Fortnightly,Venmo
+3372,49,Female,No,Colorado,28,Annually,PayPal
+3373,56,Female,No,Pennsylvania,14,Every 3 Months,Credit Card
+3374,70,Female,No,Minnesota,12,Every 3 Months,Debit Card
+3375,22,Female,No,Nevada,41,Annually,Debit Card
+3376,51,Female,No,Connecticut,8,Annually,Debit Card
+3377,22,Female,No,Ohio,24,Quarterly,Credit Card
+3378,37,Female,No,Kentucky,18,Fortnightly,Bank Transfer
+3379,49,Female,No,Minnesota,6,Quarterly,PayPal
+3380,61,Female,No,Tennessee,40,Weekly,Debit Card
+3381,41,Female,No,North Dakota,6,Every 3 Months,PayPal
+3382,57,Female,No,Minnesota,27,Quarterly,Bank Transfer
+3383,34,Female,No,Nebraska,2,Weekly,Bank Transfer
+3384,27,Female,No,Delaware,39,Bi-Weekly,Credit Card
+3385,39,Female,No,Minnesota,9,Quarterly,Credit Card
+3386,62,Female,No,Rhode Island,16,Every 3 Months,PayPal
+3387,34,Female,No,Michigan,36,Quarterly,Debit Card
+3388,53,Female,No,New Jersey,2,Bi-Weekly,Venmo
+3389,35,Female,No,South Dakota,21,Weekly,Venmo
+3390,38,Female,No,North Carolina,39,Annually,Credit Card
+3391,32,Female,No,Oregon,38,Annually,Credit Card
+3392,47,Female,No,Montana,6,Every 3 Months,Cash
+3393,53,Female,No,New Jersey,6,Bi-Weekly,Credit Card
+3394,60,Female,No,Arizona,50,Monthly,PayPal
+3395,31,Female,No,Vermont,9,Annually,Cash
+3396,44,Female,No,Colorado,15,Every 3 Months,Debit Card
+3397,29,Female,No,Tennessee,5,Quarterly,PayPal
+3398,19,Female,No,New Jersey,13,Bi-Weekly,Bank Transfer
+3399,54,Female,No,Montana,44,Fortnightly,Cash
+3400,40,Female,No,Montana,36,Annually,Debit Card
+3401,39,Female,No,Nevada,18,Fortnightly,Debit Card
+3402,44,Female,No,Nevada,39,Weekly,Venmo
+3403,22,Female,No,Louisiana,11,Every 3 Months,Venmo
+3404,30,Female,No,Illinois,1,Bi-Weekly,Credit Card
+3405,69,Female,No,South Carolina,34,Annually,Cash
+3406,28,Female,No,Washington,47,Bi-Weekly,Venmo
+3407,57,Female,No,Nebraska,24,Quarterly,Venmo
+3408,46,Female,No,Alabama,20,Quarterly,Bank Transfer
+3409,48,Female,No,Montana,11,Annually,PayPal
+3410,24,Female,No,Minnesota,3,Every 3 Months,PayPal
+3411,50,Female,No,Ohio,38,Bi-Weekly,PayPal
+3412,29,Female,No,New York,45,Weekly,Venmo
+3413,61,Female,No,Indiana,31,Quarterly,Credit Card
+3414,34,Female,No,Delaware,16,Bi-Weekly,Cash
+3415,27,Female,No,Connecticut,3,Quarterly,Venmo
+3416,38,Female,No,New York,15,Annually,Credit Card
+3417,25,Female,No,Alabama,11,Every 3 Months,PayPal
+3418,54,Female,No,Massachusetts,22,Fortnightly,PayPal
+3419,53,Female,No,South Carolina,35,Annually,Cash
+3420,23,Female,No,West Virginia,5,Bi-Weekly,Venmo
+3421,19,Female,No,Kentucky,35,Bi-Weekly,Debit Card
+3422,57,Female,No,New Jersey,27,Weekly,PayPal
+3423,19,Female,No,New York,9,Monthly,Credit Card
+3424,33,Female,No,Massachusetts,21,Bi-Weekly,Venmo
+3425,33,Female,No,Florida,23,Monthly,Venmo
+3426,38,Female,No,Michigan,3,Bi-Weekly,Bank Transfer
+3427,47,Female,No,Oregon,31,Annually,PayPal
+3428,39,Female,No,Michigan,44,Annually,Bank Transfer
+3429,32,Female,No,Washington,20,Monthly,Debit Card
+3430,27,Female,No,Alaska,34,Weekly,Debit Card
+3431,67,Female,No,Montana,17,Every 3 Months,Credit Card
+3432,46,Female,No,New Mexico,20,Annually,Cash
+3433,36,Female,No,Connecticut,46,Every 3 Months,Credit Card
+3434,62,Female,No,Alaska,28,Annually,Cash
+3435,31,Female,No,Ohio,6,Fortnightly,PayPal
+3436,68,Female,No,Montana,50,Bi-Weekly,Debit Card
+3437,57,Female,No,Nebraska,41,Monthly,Venmo
+3438,22,Female,No,Oklahoma,50,Annually,Venmo
+3439,26,Female,No,Kentucky,33,Monthly,Debit Card
+3440,43,Female,No,Idaho,25,Quarterly,Cash
+3441,45,Female,No,Maryland,2,Weekly,Credit Card
+3442,64,Female,No,Tennessee,15,Annually,Debit Card
+3443,28,Female,No,Michigan,12,Weekly,Venmo
+3444,47,Female,No,Tennessee,28,Bi-Weekly,PayPal
+3445,53,Female,No,Rhode Island,12,Bi-Weekly,Cash
+3446,42,Female,No,Florida,3,Annually,Venmo
+3447,51,Female,No,Louisiana,20,Weekly,Debit Card
+3448,62,Female,No,Arkansas,3,Bi-Weekly,Debit Card
+3449,18,Female,No,Kentucky,32,Fortnightly,PayPal
+3450,48,Female,No,Kansas,35,Monthly,PayPal
+3451,20,Female,No,Vermont,31,Monthly,PayPal
+3452,32,Female,No,Nevada,13,Annually,Bank Transfer
+3453,26,Female,No,Oklahoma,3,Fortnightly,Credit Card
+3454,31,Female,No,Alabama,48,Bi-Weekly,Venmo
+3455,55,Female,No,Louisiana,15,Bi-Weekly,Cash
+3456,49,Female,No,Ohio,13,Annually,Bank Transfer
+3457,42,Female,No,Texas,21,Monthly,Bank Transfer
+3458,64,Female,No,Maryland,29,Fortnightly,Bank Transfer
+3459,68,Female,No,West Virginia,24,Quarterly,PayPal
+3460,68,Female,No,Ohio,21,Annually,Venmo
+3461,41,Female,No,Indiana,5,Bi-Weekly,Credit Card
+3462,51,Female,No,Wyoming,47,Quarterly,Venmo
+3463,44,Female,No,Michigan,34,Every 3 Months,Bank Transfer
+3464,27,Female,No,Maine,45,Fortnightly,Debit Card
+3465,36,Female,No,Utah,12,Annually,Debit Card
+3466,19,Female,No,Iowa,31,Weekly,Bank Transfer
+3467,49,Female,No,Maryland,43,Annually,Debit Card
+3468,18,Female,No,Texas,5,Annually,Bank Transfer
+3469,36,Female,No,Ohio,36,Quarterly,Credit Card
+3470,36,Female,No,North Dakota,12,Annually,Bank Transfer
+3471,19,Female,No,West Virginia,31,Bi-Weekly,Cash
+3472,43,Female,No,North Carolina,31,Bi-Weekly,Cash
+3473,31,Female,No,Georgia,15,Weekly,Bank Transfer
+3474,63,Female,No,Kansas,11,Weekly,Credit Card
+3475,41,Female,No,Maine,18,Monthly,PayPal
+3476,48,Female,No,South Carolina,9,Quarterly,Debit Card
+3477,68,Female,No,South Carolina,11,Weekly,Credit Card
+3478,53,Female,No,Kentucky,38,Bi-Weekly,PayPal
+3479,36,Female,No,Arizona,42,Quarterly,PayPal
+3480,46,Female,No,New York,41,Monthly,PayPal
+3481,21,Female,No,New Hampshire,45,Monthly,Cash
+3482,52,Female,No,Ohio,41,Bi-Weekly,Credit Card
+3483,66,Female,No,Hawaii,35,Weekly,Venmo
+3484,19,Female,No,Texas,21,Every 3 Months,Venmo
+3485,44,Female,No,Illinois,13,Bi-Weekly,Debit Card
+3486,50,Female,No,Massachusetts,23,Fortnightly,Debit Card
+3487,51,Female,No,North Carolina,6,Weekly,Debit Card
+3488,25,Female,No,West Virginia,39,Annually,Debit Card
+3489,62,Female,No,Delaware,7,Quarterly,Cash
+3490,48,Female,No,Idaho,32,Every 3 Months,Bank Transfer
+3491,62,Female,No,Oregon,43,Quarterly,Venmo
+3492,22,Female,No,Maine,15,Monthly,Bank Transfer
+3493,48,Female,No,South Dakota,48,Annually,PayPal
+3494,48,Female,No,New Mexico,35,Weekly,Cash
+3495,62,Female,No,Washington,41,Quarterly,Credit Card
+3496,24,Female,No,Georgia,14,Weekly,Debit Card
+3497,39,Female,No,Idaho,22,Monthly,Cash
+3498,35,Female,No,Colorado,16,Every 3 Months,PayPal
+3499,47,Female,No,Kentucky,2,Bi-Weekly,PayPal
+3500,22,Female,No,New Jersey,13,Every 3 Months,Bank Transfer
+3501,38,Female,No,Oregon,38,Fortnightly,Credit Card
+3502,53,Female,No,Nebraska,43,Weekly,Bank Transfer
+3503,31,Female,No,Massachusetts,26,Quarterly,Bank Transfer
+3504,31,Female,No,Nebraska,39,Weekly,Cash
+3505,65,Female,No,Hawaii,50,Monthly,Bank Transfer
+3506,48,Female,No,Indiana,40,Every 3 Months,Cash
+3507,18,Female,No,Illinois,12,Fortnightly,Venmo
+3508,46,Female,No,Colorado,33,Every 3 Months,Bank Transfer
+3509,52,Female,No,Pennsylvania,49,Weekly,Venmo
+3510,50,Female,No,Ohio,43,Bi-Weekly,Cash
+3511,49,Female,No,Pennsylvania,14,Monthly,Credit Card
+3512,69,Female,No,Mississippi,21,Every 3 Months,Venmo
+3513,36,Female,No,Kentucky,31,Quarterly,Bank Transfer
+3514,30,Female,No,Alaska,29,Fortnightly,Bank Transfer
+3515,25,Female,No,Georgia,32,Monthly,Venmo
+3516,19,Female,No,South Dakota,16,Bi-Weekly,PayPal
+3517,34,Female,No,South Carolina,38,Bi-Weekly,Venmo
+3518,29,Female,No,Tennessee,34,Every 3 Months,Debit Card
+3519,50,Female,No,Colorado,30,Quarterly,Bank Transfer
+3520,31,Female,No,Wisconsin,14,Fortnightly,Credit Card
+3521,41,Female,No,Georgia,33,Monthly,PayPal
+3522,52,Female,No,Maryland,35,Weekly,Credit Card
+3523,27,Female,No,New Jersey,13,Quarterly,Bank Transfer
+3524,49,Female,No,Nevada,30,Fortnightly,PayPal
+3525,69,Female,No,Michigan,30,Monthly,Credit Card
+3526,45,Female,No,Wyoming,47,Annually,PayPal
+3527,20,Female,No,Massachusetts,1,Every 3 Months,PayPal
+3528,25,Female,No,Washington,1,Weekly,Cash
+3529,38,Female,No,Maine,33,Annually,Cash
+3530,55,Female,No,Montana,43,Weekly,Credit Card
+3531,62,Female,No,Oklahoma,37,Weekly,Bank Transfer
+3532,54,Female,No,North Dakota,23,Quarterly,Credit Card
+3533,61,Female,No,Connecticut,12,Annually,Credit Card
+3534,50,Female,No,Texas,30,Fortnightly,Venmo
+3535,65,Female,No,Delaware,7,Weekly,Venmo
+3536,68,Female,No,Mississippi,20,Monthly,Bank Transfer
+3537,55,Female,No,Minnesota,10,Monthly,Venmo
+3538,57,Female,No,Georgia,40,Every 3 Months,Venmo
+3539,56,Female,No,Iowa,21,Monthly,Venmo
+3540,29,Female,No,New York,17,Bi-Weekly,Venmo
+3541,24,Female,No,Nevada,5,Weekly,Bank Transfer
+3542,59,Female,No,Virginia,22,Annually,Cash
+3543,62,Female,No,Idaho,5,Weekly,Bank Transfer
+3544,58,Female,No,Colorado,18,Every 3 Months,Credit Card
+3545,64,Female,No,Wisconsin,42,Every 3 Months,PayPal
+3546,48,Female,No,Connecticut,22,Annually,Venmo
+3547,60,Female,No,Kansas,37,Bi-Weekly,Bank Transfer
+3548,52,Female,No,Pennsylvania,23,Annually,Debit Card
+3549,63,Female,No,Utah,47,Fortnightly,Venmo
+3550,44,Female,No,Oregon,11,Fortnightly,Credit Card
+3551,63,Female,No,West Virginia,32,Weekly,Venmo
+3552,66,Female,No,Montana,20,Weekly,Credit Card
+3553,22,Female,No,Kentucky,3,Quarterly,Credit Card
+3554,62,Female,No,Minnesota,32,Weekly,Cash
+3555,39,Female,No,Louisiana,5,Fortnightly,Bank Transfer
+3556,25,Female,No,Delaware,45,Quarterly,PayPal
+3557,70,Female,No,Arizona,43,Bi-Weekly,Bank Transfer
+3558,52,Female,No,Nevada,1,Every 3 Months,PayPal
+3559,68,Female,No,Alaska,9,Quarterly,Credit Card
+3560,18,Female,No,Utah,13,Every 3 Months,Debit Card
+3561,18,Female,No,Kansas,5,Annually,Cash
+3562,63,Female,No,North Carolina,39,Fortnightly,Cash
+3563,47,Female,No,Maryland,7,Weekly,PayPal
+3564,43,Female,No,Maine,8,Every 3 Months,Credit Card
+3565,60,Female,No,Illinois,40,Annually,PayPal
+3566,49,Female,No,Pennsylvania,35,Monthly,Cash
+3567,28,Female,No,Alaska,14,Monthly,Credit Card
+3568,32,Female,No,New Mexico,26,Monthly,Venmo
+3569,29,Female,No,Arkansas,14,Quarterly,Cash
+3570,35,Female,No,Alaska,9,Fortnightly,Credit Card
+3571,23,Female,No,Louisiana,32,Annually,PayPal
+3572,70,Female,No,North Dakota,15,Every 3 Months,Cash
+3573,23,Female,No,Rhode Island,25,Monthly,Bank Transfer
+3574,43,Female,No,Connecticut,27,Monthly,Cash
+3575,29,Female,No,New York,39,Quarterly,Cash
+3576,61,Female,No,Kentucky,49,Bi-Weekly,Cash
+3577,29,Female,No,Maine,12,Bi-Weekly,Cash
+3578,66,Female,No,Missouri,13,Weekly,PayPal
+3579,46,Female,No,Georgia,22,Quarterly,Credit Card
+3580,34,Female,No,Arizona,19,Every 3 Months,Bank Transfer
+3581,51,Female,No,New Hampshire,3,Bi-Weekly,Bank Transfer
+3582,26,Female,No,Georgia,50,Weekly,Venmo
+3583,23,Female,No,California,15,Annually,Cash
+3584,52,Female,No,Arizona,44,Every 3 Months,Debit Card
+3585,39,Female,No,Florida,48,Monthly,Debit Card
+3586,39,Female,No,New York,4,Bi-Weekly,Cash
+3587,33,Female,No,Idaho,12,Bi-Weekly,PayPal
+3588,33,Female,No,Virginia,33,Annually,Debit Card
+3589,23,Female,No,Michigan,40,Annually,Bank Transfer
+3590,31,Female,No,New Hampshire,38,Every 3 Months,Cash
+3591,27,Female,No,South Dakota,19,Every 3 Months,PayPal
+3592,48,Female,No,South Dakota,38,Quarterly,Cash
+3593,61,Female,No,New Jersey,18,Fortnightly,Cash
+3594,63,Female,No,Wyoming,24,Monthly,Bank Transfer
+3595,19,Female,No,Alabama,29,Quarterly,PayPal
+3596,21,Female,No,South Dakota,14,Annually,Cash
+3597,28,Female,No,South Carolina,44,Fortnightly,Bank Transfer
+3598,29,Female,No,New Mexico,18,Quarterly,Cash
+3599,23,Female,No,Connecticut,19,Bi-Weekly,Bank Transfer
+3600,37,Female,No,Kansas,4,Weekly,Cash
+3601,67,Female,No,South Carolina,25,Bi-Weekly,PayPal
+3602,34,Female,No,North Carolina,3,Monthly,Debit Card
+3603,58,Female,No,Wyoming,40,Quarterly,Bank Transfer
+3604,45,Female,No,Louisiana,5,Weekly,Debit Card
+3605,63,Female,No,Louisiana,17,Annually,Bank Transfer
+3606,68,Female,No,Alabama,36,Every 3 Months,Venmo
+3607,41,Female,No,Minnesota,41,Annually,Cash
+3608,50,Female,No,New Mexico,20,Bi-Weekly,Debit Card
+3609,24,Female,No,Tennessee,2,Every 3 Months,Bank Transfer
+3610,21,Female,No,New Mexico,31,Monthly,Debit Card
+3611,18,Female,No,Texas,23,Fortnightly,Credit Card
+3612,63,Female,No,Washington,30,Annually,PayPal
+3613,47,Female,No,Michigan,26,Every 3 Months,Credit Card
+3614,58,Female,No,Minnesota,40,Annually,Cash
+3615,46,Female,No,Delaware,19,Annually,Bank Transfer
+3616,35,Female,No,California,4,Monthly,Bank Transfer
+3617,42,Female,No,Wisconsin,33,Fortnightly,Cash
+3618,48,Female,No,Kentucky,29,Monthly,Debit Card
+3619,28,Female,No,Nevada,47,Bi-Weekly,Venmo
+3620,44,Female,No,North Carolina,50,Weekly,Cash
+3621,60,Female,No,Louisiana,28,Fortnightly,Credit Card
+3622,38,Female,No,New Jersey,5,Fortnightly,Venmo
+3623,46,Female,No,Wisconsin,12,Annually,Bank Transfer
+3624,39,Female,No,Arkansas,4,Weekly,Venmo
+3625,22,Female,No,Texas,22,Bi-Weekly,PayPal
+3626,44,Female,No,Illinois,32,Weekly,Debit Card
+3627,69,Female,No,Mississippi,32,Quarterly,Bank Transfer
+3628,39,Female,No,Delaware,48,Every 3 Months,Credit Card
+3629,53,Female,No,Georgia,35,Monthly,Cash
+3630,52,Female,No,Kansas,44,Fortnightly,Credit Card
+3631,65,Female,No,Oklahoma,29,Weekly,Credit Card
+3632,48,Female,No,New Jersey,26,Monthly,Debit Card
+3633,27,Female,No,Utah,3,Quarterly,PayPal
+3634,39,Female,No,Montana,1,Bi-Weekly,Venmo
+3635,59,Female,No,Ohio,17,Annually,Bank Transfer
+3636,52,Female,No,Colorado,17,Fortnightly,Cash
+3637,50,Female,No,California,36,Weekly,PayPal
+3638,32,Female,No,Utah,32,Fortnightly,PayPal
+3639,40,Female,No,Kansas,50,Bi-Weekly,Credit Card
+3640,26,Female,No,Illinois,39,Annually,Venmo
+3641,47,Female,No,Minnesota,17,Monthly,Credit Card
+3642,51,Female,No,New York,39,Every 3 Months,Debit Card
+3643,47,Female,No,Arizona,5,Annually,Credit Card
+3644,53,Female,No,Tennessee,47,Annually,Bank Transfer
+3645,35,Female,No,Arkansas,18,Weekly,Cash
+3646,38,Female,No,Colorado,31,Every 3 Months,Credit Card
+3647,69,Female,No,Nevada,39,Fortnightly,Credit Card
+3648,47,Female,No,Kansas,12,Weekly,Cash
+3649,31,Female,No,New York,45,Bi-Weekly,Cash
+3650,68,Female,No,Minnesota,33,Fortnightly,Debit Card
+3651,51,Female,No,Ohio,3,Annually,Cash
+3652,20,Female,No,Arizona,5,Every 3 Months,Bank Transfer
+3653,27,Female,No,Kentucky,23,Monthly,Venmo
+3654,67,Female,No,Minnesota,39,Fortnightly,Debit Card
+3655,21,Female,No,Arkansas,10,Annually,Debit Card
+3656,20,Female,No,Wyoming,4,Bi-Weekly,Venmo
+3657,35,Female,No,North Dakota,18,Monthly,Debit Card
+3658,58,Female,No,Alabama,1,Every 3 Months,Bank Transfer
+3659,28,Female,No,Mississippi,18,Fortnightly,Cash
+3660,27,Female,No,Illinois,46,Annually,Bank Transfer
+3661,19,Female,No,Arkansas,13,Fortnightly,Venmo
+3662,63,Female,No,Kansas,5,Fortnightly,Cash
+3663,69,Female,No,Rhode Island,11,Weekly,Venmo
+3664,65,Female,No,Florida,49,Weekly,Cash
+3665,63,Female,No,Missouri,1,Fortnightly,Cash
+3666,28,Female,No,North Carolina,11,Quarterly,Credit Card
+3667,67,Female,No,Alabama,47,Every 3 Months,Credit Card
+3668,51,Female,No,Washington,20,Monthly,Credit Card
+3669,59,Female,No,Michigan,18,Annually,PayPal
+3670,25,Female,No,Washington,43,Quarterly,Credit Card
+3671,31,Female,No,Vermont,4,Every 3 Months,Cash
+3672,62,Female,No,Illinois,20,Quarterly,Bank Transfer
+3673,51,Female,No,New York,7,Monthly,Venmo
+3674,32,Female,No,Rhode Island,31,Fortnightly,Debit Card
+3675,35,Female,No,Washington,41,Fortnightly,Venmo
+3676,70,Female,No,Virginia,3,Monthly,Cash
+3677,19,Female,No,Wisconsin,16,Monthly,PayPal
+3678,32,Female,No,Michigan,43,Annually,Cash
+3679,56,Female,No,Texas,29,Fortnightly,Debit Card
+3680,53,Female,No,Idaho,5,Bi-Weekly,PayPal
+3681,22,Female,No,Iowa,30,Quarterly,Venmo
+3682,26,Female,No,Connecticut,33,Monthly,PayPal
+3683,42,Female,No,Wyoming,46,Bi-Weekly,Venmo
+3684,30,Female,No,Mississippi,17,Fortnightly,Bank Transfer
+3685,29,Female,No,Pennsylvania,47,Bi-Weekly,PayPal
+3686,47,Female,No,Tennessee,17,Bi-Weekly,PayPal
+3687,59,Female,No,Louisiana,17,Bi-Weekly,PayPal
+3688,34,Female,No,Arkansas,28,Every 3 Months,PayPal
+3689,52,Female,No,West Virginia,8,Monthly,Venmo
+3690,47,Female,No,South Carolina,8,Quarterly,Cash
+3691,24,Female,No,Kansas,4,Bi-Weekly,Venmo
+3692,63,Female,No,Michigan,24,Weekly,Credit Card
+3693,59,Female,No,Alabama,29,Fortnightly,Venmo
+3694,66,Female,No,South Dakota,10,Weekly,Debit Card
+3695,45,Female,No,Rhode Island,11,Bi-Weekly,Venmo
+3696,38,Female,No,Florida,18,Fortnightly,Bank Transfer
+3697,63,Female,No,Connecticut,26,Annually,Venmo
+3698,55,Female,No,Pennsylvania,39,Weekly,PayPal
+3699,25,Female,No,California,4,Annually,Credit Card
+3700,51,Female,No,Oklahoma,24,Weekly,Cash
+3701,28,Female,No,North Dakota,2,Every 3 Months,Credit Card
+3702,46,Female,No,New Mexico,36,Annually,Cash
+3703,58,Female,No,South Carolina,36,Weekly,PayPal
+3704,30,Female,No,Michigan,23,Every 3 Months,Bank Transfer
+3705,68,Female,No,Missouri,36,Quarterly,PayPal
+3706,28,Female,No,Colorado,2,Annually,PayPal
+3707,26,Female,No,Kansas,17,Bi-Weekly,Credit Card
+3708,35,Female,No,Illinois,19,Weekly,Bank Transfer
+3709,40,Female,No,South Carolina,41,Monthly,Bank Transfer
+3710,31,Female,No,Utah,27,Quarterly,Debit Card
+3711,60,Female,No,Hawaii,32,Fortnightly,PayPal
+3712,69,Female,No,Texas,33,Annually,Cash
+3713,51,Female,No,Oregon,24,Quarterly,Venmo
+3714,49,Female,No,Arizona,31,Every 3 Months,Cash
+3715,18,Female,No,New York,35,Weekly,Cash
+3716,63,Female,No,Nebraska,2,Monthly,Credit Card
+3717,57,Female,No,Vermont,42,Every 3 Months,Bank Transfer
+3718,45,Female,No,Maryland,47,Every 3 Months,Venmo
+3719,36,Female,No,Tennessee,44,Bi-Weekly,Credit Card
+3720,20,Female,No,Pennsylvania,8,Every 3 Months,Cash
+3721,21,Female,No,South Carolina,13,Quarterly,Debit Card
+3722,62,Female,No,Connecticut,10,Annually,Credit Card
+3723,23,Female,No,Kentucky,1,Fortnightly,PayPal
+3724,26,Female,No,Rhode Island,1,Monthly,Venmo
+3725,30,Female,No,Colorado,18,Annually,PayPal
+3726,18,Female,No,Oklahoma,2,Annually,Bank Transfer
+3727,47,Female,No,Idaho,36,Every 3 Months,Debit Card
+3728,41,Female,No,Maine,17,Bi-Weekly,Credit Card
+3729,62,Female,No,Vermont,1,Annually,Credit Card
+3730,28,Female,No,Rhode Island,50,Quarterly,Bank Transfer
+3731,46,Female,No,Florida,3,Bi-Weekly,Bank Transfer
+3732,54,Female,No,West Virginia,45,Quarterly,Credit Card
+3733,36,Female,No,Indiana,28,Annually,PayPal
+3734,25,Female,No,Illinois,6,Every 3 Months,Bank Transfer
+3735,38,Female,No,California,33,Every 3 Months,Venmo
+3736,38,Female,No,Massachusetts,29,Annually,Cash
+3737,42,Female,No,Idaho,2,Every 3 Months,Cash
+3738,19,Female,No,Kentucky,43,Bi-Weekly,Debit Card
+3739,34,Female,No,Delaware,48,Fortnightly,Credit Card
+3740,38,Female,No,Idaho,43,Weekly,Bank Transfer
+3741,42,Female,No,Virginia,26,Bi-Weekly,Cash
+3742,58,Female,No,Arizona,26,Bi-Weekly,Venmo
+3743,56,Female,No,Maryland,50,Bi-Weekly,Debit Card
+3744,62,Female,No,Idaho,36,Quarterly,Credit Card
+3745,24,Female,No,New Jersey,26,Fortnightly,Venmo
+3746,60,Female,No,Washington,2,Monthly,Bank Transfer
+3747,53,Female,No,Idaho,49,Monthly,Debit Card
+3748,26,Female,No,Rhode Island,32,Bi-Weekly,Credit Card
+3749,34,Female,No,Delaware,3,Annually,PayPal
+3750,24,Female,No,Alaska,38,Every 3 Months,Debit Card
+3751,42,Female,No,Arizona,5,Monthly,Debit Card
+3752,36,Female,No,Alabama,8,Every 3 Months,Cash
+3753,24,Female,No,Washington,43,Weekly,Debit Card
+3754,39,Female,No,Louisiana,22,Fortnightly,Bank Transfer
+3755,46,Female,No,Nebraska,10,Every 3 Months,PayPal
+3756,64,Female,No,Pennsylvania,26,Monthly,Bank Transfer
+3757,64,Female,No,South Carolina,42,Bi-Weekly,Credit Card
+3758,61,Female,No,California,33,Weekly,Debit Card
+3759,61,Female,No,Indiana,23,Quarterly,Cash
+3760,44,Female,No,Missouri,30,Quarterly,Credit Card
+3761,65,Female,No,Connecticut,36,Weekly,PayPal
+3762,60,Female,No,Nevada,3,Every 3 Months,Venmo
+3763,65,Female,No,New York,13,Annually,Venmo
+3764,27,Female,No,Oklahoma,38,Every 3 Months,PayPal
+3765,36,Female,No,South Dakota,19,Monthly,PayPal
+3766,22,Female,No,Missouri,14,Bi-Weekly,Cash
+3767,62,Female,No,Texas,43,Annually,Cash
+3768,59,Female,No,New York,10,Fortnightly,Venmo
+3769,50,Female,No,Vermont,34,Quarterly,PayPal
+3770,51,Female,No,Arizona,31,Annually,Cash
+3771,23,Female,No,Montana,34,Weekly,Credit Card
+3772,21,Female,No,Oklahoma,28,Bi-Weekly,Bank Transfer
+3773,44,Female,No,New Hampshire,35,Annually,Cash
+3774,25,Female,No,Wisconsin,41,Quarterly,Bank Transfer
+3775,57,Female,No,Alaska,48,Fortnightly,Venmo
+3776,41,Female,No,South Dakota,45,Quarterly,Debit Card
+3777,19,Female,No,Alaska,10,Fortnightly,Debit Card
+3778,43,Female,No,Utah,9,Weekly,Debit Card
+3779,25,Female,No,South Dakota,30,Annually,PayPal
+3780,60,Female,No,California,45,Annually,Venmo
+3781,54,Female,No,Mississippi,41,Quarterly,Bank Transfer
+3782,52,Female,No,Tennessee,40,Fortnightly,Venmo
+3783,40,Female,No,Alabama,42,Fortnightly,Cash
+3784,39,Female,No,Maine,17,Fortnightly,Cash
+3785,54,Female,No,Virginia,4,Annually,Cash
+3786,64,Female,No,New Hampshire,6,Monthly,Debit Card
+3787,31,Female,No,Tennessee,22,Weekly,Venmo
+3788,37,Female,No,New York,46,Every 3 Months,PayPal
+3789,43,Female,No,Kansas,27,Monthly,Cash
+3790,56,Female,No,North Dakota,18,Every 3 Months,Debit Card
+3791,27,Female,No,Alaska,31,Weekly,Venmo
+3792,40,Female,No,Texas,1,Weekly,Credit Card
+3793,43,Female,No,Massachusetts,2,Fortnightly,Credit Card
+3794,62,Female,No,Delaware,46,Annually,Cash
+3795,44,Female,No,South Dakota,27,Weekly,Debit Card
+3796,45,Female,No,Arkansas,3,Weekly,Bank Transfer
+3797,40,Female,No,Utah,47,Quarterly,Credit Card
+3798,68,Female,No,California,20,Quarterly,Venmo
+3799,63,Female,No,Rhode Island,23,Annually,Credit Card
+3800,60,Female,No,Oklahoma,13,Monthly,PayPal
+3801,19,Female,No,Vermont,12,Bi-Weekly,Venmo
+3802,26,Female,No,Kentucky,36,Fortnightly,PayPal
+3803,70,Female,No,Illinois,1,Monthly,Bank Transfer
+3804,48,Female,No,Connecticut,14,Weekly,Credit Card
+3805,37,Female,No,Florida,45,Annually,Venmo
+3806,48,Female,No,New Jersey,31,Quarterly,Debit Card
+3807,18,Female,No,Missouri,41,Weekly,Cash
+3808,38,Female,No,Michigan,36,Annually,PayPal
+3809,33,Female,No,Washington,6,Bi-Weekly,Venmo
+3810,57,Female,No,New York,28,Annually,Bank Transfer
+3811,46,Female,No,Wisconsin,29,Monthly,Debit Card
+3812,46,Female,No,Idaho,14,Monthly,Venmo
+3813,50,Female,No,Michigan,7,Every 3 Months,PayPal
+3814,61,Female,No,Georgia,31,Bi-Weekly,Credit Card
+3815,45,Female,No,Michigan,26,Every 3 Months,Credit Card
+3816,32,Female,No,Maine,12,Fortnightly,Venmo
+3817,29,Female,No,Maryland,45,Fortnightly,Debit Card
+3818,66,Female,No,Missouri,40,Annually,Debit Card
+3819,70,Female,No,Oregon,42,Monthly,Credit Card
+3820,36,Female,No,Arkansas,45,Quarterly,PayPal
+3821,34,Female,No,New Hampshire,34,Quarterly,Credit Card
+3822,20,Female,No,Oregon,34,Every 3 Months,PayPal
+3823,70,Female,No,Kansas,17,Every 3 Months,Cash
+3824,50,Female,No,California,27,Weekly,Bank Transfer
+3825,54,Female,No,Georgia,31,Quarterly,Credit Card
+3826,49,Female,No,Hawaii,47,Fortnightly,Bank Transfer
+3827,50,Female,No,Montana,25,Annually,Bank Transfer
+3828,62,Female,No,Montana,47,Fortnightly,Cash
+3829,42,Female,No,Mississippi,8,Weekly,Venmo
+3830,69,Female,No,Washington,32,Fortnightly,Credit Card
+3831,22,Female,No,Pennsylvania,33,Every 3 Months,PayPal
+3832,36,Female,No,Nevada,16,Every 3 Months,Venmo
+3833,64,Female,No,Kansas,27,Weekly,PayPal
+3834,44,Female,No,Arizona,17,Every 3 Months,Cash
+3835,43,Female,No,Tennessee,17,Quarterly,Debit Card
+3836,58,Female,No,Pennsylvania,28,Bi-Weekly,Credit Card
+3837,62,Female,No,Alaska,38,Fortnightly,Venmo
+3838,45,Female,No,New Mexico,33,Fortnightly,Debit Card
+3839,47,Female,No,Rhode Island,24,Every 3 Months,Bank Transfer
+3840,66,Female,No,Connecticut,14,Quarterly,PayPal
+3841,30,Female,No,Idaho,5,Fortnightly,Debit Card
+3842,68,Female,No,Mississippi,8,Monthly,Cash
+3843,35,Female,No,Colorado,42,Monthly,Cash
+3844,64,Female,No,Georgia,48,Every 3 Months,Venmo
+3845,30,Female,No,Montana,40,Quarterly,Credit Card
+3846,58,Female,No,California,46,Annually,Venmo
+3847,57,Female,No,Pennsylvania,40,Every 3 Months,Credit Card
+3848,60,Female,No,Delaware,31,Fortnightly,Credit Card
+3849,22,Female,No,New Hampshire,39,Every 3 Months,Bank Transfer
+3850,46,Female,No,Florida,36,Fortnightly,Venmo
+3851,27,Female,No,Mississippi,25,Every 3 Months,Credit Card
+3852,50,Female,No,Montana,24,Annually,Credit Card
+3853,65,Female,No,Mississippi,19,Weekly,Credit Card
+3854,61,Female,No,Tennessee,49,Bi-Weekly,Bank Transfer
+3855,57,Female,No,Florida,4,Annually,Venmo
+3856,40,Female,No,Illinois,36,Quarterly,Debit Card
+3857,39,Female,No,Virginia,8,Quarterly,PayPal
+3858,42,Female,No,Texas,29,Every 3 Months,Debit Card
+3859,30,Female,No,Missouri,26,Quarterly,PayPal
+3860,65,Female,No,Mississippi,47,Bi-Weekly,Credit Card
+3861,57,Female,No,Pennsylvania,44,Annually,Credit Card
+3862,64,Female,No,Wyoming,49,Monthly,Venmo
+3863,56,Female,No,Idaho,9,Monthly,PayPal
+3864,40,Female,No,New Hampshire,28,Fortnightly,Venmo
+3865,55,Female,No,Wyoming,1,Fortnightly,Bank Transfer
+3866,25,Female,No,Nebraska,28,Every 3 Months,Cash
+3867,58,Female,No,Alaska,33,Fortnightly,Venmo
+3868,46,Female,No,Maryland,28,Monthly,Cash
+3869,18,Female,No,Maryland,9,Annually,PayPal
+3870,26,Female,No,Arizona,28,Annually,Bank Transfer
+3871,61,Female,No,Ohio,19,Every 3 Months,Bank Transfer
+3872,55,Female,No,Minnesota,20,Every 3 Months,Credit Card
+3873,41,Female,No,New Hampshire,3,Monthly,Cash
+3874,42,Female,No,Louisiana,22,Weekly,PayPal
+3875,70,Female,No,Nevada,33,Bi-Weekly,Cash
+3876,63,Female,No,New Hampshire,21,Annually,Venmo
+3877,60,Female,No,Wisconsin,7,Annually,Bank Transfer
+3878,28,Female,No,Nevada,46,Monthly,Venmo
+3879,60,Female,No,South Carolina,24,Annually,Venmo
+3880,26,Female,No,Florida,6,Quarterly,Cash
+3881,42,Female,No,Massachusetts,40,Monthly,Credit Card
+3882,56,Female,No,Georgia,17,Weekly,PayPal
+3883,35,Female,No,North Dakota,24,Fortnightly,Credit Card
+3884,34,Female,No,North Dakota,22,Fortnightly,Bank Transfer
+3885,47,Female,No,Maryland,3,Weekly,Debit Card
+3886,49,Female,No,New Mexico,39,Quarterly,Venmo
+3887,37,Female,No,Iowa,40,Quarterly,Bank Transfer
+3888,40,Female,No,Kansas,1,Quarterly,PayPal
+3889,45,Female,No,Virginia,14,Bi-Weekly,Bank Transfer
+3890,57,Female,No,Alaska,49,Annually,Debit Card
+3891,35,Female,No,Nebraska,33,Annually,Credit Card
+3892,36,Female,No,Colorado,6,Quarterly,Cash
+3893,35,Female,No,Michigan,5,Fortnightly,Bank Transfer
+3894,21,Female,No,Massachusetts,29,Bi-Weekly,Bank Transfer
+3895,66,Female,No,Connecticut,44,Every 3 Months,Cash
+3896,40,Female,No,Virginia,32,Weekly,Cash
+3897,52,Female,No,Iowa,41,Bi-Weekly,PayPal
+3898,46,Female,No,New Jersey,24,Quarterly,Credit Card
+3899,44,Female,No,Minnesota,24,Weekly,PayPal
+3900,52,Female,No,California,33,Quarterly,Bank Transfer
